@@ -1,4 +1,6 @@
-﻿# On Arrival
+﻿<link href="../styles/custom.css" rel="stylesheet"></link>
+
+# On Arrival
 
 <input type="checkbox" /> Select as flat and level a parking site as possible. Use leveling blocks if
 required.<br/>

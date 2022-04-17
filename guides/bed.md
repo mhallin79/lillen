@@ -1,3 +1,5 @@
+<link href="../styles/custom.css" rel="stylesheet"></link>
+
 # Electric bed
 In the unfortunate event that the bed has stopped working please follow these 3 steps.
 
@@ -16,5 +18,6 @@ hatch at the rear on the right side (where the water hoses are stored).
 
 ## Manual Operation
 According to the electric bed manual, there is an option for manual operation of the bed. 
-It is a two-man job and it seem to be a complicated procedure. **Do not attempt this without 
-first contacting the owner or Camplify support.**
+It is a two-man job and it seem to be a complicated procedure. 
+
+> **Important!** Do not attempt this without first contacting the owner or Camplify support.

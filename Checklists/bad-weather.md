@@ -1,3 +1,5 @@
+<link href="../styles/custom.css" rel="stylesheet"></link>
+
 # Bad Weather
 Before bad weather arises, please ensure the following:
 
