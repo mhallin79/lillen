@@ -9,7 +9,7 @@ for offline use.
 - [Pre-Departure](Checklists/pre-departure.md) 
 - [On Arrival](Checklists/on-arrival.md)
 - [Pre-Returns](Checklists/pre-return.md)
-- [Battery and Water Control Panel](control-panel.md)
 
-## Troubleshooting Guides
+## Guides
+- [Battery and Water Control Panel](control-panel.md)
 - [Electric Bed](guides/bed.md)s
