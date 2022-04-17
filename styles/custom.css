@@ -9,3 +9,7 @@ input[type=checkbox] {
     /* Webkit browsers*/
     -webkit-transform: scale(2);
 }
+
+.checklist-label {
+    padding: 5px;
+}
