@@ -1,4 +1,3 @@
-![rv](https://www.avanspareparts.com.au/images/quick-links-motorhomes.png)
 
 ## Checklists
 
