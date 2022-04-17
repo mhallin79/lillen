@@ -12,4 +12,4 @@ for offline use.
 
 ## Guides
 - [Battery and Water Control Panel](control-panel.md)
-- [Electric Bed](guides/bed.md)s
+- [Electric Bed](guides/bed.md)
