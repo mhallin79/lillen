@@ -8,8 +8,9 @@ for offline use.
 
 - [Pre-Departure](Checklists/pre-departure.md) 
 - [On Arrival](Checklists/on-arrival.md)
-- [Pre-Returns](Checklists/pre-return.md)
+- [Pre-Return](Checklists/pre-return.md)
+- [Bad Weather](Checklists/bad-weather.md)
 
 ## Guides
-- [Battery and Water Control Panel](control-panel.md)
+- [Battery and Water Control Panel](guides/control-panel.md)
 - [Electric Bed](guides/bed.md)

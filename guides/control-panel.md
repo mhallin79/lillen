@@ -3,9 +3,9 @@ The Battery and Water Control Panel is located near the main door.
 
 As a rule of thumb, while stationary button 1-4  should be switched ON.
 
-**Important!** All buttons must be switched OFF while driving.
+>**Important!** All buttons must be switched OFF while driving.
 
-![control panel](images/control-panel.png)
+![control panel](../images/control-panel.png)
 
 ##### LEGEND
 1. Main battery button
