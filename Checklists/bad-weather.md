@@ -3,6 +3,7 @@
 # Bad Weather
 Before bad weather arises, please ensure the following:
 
+<hr />
 <input type="checkbox" id="awning" /><label for="awning"> Ensure awning is packed away</label>
 <hr />
 <input type="checkbox" id="sunroof" /><label for="sunroof"> Ensure sunroof hatch is closed. Including in the bathroom</label>
