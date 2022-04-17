@@ -14,7 +14,7 @@
 <input type="checkbox" /> Ensure that the hot water heater is off<br/>
 <span style="margin-left: 25px">*(Buttons are located on the left-hand side back lounge area)*</span><br/>
 <input type="checkbox" /> Ensure that the diesel heater is off *if applicable*<br/>
-*(Dial is located on the left-hand side back lounge area)<br/>*
+<span style="margin-left: 25px">*(Dial is located on the left-hand side back lounge area)*</span><br/>
 <input type="checkbox" /> Disconnect 240v electricity *if applicable*<br/>
 <input type="checkbox" /> Disconnect city water *if applicable*<br/>
 <input type="checkbox" /> Disconnect grey water *if applicable*<br/>
