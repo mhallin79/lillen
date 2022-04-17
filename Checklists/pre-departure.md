@@ -8,7 +8,7 @@
 <input type="checkbox" /> Ensure bike rack is secure<br/>
 <input type="checkbox" /> Ensure that Button 1-4 on the [Battery and Water Control Panel](../guides/control-panel.md) are off<br/>
 <input type="checkbox" /> Ensure that the hot water heater is off<br/>
-*(Buttons are located on the left-hand side back lounge area)<br/>*
+<span style="margin-left: 25px">*(Buttons are located on the left-hand side back lounge area)*</span>
 <input type="checkbox" /> Ensure that the diesel heater is off *if applicable*<br/>
 *(Dial is located on the left-hand side back lounge area)<br/>*
 <input type="checkbox" /> Disconnect 240v electricity *if applicable*<br/>
