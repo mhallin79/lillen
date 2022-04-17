@@ -2,7 +2,9 @@
 
 ## Checklists
 
-All checklists are available in a combined offline [PDF version](docs/Lillen%20Checklist.pdf)
+All checklists are available both online in a easy checkbox list 
+format and also in a combined [PDF version](docs/Lillen%20Checklist.pdf) 
+for offline use.
 
 - [Pre-Departure](Checklists/PreDeparture.md) 
 - [On Arrival](Checklists/OnArrival.md)
