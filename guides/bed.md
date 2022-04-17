@@ -1,6 +1,6 @@
 <link href="../styles/custom.css" rel="stylesheet" />
 
-# Electric bed
+# Electric Bed
 In the unfortunate event that the bed has stopped working please follow these 3 steps.
 
 ## Step 1 - House Power Enabled 
