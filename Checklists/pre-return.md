@@ -1,3 +1,5 @@
+<link href="../styles/custom.css" rel="stylesheet" />
+
 # Pre-Return
 
 <input type="checkbox" /> Full Tank of Diesel<br/>

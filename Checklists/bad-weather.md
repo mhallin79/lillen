@@ -1,4 +1,4 @@
-<link href="../styles/custom.css" rel="stylesheet"></link>
+<link href="../styles/custom.css" rel="stylesheet" />
 
 # Bad Weather
 Before bad weather arises, please ensure the following:

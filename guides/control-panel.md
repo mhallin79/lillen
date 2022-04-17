@@ -1,4 +1,4 @@
-<link href="../styles/custom.css" rel="stylesheet"></link>
+<link href="../styles/custom.css" rel="stylesheet" />
 
 # Battery and Water Control Panel
 The Battery and Water Control Panel is located near the main door. 

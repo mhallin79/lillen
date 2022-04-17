@@ -1,4 +1,4 @@
-<link href="../styles/custom.css" rel="stylesheet"></link>
+<link href="../styles/custom.css" rel="stylesheet" />
 
 # Electric bed
 In the unfortunate event that the bed has stopped working please follow these 3 steps.

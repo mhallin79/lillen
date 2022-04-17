@@ -1,4 +1,4 @@
-﻿<link href="../styles/custom.css" rel="stylesheet"></link>
+﻿<link href="../styles/custom.css" rel="stylesheet" />
 
 # On Arrival
 

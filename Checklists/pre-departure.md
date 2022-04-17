@@ -1,3 +1,5 @@
+<link href="../styles/custom.css" rel="stylesheet" />
+
 # Pre-Departure
 
 <input type="checkbox" /> Ensure that the rooftop tv antenna is retracted and secured <br/>
