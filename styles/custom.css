@@ -10,3 +10,7 @@ input[type=checkbox] {
     -webkit-transform: scale(2);
     margin-right: 10px;
 }
+
+.markdown-body hr {
+    height: 0.1em;
+}
