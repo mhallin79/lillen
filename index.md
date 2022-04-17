@@ -8,3 +8,4 @@ All checklists are available in a combined offline [PDF version](Checklists/Lill
 
 
 ## Troubleshooting Guides
+- [Electric Bed](Checklists/PreDeparture.md)
