@@ -6,7 +6,7 @@ required.<br/>
 <input type="checkbox" /> Connect city water *if applicable*<br/>
 <input type="checkbox" /> Connect grey water *if applicable*<br/>
 <input type="checkbox" /> Ensure LPG gas bottle is open<br/>
-<input type="checkbox" /> Turn on button 1-3 on the Battery and Water Control Panel.<br/>
+<input type="checkbox" /> Turn on button 1-3 on the [Battery and Water Control Panel](../control-panel.md).<br/>
 <input type="checkbox" /> Turn the water pump on, if not connected to city water.<br/>
 <input type="checkbox" /> Turn the hot water heater on using either 240v or LPG gas.<br/>
 <input type="checkbox" /> Ensure the refrigerator (in auto mode) switch to either 240v or LPG gas.<br/>
