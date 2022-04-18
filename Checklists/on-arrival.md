@@ -19,3 +19,6 @@ required.</label>
 > **Please note!** If using LPG gas, it can take up **20 minutes** before the fridge turns on. 
 >
 > The refrigerator must be level and will not operate if not parked on a flat surface.
+
+
+:arrow_backward: [Pre-Departure](pre-departure.md) | [Pre-Return](pre-return.md) :arrow_forward:

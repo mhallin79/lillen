@@ -16,8 +16,10 @@
 <label for="grey-water" class="alt"><input type="checkbox" id="grey-water"/> Disconnect grey water *if applicable*</label>
 <label for="lpg"><input type="checkbox" id="lpg"/> Ensure LPG gas bottles are turned off</label>
 <label for="windows" class="alt"><input type="checkbox" id="windows"/> Ensure that the windows are securely closed and locked</label>
-<label for="kitchen"><input type="checkbox" id="kitchen"/> Ensure everything in the kitchen have been put away and is rattle-proof</label>
+<label for="kitchen"><input type="checkbox" id="kitchen"/> Ensure everything in the kitchen has been put away and is rattle-proof</label>
 <label for="doors" class="alt"><input type="checkbox" id="doors"/> Secure all drawers and doors</label>
 <label for="lose-objects"><input type="checkbox" id="lose-objects"/> Secure all loose objects for travel</label>
 <label for="start-engine" class="alt"><input type="checkbox" id="start-engine"/> Start the engine for warm up</label>
 <label for="refrigerator"><input type="checkbox" id="refrigerator"/> Ensure that the refrigerator (in auto mode) has shifted back 12v</label>
+
+[On Arrival](on-arrival.md) :arrow_forward:

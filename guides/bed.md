@@ -7,7 +7,7 @@ In the unfortunate event that the bed has stopped working please follow these 3 
 First check that button 1 and 2 on the [Battery and Water Control Panel](control-panel.md) are turned on.
 
 ## Step 2 - Electrical Cable Connectors
-Secondary, check that the electrical cables that hang down on the inside of the storage 
+Second, check that the electrical cables that hang down on the inside of the storage 
 hatch on the left rear side are properly connected. It's easy to accidentally knock them out 
 when removing the camping chairs and other large objects.
 
