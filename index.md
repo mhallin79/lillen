@@ -1,6 +1,5 @@
 <link href="styles/custom.css" rel="stylesheet" />
-
-![rv](https://www.avanspareparts.com.au/images/quick-links-motorhomes.png)
+<img class="center" src="https://www.avanspareparts.com.au/images/quick-links-motorhomes.png" />
 <h1 class="title">LILLEN CHECKLISTS</h1>
 <h2 class="subtitle">AND GUIDES</h2>
 
