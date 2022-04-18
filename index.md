@@ -18,3 +18,4 @@ for offline use.
 ## Guides
 ### [Battery and Water Control Panel](guides/control-panel.md)
 ### [Electric Bed](guides/bed.md)
+### [15A to 10A Power Adaptor](guides/power-adaptor.md)
