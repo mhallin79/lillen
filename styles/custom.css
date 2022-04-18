@@ -39,14 +39,16 @@ label {
 
 .title {
     color: #4472C4;
-    border-bottom: unset;
+    border-bottom: unset !important;
+    margin-top: unset !important;
+    margin-bottom: unset !important;
     font-weight: normal;
     text-align: center;
 }
 
 .subtitle {
     color: #A6A6A6;
-    border-bottom: unset;
+    border-bottom: unset !important;
     font-weight: normal;
     text-align: center;
 }

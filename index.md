@@ -3,11 +3,11 @@
 <h1 class="title">LILLEN CHECKLISTS</h1>
 <h2 class="subtitle">AND GUIDES</h2>
 
-## Checklists
-
-All checklists are available both online in a easy checkbox list 
+All checklists and guides are available both online in a easy checkbox list 
 format and also in a combined [PDF version](docs/lillen-checklist.pdf) 
 for offline use.
+
+## Checklists
 
 ### [Pre-Departure](Checklists/pre-departure.md) 
 ### [On Arrival](Checklists/on-arrival.md)
