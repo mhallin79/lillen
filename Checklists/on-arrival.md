@@ -4,7 +4,8 @@
 
 <label for="parking" class="top"><input type="checkbox" id="parking"/> Select as flat and level a parking site as possible. Use leveling blocks if
 required.</label>
-<label for="power" class="alt"><input type="checkbox" id="power"/> Connect 240v electricity *if applicable*</label>
+<label for="power" class="alt"><input type="checkbox" id="power"/> Connect 240v electricity *if applicable*<br />
+*Check if [15A to 10A Power Adaptor](../guides/power-adaptor.md) is required.*</label>
 <label for="city-water"><input type="checkbox" id="city-water"/> Connect city water *if applicable*</label>
 <label for="grey-water" class="alt"><input type="checkbox" id="grey-water"/> Connect grey water *if applicable*</label>
 <label for="lpg"><input type="checkbox" id="lpg"/> Ensure LPG gas bottle is open</label>
