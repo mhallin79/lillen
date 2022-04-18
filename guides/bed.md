@@ -20,4 +20,4 @@ hatch at the rear on the right side (where the water hoses are stored).
 According to the electric bed manual, there is an option for manual operation of the bed. 
 It is a two-man job and it seem to be a complicated procedure. 
 
-> **Important!** Do not attempt this without first contacting the owner or Camplify support.
+> **Important!** Do not attempt manual operation without first contacting the owner or Camplify support.
