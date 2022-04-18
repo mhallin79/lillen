@@ -97,3 +97,12 @@ button {
     transform: rotate(135deg);
     -webkit-transform: rotate(135deg);
 }
+
+.list-link {
+    font-size: 1.25em;
+    font-weight: 600;
+    display: block;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    line-height: 1.25;
+}

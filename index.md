@@ -10,10 +10,10 @@ for offline use.
 
 ## Checklists
 
-### [Pre-Departure](checklists/pre-departure.md)
-### [On Arrival](checklists/on-arrival.md)
-### [Pre-Return](checklists/pre-return.md)
-### [Bad Weather](checklists/bad-weather.md)
+[Pre-Departure](checklists/pre-departure.md){: .list-link}
+[On Arrival](checklists/on-arrival.md){: .list-link}
+[Pre-Return](checklists/pre-return.md){: .list-link}
+[Bad Weather](checklists/bad-weather.md){: .list-link}
 
 ## Guides
 ### [Battery and Water Control Panel](guides/control-panel.md)
