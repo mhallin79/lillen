@@ -23,5 +23,5 @@
 <label for="refrigerator"><input type="checkbox" id="refrigerator"/> Ensure that the refrigerator (in auto mode) has shifted back 12v</label>
 
 <a href="on-arrival.html" class="right">
-<button class="button-basic">On Arrival <i class="arrow arrow-right" /></button>
+<button class="nav-button">On Arrival <i class="arrow arrow-right" /></button>
 </a>

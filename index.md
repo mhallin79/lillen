@@ -1,6 +1,6 @@
 <link href="styles/custom.css" rel="stylesheet" />
 
-<img class="center" src="images/motorhomes.png" />
+<img class="img-center" src="images/motorhomes.png" />
 <h1 class="title">LILLEN CHECKLISTS</h1>
 <h2 class="subtitle">AND GUIDES</h2>
 

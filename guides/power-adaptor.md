@@ -7,3 +7,5 @@ It safely and legally connects the 15A power cable to 10A power point.
 Generally, if you book a powered site at a caravan park it will be equipped with a 15A power point. 
 
 However, if you are taking Lillen to stay at someones property they might only have 10A power points. 
+
+<a href="../index.html"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>

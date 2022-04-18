@@ -54,11 +54,15 @@ label {
     text-align: center;
 }
 
-.center {
+.img-center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.center {
+    text-align: center;
 }
 
 
@@ -66,7 +70,7 @@ button {
     margin-bottom: 3em;
 }
 
-.button-basic {
+.nav-button {
     background-color: #4b5052;
     border: 2px solid black;
     color: whitesmoke;
