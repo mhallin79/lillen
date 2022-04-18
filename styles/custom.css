@@ -97,3 +97,8 @@ button {
     transform: rotate(135deg);
     -webkit-transform: rotate(135deg);
 }
+
+.list {
+    margin-top: unset !important;
+    margin-bottom: unset !important;
+}

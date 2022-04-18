@@ -10,12 +10,12 @@ for offline use.
 
 ## Checklists
 
-### [Pre-Departure](Checklists/pre-departure.md) 
-### [On Arrival](Checklists/on-arrival.md)
-### [Pre-Return](Checklists/pre-return.md)
-### [Bad Weather](Checklists/bad-weather.md)
+### [Pre-Departure](checklists/pre-departure.md){: .list}
+### [On Arrival](checklists/on-arrival.md){: .list}
+### [Pre-Return](checklists/pre-return.md){: .list}
+### [Bad Weather](checklists/bad-weather.md){: .list}
 
 ## Guides
-### [Battery and Water Control Panel](guides/control-panel.md)
-### [Electric Bed](guides/bed.md)
-### [15A to 10A Power Adaptor](guides/power-adaptor.md)
+### [Battery and Water Control Panel](guides/control-panel.md){: .list}
+### [Electric Bed](guides/bed.md){: .list}
+### [15A to 10A Power Adaptor](guides/power-adaptor.md){: .list}
