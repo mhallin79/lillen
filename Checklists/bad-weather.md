@@ -1,14 +1,13 @@
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Bad Weather
-Before bad weather arises, please ensure the following:
-
-<hr />
-<input type="checkbox" id="awning" /><label for="awning"> Ensure awning is packed away</label>
-<hr />
-<input type="checkbox" id="sunroof" /><label for="sunroof"> Ensure sunroof hatch is closed. Including in the bathroom</label>
-<hr />
-<input type="checkbox" id="storage" /><label for="storage"> Ensure external storage hatches are closed</label>
-<hr />
+Before bad weather arises, please ensure the following.
 
 > **Important!** Do not leave awning out overnight or unattended.
+
+<div class="checklist">
+    <label for="awning"> <input type="checkbox" id="awning" />Ensure awning is packed away</label>
+    <label for="sunroof" style="alt"> <input type="checkbox" id="sunroof" />Ensure sunroof hatch is closed. Including in the bathroom</label>
+    <label for="storage"> <input type="checkbox" id="storage" />Ensure external storage hatches are closed</label>
+</div>
+
