@@ -2,9 +2,9 @@
 
 # Pre-Departure
 
-<label for="antenna" class="top"><input type="checkbox" id="antenna" />Ensure that the rooftop tv antenna is retracted and secured</label>
-<label for="awning" class="alt"><input type="checkbox" id="awning" />Ensure awning is retracted and secured properly</label>
-<label for="sunroof"> <input type="checkbox" id="sunroof" />Ensure sunroof hatch is closed. Including in the bathroom</label>
+<label for="antenna" class="top"><input type="checkbox" id="antenna" /> Ensure that the rooftop tv antenna is retracted and secured</label>
+<label for="awning" class="alt"><input type="checkbox" id="awning" /> Ensure awning is retracted and secured properly</label>
+<label for="sunroof"> <input type="checkbox" id="sunroof" /> Ensure sunroof hatch is closed. Including in the bathroom</label>
 <label for="bike-rack" class="alt"><input type="checkbox" id="bike-rack" /> Ensure bike rack is secure</label>
 <label for="control-panel"><input type="checkbox" id="control-panel" /> Ensure that Button 1-4 on the [Battery and Water Control Panel](../guides/control-panel.md) are off</label>
 <label for="water-heater" class="alt"><input type="checkbox" id="water-heater"  /> Ensure that the hot water heater is off<br/>
