@@ -16,6 +16,6 @@ for offline use.
 [Bad Weather](checklists/bad-weather.md){: .list-link}
 
 ## Guides
-### [Battery and Water Control Panel](guides/control-panel.md)
-### [Electric Bed](guides/bed.md)
-### [15A to 10A Power Adaptor](guides/power-adaptor.md)
+[Battery and Water Control Panel](guides/control-panel.md){: .list-link}
+[Electric Bed](guides/bed.md){: .list-link}
+[15A to 10A Power Adaptor](guides/power-adaptor.md){: .list-link}
