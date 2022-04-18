@@ -9,6 +9,6 @@ Before bad weather arises, please ensure the following.
 <label for="sunroof" class="alt"> <input type="checkbox" id="sunroof" /> Ensure sunroof hatch is closed. Including in the bathroom</label>
 <label for="storage"> <input type="checkbox" id="storage" /> Ensure external storage hatches are closed</label>
 
-<a href="pre-return.md">
+<a href="pre-return.html">
 <button class="button-basic"><i class="arrow arrow-left"></i> Pre-Return</button>
 </a>
