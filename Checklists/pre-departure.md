@@ -22,4 +22,4 @@
 <label for="start-engine" class="alt"><input type="checkbox" id="start-engine"/> Start the engine for warm up</label>
 <label for="refrigerator"><input type="checkbox" id="refrigerator"/> Ensure that the refrigerator (in auto mode) has shifted back 12v</label>
 
-[On Arrival](on-arrival.md) :arrow_forward:
+[On Arrival >](on-arrival.md) 
