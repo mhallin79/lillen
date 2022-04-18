@@ -29,13 +29,13 @@ label {
     font-size: larger;
 }
 
-.top {
-    border-top: 0.1em solid #e1e4e8;
-}
+    label:nth-child(2n) {
+        background: #f7f7f7;
+    }
 
-.alt {
-    background-color: #f7f7f7;
-}
+    label:first-child {
+        border-top: 0.1em solid #e1e4e8;
+    }
 
 .title {
     color: #4472C4;
