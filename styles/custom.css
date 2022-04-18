@@ -1,6 +1,7 @@
 .markdown-body blockquote {
     color: #3B3838;
     border-left: 0.25em solid #C00000;
+    font-size: larger;
 }
 
 input[type=checkbox] {
