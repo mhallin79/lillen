@@ -42,14 +42,15 @@ label {
     border-bottom: unset !important;
     margin-top: unset !important;
     margin-bottom: unset !important;
-    font-weight: normal;
+    font-weight: normal !important;
     text-align: center;
 }
 
 .subtitle {
     color: #A6A6A6;
+    margin-top: unset !important;
     border-bottom: unset !important;
-    font-weight: normal;
+    font-weight: normal !important;
     text-align: center;
 }
 
