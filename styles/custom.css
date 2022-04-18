@@ -36,3 +36,17 @@ label {
 .alt {
     background-color: #f7f7f7;
 }
+
+.title {
+    color: #4472C4;
+    border-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+}
+
+.subtitle {
+    color: #A6A6A6;
+    border-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+}
