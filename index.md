@@ -16,6 +16,6 @@ for offline use.
 <a href="checklists/bad-weather.html" class="list-link">Bad Weather</a></p>
 
 ## Guides
-<a href="/lillen/guides/control-panel.html" class="list-link">Battery and Water Control Panel</a>
-<a href="/lillen/guides/bed.html" class="list-link">Electric Bed</a>
-<a href="/lillen/guides/power-adaptor.html" class="list-link">15A to 10A Power Adaptor</a>
+<a href="guides/control-panel.html" class="list-link">Battery and Water Control Panel</a>
+<a href="guides/bed.html" class="list-link">Electric Bed</a>
+<a href="guides/power-adaptor.html" class="list-link">15A to 10A Power Adaptor</a>
