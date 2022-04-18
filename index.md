@@ -16,6 +16,7 @@ for offline use.
 [Bad Weather](checklists/bad-weather.md){: .list-link}
 
 ## Guides
+[15A to 10A Power Adaptor](guides/power-adaptor.md){: .list-link}
 [Battery and Water Control Panel](guides/control-panel.md){: .list-link}
 [Electric Bed](guides/bed.md){: .list-link}
-[15A to 10A Power Adaptor](guides/power-adaptor.md){: .list-link}
+[Nitrogen Tyre Inflation](guides/tyres.md){: .list-link}
