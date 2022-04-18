@@ -20,8 +20,8 @@ label {
     display: block;
     padding-top: 0.5em;
     padding-bottom: 0.5em;
-    padding-left: 2.5em;
-    text-indent: -2.5em;
+    padding-left: 3em;
+    text-indent: -3em;
     border-bottom: 0.1em solid #e1e4e8;
     font-size: larger;
 }
