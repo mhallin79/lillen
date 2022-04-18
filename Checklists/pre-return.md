@@ -6,8 +6,8 @@
 <label for="grey-water-tank"><input type="checkbox" id="grey-water-tank" /> Empty Grey Water Tank</label>
 
 <a href="on-arrival.md">
-    <button class="button-basic"><i class="arrow arrow-left"></i> On Arrival</button>
+<button class="button-basic"><i class="arrow arrow-left"></i> On Arrival</button>
 </a>
 <a href="bad-weather.md"  class="right">
-    <button class="button-basic">Bad Weather <i class="arrow arrow-right"></i></button>
+<button class="button-basic">Bad Weather <i class="arrow arrow-right"></i></button>
 </a>

@@ -10,5 +10,5 @@ Before bad weather arises, please ensure the following.
 <label for="storage"> <input type="checkbox" id="storage" /> Ensure external storage hatches are closed</label>
 
 <a href="pre-return.md">
-    <button class="button-basic"><i class="arrow arrow-left"></i> Pre-Return</button>
+<button class="button-basic"><i class="arrow arrow-left"></i> Pre-Return</button>
 </a>
