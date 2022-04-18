@@ -9,11 +9,10 @@ format and also in a combined [PDF version](docs/lillen-checklist.pdf)
 for offline use.
 
 ## Checklists
-
 <a href="checklists/pre-departure.html" class="list-link">Pre-Departure</a>
 <a href="checklists/on-arrival.html" class="list-link">On Arrival</a>
 <a href="checklists/pre-return.html" class="list-link">Pre-Return</a>
-<a href="checklists/bad-weather.html" class="list-link">Bad Weather</a></p>
+<a href="checklists/bad-weather.html" class="list-link">Bad Weather</a>
 
 ## Guides
 <a href="guides/control-panel.html" class="list-link">Battery and Water Control Panel</a>
