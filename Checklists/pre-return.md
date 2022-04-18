@@ -5,4 +5,9 @@
 <label for="toilet" class="alt"> <input type="checkbox" id="toilet" /> Empty Toilet Cassette</label>
 <label for="grey-water-tank"><input type="checkbox" id="grey-water-tank" /> Empty Grey Water Tank</label>
 
-[< On Arrival](on-arrival.md) - [Bad Weather >](bad-weather.md)
+<a href="on-arrival.md">
+    <button class="button-basic"><< On Arrival</button>
+</a>
+<a href="bad-weather.md"  class="right">
+    <button class="button-basic">Bad Weather >></button>
+</a>

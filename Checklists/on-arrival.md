@@ -21,4 +21,9 @@ required.</label>
 > The refrigerator must be level and will not operate if not parked on a flat surface.
 
 
-[< Pre-Departure](pre-departure.md) - [Pre-Return >](pre-return.md)
+<a href="pre-departure.md">
+    <button class="button-basic"><< Pre-Departure</button>
+</a>
+<a href="pre-return.md" class="right">
+    <button class="button-basic">Pre-Return >></button>
+</a>

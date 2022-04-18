@@ -60,3 +60,23 @@ label {
     margin-right: auto;
     width: 50%;
 }
+
+
+button {
+    margin-bottom: 3em;
+}
+
+.button-basic {
+    background-color: #4b5052;
+    border: 2px solid black;
+    color: whitesmoke;
+    padding: 0.5em;
+    text-align: center;
+    text-decoration: none;
+    font-size: 1em;
+    display: inline-block;
+}
+
+.right {
+    float: right;
+}
