@@ -2,7 +2,7 @@
 
 # Pre-Departure
 
-<label for="antenna"> <input type="checkbox" id="antenna" />Ensure that the rooftop tv antenna is retracted and secured</label>
+<label for="antenna"><input type="checkbox" id="antenna" />Ensure that the rooftop tv antenna is retracted and secured</label>
 <label for="awning"><input type="checkbox" id="awning" /> Ensure awning is retracted and secured properly</label>
 <label for="sunroof"> <input type="checkbox" id="sunroof" />Ensure sunroof hatch is closed. Including in the bathroom</label>
 <label for="bike-rack"><input type="checkbox" id="bike-rack" /> Ensure bike rack is secure</label>
