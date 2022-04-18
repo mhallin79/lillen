@@ -10,12 +10,12 @@ for offline use.
 
 ## Checklists
 
-[Pre-Departure](checklists/pre-departure.md){: .list-link}
-[On Arrival](checklists/on-arrival.md){: .list-link}
-[Pre-Return](checklists/pre-return.md){: .list-link}
-[Bad Weather](checklists/bad-weather.md){: .list-link}
+<a href="checklists/pre-departure.html" class="list-link">Pre-Departure</a>
+<a href="checklists/on-arrival.html" class="list-link">On Arrival</a>
+<a href="checklists/pre-return.html" class="list-link">Pre-Return</a>
+<a href="checklists/bad-weather.html" class="list-link">Bad Weather</a></p>
 
 ## Guides
-[Battery and Water Control Panel](guides/control-panel.md){: .list-link}
-[Electric Bed](guides/bed.md){: .list-link}
-[15A to 10A Power Adaptor](guides/power-adaptor.md){: .list-link}
+<a href="/lillen/guides/control-panel.html" class="list-link">Battery and Water Control Panel</a>
+<a href="/lillen/guides/bed.html" class="list-link">Electric Bed</a>
+<a href="/lillen/guides/power-adaptor.html" class="list-link">15A to 10A Power Adaptor</a>
