@@ -98,7 +98,8 @@ button {
     -webkit-transform: rotate(135deg);
 }
 
-.list {
-    margin-top: unset !important;
-    margin-bottom: unset !important;
+.list-link {
+    font-size: 1.25em;
+    font-weight: 600;
+    display: block;
 }
