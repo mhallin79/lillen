@@ -25,21 +25,23 @@
 
 <ol class="yesnolist">
     <li>
-        <p>Does the site have power?</p>
+        <p>Does the site have power to connect?</p>
         <label title="yes"><input type="radio" name="powerToggle" class="radioToggle" value="Y" data-target="power" /> Yes</label>
         <label title="no"><input type="radio" name="powerToggle" class="radioToggle" value="N" data-target="power" checked="checked" /> No</label>
     </li>
     <li>
-        <p>Does the site have water?</p>
+        <p>Does the site have water to connect?</p>
         <label title="yes"><input type="radio" name="waterToggle" class="radioToggle" value="Y" data-target="water" /> Yes</label>
         <label title="no"><input type="radio" name="waterToggle" class="radioToggle" value="N" data-target="water" checked="checked" /> No</label>
     </li>
     <li>
-        <p>Does the site have greywater?</p>
+        <p>Does the site have greywater to connect?</p>
         <label title="yes"><input type="radio" name="greywaterToggle" class="radioToggle" value="Y" data-target="greywater" /> Yes</label>
         <label title="no"><input type="radio" name="greywaterToggle" class="radioToggle" value="N" data-target="greywater" checked="checked" /> No</label>
     </li>
 </ol>
+
+## Checklist
 
 <label for="parking"><input type="checkbox" id="parking"/> Select as flat and level a parking site as possible. Use leveling blocks if
 required.</label>

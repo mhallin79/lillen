@@ -37,8 +37,9 @@ label {
         border-top: 0.1em solid #e1e4e8;
     }
 
-.yesnolist label { display: inline-block; padding-left: 0; text-indent: initial; border-bottom: none; border-top:none; width: 49%; padding-left:1em; padding-right: 1em; }
-/* .yesnolist input { display: none; } */
+.yesnolist { list-style-type: none;}
+.yesnolist p { font-size: larger; }
+.yesnolist label { display: inline-block; padding-left: 0; text-indent: initial; border: 1px solid #ccc; width: 49%; padding-left:1em; padding-right: 1em; }
 .yesnolist label:nth-child(2n) { background: initial;}
 .yesnolist label.checked { background-color: blue; color: white; }
 
