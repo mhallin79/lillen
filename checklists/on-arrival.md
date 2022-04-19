@@ -2,22 +2,37 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script type="text/javascript">
     $(function(){
-        $('.checkboxToggle').each(function(i, el){
-            var checkboxToggle = $(this);
-            var checkboxTarget = $(this).data('target');
-            checkboxToggle.on('change', function(e){
-                $('label.'+ checkboxTarget).css('display', (checkboxToggle.prop('checked') ? 'block' : 'none'));
-            });
-            $('label.'+checkboxTarget).css({ display: 'none'}); // initial hide
-        });        
+        var toggleTypes = ['powerToggle', 'waterToggle', 'greywaterToggle'];
+        $.each(toggleTypes, function(i, toggleType){
+            $('input[name="' + toggleType + '"]').on('change', function(e){
+                var checkedRadio = $('input[name=""]:checked');
+                var checkboxTarget = checkedRadio.data('target');
+                $('label.'+ checkboxTarget).css('display', (checkedRadio.val() == 'Y' ? 'block' : 'none'));
+            })
+        })
+        $('label.'+checkboxTarget).css({ display: 'none'}); // initial hide
     });
 </script>
 
 # On Arrival
 
-- <label><input type="checkbox" id="powerToggle" class="checkboxToggle" data-target="power" /> Has Power</label>
-- <label><input type="checkbox" id="waterToggle" class="checkboxToggle" data-target="water" /> Has Water</label>
-- <label><input type="checkbox" id="greywaterToggle" class="checkboxToggle" data-target="greywater" /> Has Greywater</label>
+<ol class="radiolist">
+    <li>
+        Does the site have power?
+        <label><input type="radio" name="powerToggle" class="radioToggle" value="Y" data-target="power" /> Yes
+        <label><input type="radio" name="powerToggle" class="radioToggle" value="N" data-target="power" checked="checked" /> No</label>
+    </li>
+    <li>
+        Does the site have water?
+        <label><input type="radio" name="waterToggle" class="radioToggle" value="Y" data-target="water" /> Yes
+        <label><input type="radio" name="waterToggle" class="radioToggle" value="N" data-target="water" checked="checked" /> No</label>
+    </li>
+    <li>
+        Does the site have greywater?
+        <label><input type="radio" name="greywaterToggle" class="radioToggle" value="Y" data-target="greywater" /> Yes
+        <label><input type="radio" name="greywaterToggle" class="radioToggle" value="N" data-target="greywater" checked="checked" /> No</label>
+    </li>
+</ol>
 
 <label for="parking"><input type="checkbox" id="parking"/> Select as flat and level a parking site as possible. Use leveling blocks if
 required.</label>

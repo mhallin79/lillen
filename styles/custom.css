@@ -37,6 +37,9 @@ label {
         border-top: 0.1em solid #e1e4e8;
     }
 
+.radiolist label { display: initial; }
+
+
 .title {
     color: #4472C4;
     border-bottom: unset !important;
