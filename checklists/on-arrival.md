@@ -8,15 +8,14 @@
             $('input[name="' + toggleType + '"]').on('change', function(e){
                 var label = $('label input[name="' + toggleType + '"]').each(function(i, el){
                     $(el).parent().removeClass('checked');
-                }).parent();
-
+                });
                 var checkedRadio = $('input[name="' + toggleType + '"]:checked');
                 checkedRadio.parent().addClass('checked');
-
-                $('label.'+ checkboxTarget).css('display', (checkedRadio.val() == 'Y' ? 'block' : 'none'));
+                $('label.'+ checkboxTarget+'-Y').css('display', (checkedRadio.val() === 'Y' ? 'block' : 'none'));
+                $('label.'+ checkboxTarget+'-N').css('display', (checkedRadio.val() === 'Y' ? 'none' : 'block'));
             });
             $('input[name="' + toggleType + '"]:checked').parent().addClass('checked');
-            $('label.'+checkboxTarget).css({ display: 'none'}); // initial hide            
+            $('label.'+checkboxTarget+'-Y').css({ display: 'none'}); // initial hide
         });
     });
 </script>
@@ -45,13 +44,13 @@
 
 <label for="parking"><input type="checkbox" id="parking"/> Select as flat and level a parking site as possible. Use leveling blocks if
 required.</label>
-<label for="power" class="power"><input type="checkbox" id="power" /> Connect 240v electricity <br />
+<label for="power" class="power-Y"><input type="checkbox" id="power" /> Connect 240v electricity <br />
 *Check if [15A to 10A Power Adaptor](../guides/power-adaptor.md) is required.*</label>
-<label for="city-water" class="water"><input type="checkbox" id="city-water" /> Connect city water </label>
-<label for="grey-water" class="greywater"><input type="checkbox" id="grey-water" /> Connect grey water </label>
+<label for="city-water" class="water-Y"><input type="checkbox" id="city-water" /> Connect city water </label>
+<label for="grey-water" class="greywater-Y"><input type="checkbox" id="grey-water" /> Connect grey water </label>
 <label for="lpg"><input type="checkbox" id="lpg"/> Ensure LPG gas bottle is open</label>
 <label for="control-panel"><input type="checkbox" id="control-panel"/> Turn on button 1-3 on the [Battery and Water Control Panel](../guides/control-panel.md).</label>
-<label for="water-pump"><input type="checkbox" id="water-pump"/> Turn the water pump on, if not connected to city water.<br/>
+<label for="water-pump" class="water-N"><input type="checkbox" id="water-pump"/> Turn the water pump on.<br/>
 *Button 4 on the [Battery and Water Control Panel](../guides/control-panel.md)*
 </label>
 <label for="water-heater"><input type="checkbox" id="water-heater"/> Turn the hot water heater on using either 240v or LPG gas.</label>

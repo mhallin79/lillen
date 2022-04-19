@@ -39,7 +39,15 @@ label {
 
 .yesnolist { list-style-type: none; padding-left: 0;}
 .yesnolist p { font-size: larger; }
-.yesnolist label { display: inline-block; padding-left: 0; text-indent: initial; border: 1px solid #ccc; width: 49%; padding-left:1em; padding-right: 1em; }
+.yesnolist label { 
+    display: inline-block; 
+    box-sizing: border-box; 
+    text-indent: initial; 
+    border: 1px solid #ccc; 
+    width: calc(50% - 2px); 
+    padding-left:1em; 
+    padding-right: 1em; 
+}
 .yesnolist label:nth-child(2n) { background: initial;}
 .yesnolist label.checked { background-color: blue; color: white; }
 
