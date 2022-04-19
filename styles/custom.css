@@ -38,10 +38,9 @@ label {
     }
 
 .yesnolist label { display: inline-block; padding-left: 0; text-indent: initial; border-bottom: none; border-top:none; width: 49%; padding-left:1em; padding-right: 1em; }
-.yesnolist input { display: none; }
+/* .yesnolist input { display: none; } */
 .yesnolist label:nth-child(2n) { background: initial;}
-.yesnolist label[title="yes"].checked { background-color: green; color: white; }
-.yesnolist label[title="no"].checked { background-color: red; color: white; }
+.yesnolist label.checked { background-color: blue; color: white; }
 
 .title {
     color: #4472C4;

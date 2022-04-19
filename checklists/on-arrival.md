@@ -14,8 +14,9 @@
                 checkedRadio.parent().addClass('checked');
 
                 $('label.'+ checkboxTarget).css('display', (checkedRadio.val() == 'Y' ? 'block' : 'none'));
-            })
-            $('label.'+checkboxTarget).css({ display: 'none'}); // initial hide
+            });
+            $('input[name="' + toggleType + '"]:checked').parent().addClass('checked');
+            $('label.'+checkboxTarget).css({ display: 'none'}); // initial hide            
         });
     });
 </script>
