@@ -13,7 +13,7 @@
 *Dial is located on the left-hand side back lounge area*</label>
 <label for="power"><input type="checkbox" id="power"/> Disconnect 240v electricity *if applicable*</label>
 <label for="city-water"><input type="checkbox" id="city-water"/> Disconnect city water *if applicable*</label>
-<label for="grey-water"><input type="checkbox" id="grey-water"/> Disconnect grey water *if applicable*</label>
+<label for="greywater"><input type="checkbox" id="greywater"/> Disconnect greywater *if applicable*</label>
 <label for="lpg"><input type="checkbox" id="lpg"/> Ensure LPG gas bottles are turned off</label>
 <label for="windows"><input type="checkbox" id="windows"/> Ensure that the windows are securely closed and locked</label>
 <label for="tv"><input type="checkbox" id="tv"/> Ensure that the TV is locked away and secured</label>

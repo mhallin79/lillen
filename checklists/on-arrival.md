@@ -7,7 +7,7 @@ required.</label>
 <label for="power"><input type="checkbox" id="power"/> Connect 240v electricity *if applicable*<br />
 *Check if [15A to 10A Power Adaptor](../guides/power-adaptor.md) is required.*</label>
 <label for="city-water"><input type="checkbox" id="city-water"/> Connect city water *if applicable*</label>
-<label for="grey-water"><input type="checkbox" id="grey-water"/> Connect grey water *if applicable*</label>
+<label for="greywater"><input type="checkbox" id="greywater"/> Connect greywater *if applicable*</label>
 <label for="lpg"><input type="checkbox" id="lpg"/> Ensure LPG gas bottle is open</label>
 <label for="control-panel"><input type="checkbox" id="control-panel"/> Turn on button 1-3 on the [Battery and Water Control Panel](../guides/control-panel.md).</label>
 <label for="water-pump"><input type="checkbox" id="water-pump"/> Turn the water pump on, if not connected to city water.<br/>
