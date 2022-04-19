@@ -22,4 +22,4 @@ It is a two-man job and it seem to be a complicated procedure.
 
 > **Important!** Do not attempt manual operation without first contacting the owner or Camplify support.
 
-<a href="../index.html"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="../index.html#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
