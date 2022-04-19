@@ -2,18 +2,29 @@
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script type="text/javascript">
     $(function(){
-
+        $('.checkboxToggle').each(function(i, el){
+            var checkboxToggle = $(this);
+            var checkboxTarget = $(this).data('target');
+            checkboxToggle.on('change', function(e){
+                $('label.'+ checkboxTarget).css('display', (checkboxToggle.prop('checked') ? 'block' : 'none'));
+            });
+            $('label.'+checkboxTarget).css({ display: 'none'}); // initial hide
+        });        
     });
 </script>
 
 # On Arrival
 
+- <label><input type="checkbox" id="powerToggle" class="checkboxToggle" data-target="power" /> Has Power</label>
+- <label><input type="checkbox" id="waterToggle" class="checkboxToggle" data-target="water" /> Has Water</label>
+- <label><input type="checkbox" id="greywaterToggle" class="checkboxToggle" data-target="greywater" /> Has Greywater</label>
+
 <label for="parking"><input type="checkbox" id="parking"/> Select as flat and level a parking site as possible. Use leveling blocks if
 required.</label>
-<label for="power"><input type="checkbox" id="power" class="power" /> Connect 240v electricity *if applicable*<br />
+<label for="power" class="power"><input type="checkbox" id="power" /> Connect 240v electricity *if applicable*<br />
 *Check if [15A to 10A Power Adaptor](../guides/power-adaptor.md) is required.*</label>
-<label for="city-water"><input type="checkbox" id="city-water" class="water" /> Connect city water *if applicable*</label>
-<label for="grey-water"><input type="checkbox" id="grey-water" class="greywater" /> Connect grey water *if applicable*</label>
+<label for="city-water" class="water"><input type="checkbox" id="city-water" /> Connect city water *if applicable*</label>
+<label for="grey-water" class="greywater"><input type="checkbox" id="grey-water" /> Connect grey water *if applicable*</label>
 <label for="lpg"><input type="checkbox" id="lpg"/> Ensure LPG gas bottle is open</label>
 <label for="control-panel"><input type="checkbox" id="control-panel"/> Turn on button 1-3 on the [Battery and Water Control Panel](../guides/control-panel.md).</label>
 <label for="water-pump"><input type="checkbox" id="water-pump"/> Turn the water pump on, if not connected to city water.<br/>
@@ -23,7 +34,7 @@ required.</label>
 <label for="refrigerator"><input type="checkbox" id="refrigerator"/> Ensure the refrigerator (in auto mode) switch to either 240v or LPG gas.</label>
 <label for="lpg-level"><input type="checkbox" id="lpg-level"/> If using LPG gas, turn the refrigerator fan on.</label>
 
-> **Please note!** If using LPG gas, it can take up **20 minutes** before the fridge turns on. 
+> **Please note!** If using LPG gas, it can take up to **20 minutes** before the fridge turns on. 
 >
 > The refrigerator must be level and will not operate if not parked on a flat surface.
 
