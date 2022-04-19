@@ -37,7 +37,7 @@ label {
         border-top: 0.1em solid #e1e4e8;
     }
 
-.radiolist label { display: initial; }
+.radiolist label { display: initial; padding-left: 0; border-bottom: none; border-top:none;}
 .radiolist label:nth-child(2n) { background: initial;}
 
 
