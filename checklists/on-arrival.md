@@ -4,9 +4,9 @@
     $(function(){
         var toggleTypes = ['powerToggle', 'waterToggle', 'greywaterToggle'];
         $.each(toggleTypes, function(i, toggleType){
+            var checkedRadio = $('input[name="' + toggleType + '"]:checked');
+            var checkboxTarget = checkedRadio.data('target');
             $('input[name="' + toggleType + '"]').on('change', function(e){
-                var checkedRadio = $('input[name=""]:checked');
-                var checkboxTarget = checkedRadio.data('target');
                 $('label.'+ checkboxTarget).css('display', (checkedRadio.val() == 'Y' ? 'block' : 'none'));
             })
             $('label.'+checkboxTarget).css({ display: 'none'}); // initial hide
