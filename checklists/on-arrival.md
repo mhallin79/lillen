@@ -6,8 +6,13 @@
         $.each(toggleTypes, function(i, toggleType){
             var checkboxTarget = $('input[name="' + toggleType + '"]').data('target');
             $('input[name="' + toggleType + '"]').on('change', function(e){
+                var label = $('label input[name="' + toggleType + '"]').each(function(i, el){
+                    $(el).parent().removeClass('checked');
+                }).parent();
+
                 var checkedRadio = $('input[name="' + toggleType + '"]:checked');
-                console.log(checkboxTarget,checkedRadio.val());
+                checkedRadio.parent().addClass('checked');
+
                 $('label.'+ checkboxTarget).css('display', (checkedRadio.val() == 'Y' ? 'block' : 'none'));
             })
             $('label.'+checkboxTarget).css({ display: 'none'}); // initial hide
@@ -17,21 +22,21 @@
 
 # On Arrival
 
-<ol class="radiolist">
+<ol class="yesnolist">
     <li>
-        Does the site have power?
-        <label><input type="radio" name="powerToggle" class="radioToggle" value="Y" data-target="power" /> Yes</label>
-        <label><input type="radio" name="powerToggle" class="radioToggle" value="N" data-target="power" checked="checked" /> No</label>
+        <p>Does the site have power?</p>
+        <label title="yes"><input type="radio" name="powerToggle" class="radioToggle" value="Y" data-target="power" /> Yes</label>
+        <label title="no"><input type="radio" name="powerToggle" class="radioToggle" value="N" data-target="power" checked="checked" /> No</label>
     </li>
     <li>
-        Does the site have water?
-        <label><input type="radio" name="waterToggle" class="radioToggle" value="Y" data-target="water" /> Yes</label>
-        <label><input type="radio" name="waterToggle" class="radioToggle" value="N" data-target="water" checked="checked" /> No</label>
+        <p>Does the site have water?</p>
+        <label title="yes"><input type="radio" name="waterToggle" class="radioToggle" value="Y" data-target="water" /> Yes</label>
+        <label title="no"><input type="radio" name="waterToggle" class="radioToggle" value="N" data-target="water" checked="checked" /> No</label>
     </li>
     <li>
-        Does the site have greywater?
-        <label><input type="radio" name="greywaterToggle" class="radioToggle" value="Y" data-target="greywater" /> Yes</label>
-        <label><input type="radio" name="greywaterToggle" class="radioToggle" value="N" data-target="greywater" checked="checked" /> No</label>
+        <p>Does the site have greywater?</p>
+        <label title="yes"><input type="radio" name="greywaterToggle" class="radioToggle" value="Y" data-target="greywater" /> Yes</label>
+        <label title="no"><input type="radio" name="greywaterToggle" class="radioToggle" value="N" data-target="greywater" checked="checked" /> No</label>
     </li>
 </ol>
 

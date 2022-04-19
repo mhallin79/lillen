@@ -37,9 +37,11 @@ label {
         border-top: 0.1em solid #e1e4e8;
     }
 
-.radiolist label { display: initial; padding-left: 0; border-bottom: none; border-top:none;}
-.radiolist label:nth-child(2n) { background: initial;}
-
+.yesnolist label { display: inline-block; padding-left: 0; text-indent: initial; border-bottom: none; border-top:none; width: 49%; padding-left:1em; padding-right: 1em; }
+.yesnolist input { display: none; }
+.yesnolist label:nth-child(2n) { background: initial;}
+.yesnolist label[title="yes"].checked { background-color: green; color: white; }
+.yesnolist label[title="no"].checked { background-color: red; color: white; }
 
 .title {
     color: #4472C4;
