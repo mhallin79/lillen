@@ -9,8 +9,8 @@
                 var checkboxTarget = checkedRadio.data('target');
                 $('label.'+ checkboxTarget).css('display', (checkedRadio.val() == 'Y' ? 'block' : 'none'));
             })
+            $('label.'+checkboxTarget).css({ display: 'none'}); // initial hide
         })
-        $('label.'+checkboxTarget).css({ display: 'none'}); // initial hide
     });
 </script>
 
@@ -19,27 +19,27 @@
 <ol class="radiolist">
     <li>
         Does the site have power?
-        <label><input type="radio" name="powerToggle" class="radioToggle" value="Y" data-target="power" /> Yes
+        <label><input type="radio" name="powerToggle" class="radioToggle" value="Y" data-target="power" /> Yes</label>
         <label><input type="radio" name="powerToggle" class="radioToggle" value="N" data-target="power" checked="checked" /> No</label>
     </li>
     <li>
         Does the site have water?
-        <label><input type="radio" name="waterToggle" class="radioToggle" value="Y" data-target="water" /> Yes
+        <label><input type="radio" name="waterToggle" class="radioToggle" value="Y" data-target="water" /> Yes</label>
         <label><input type="radio" name="waterToggle" class="radioToggle" value="N" data-target="water" checked="checked" /> No</label>
     </li>
     <li>
         Does the site have greywater?
-        <label><input type="radio" name="greywaterToggle" class="radioToggle" value="Y" data-target="greywater" /> Yes
+        <label><input type="radio" name="greywaterToggle" class="radioToggle" value="Y" data-target="greywater" /> Yes</label>
         <label><input type="radio" name="greywaterToggle" class="radioToggle" value="N" data-target="greywater" checked="checked" /> No</label>
     </li>
 </ol>
 
 <label for="parking"><input type="checkbox" id="parking"/> Select as flat and level a parking site as possible. Use leveling blocks if
 required.</label>
-<label for="power" class="power"><input type="checkbox" id="power" /> Connect 240v electricity *if applicable*<br />
+<label for="power" class="power"><input type="checkbox" id="power" /> Connect 240v electricity <br />
 *Check if [15A to 10A Power Adaptor](../guides/power-adaptor.md) is required.*</label>
-<label for="city-water" class="water"><input type="checkbox" id="city-water" /> Connect city water *if applicable*</label>
-<label for="grey-water" class="greywater"><input type="checkbox" id="grey-water" /> Connect grey water *if applicable*</label>
+<label for="city-water" class="water"><input type="checkbox" id="city-water" /> Connect city water </label>
+<label for="grey-water" class="greywater"><input type="checkbox" id="grey-water" /> Connect grey water </label>
 <label for="lpg"><input type="checkbox" id="lpg"/> Ensure LPG gas bottle is open</label>
 <label for="control-panel"><input type="checkbox" id="control-panel"/> Turn on button 1-3 on the [Battery and Water Control Panel](../guides/control-panel.md).</label>
 <label for="water-pump"><input type="checkbox" id="water-pump"/> Turn the water pump on, if not connected to city water.<br/>

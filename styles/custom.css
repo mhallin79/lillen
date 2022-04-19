@@ -38,6 +38,7 @@ label {
     }
 
 .radiolist label { display: initial; }
+.radiolist label:nth-child(2n) { background: initial;}
 
 
 .title {
