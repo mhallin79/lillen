@@ -40,6 +40,8 @@ label {
 .togglelist { list-style-type: none; padding-left: 0; }
 .checklistToggler { opacity: 0.2; }
 .checklistToggler.active { opacity: 1;}
+.checklistContainer label { background: inherit;}
+.checklistContainer label.alt { background: #f7f7f7;}
 
 .title {
     color: #4472C4;

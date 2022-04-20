@@ -7,10 +7,12 @@
             var togglerTarget = toggler.data('target');
             // initialise
             updateToggleState(toggler, false);  
+            stripeChecklistItems();
             // click handler
             toggler.on('click', function(e){
                 var isActive = !toggler.data('isActive');
                 updateToggleState(toggler, isActive);  
+                stripeChecklistItems();
                 e.preventDefault();
             })
         });
@@ -27,6 +29,10 @@
                 $('label.'+togglerTarget+'-Y').hide();
                 toggler.removeClass('active');
             }
+        }
+        function stripeChecklistItems() {
+            $('.checklistContainer label').removeClass('alt');
+            $('.checklistContainer label:visible:odd').addClass('alt');
         }
     });
 </script>
@@ -49,6 +55,7 @@ Activate the site facilities available:
 
 ## Checklist
 
+<div class="checklistContainer">
 <label><input type="checkbox" /> Select as flat and level a parking site as possible. Use leveling blocks if
 required.</label>
 <label class="power-Y"><input type="checkbox" /> Connect 240v electricity <br />
@@ -65,6 +72,7 @@ required.</label>
 <label class="power-N"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to LPG gas.</label>
 <label class="power-Y"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to 240v.</label>
 <label><input type="checkbox" /> If using LPG gas, turn the refrigerator fan on.</label>
+</div>
 
 > **Please note!** If using LPG gas, it can take up to **20 minutes** before the fridge turns on. 
 >
