@@ -39,8 +39,13 @@ label {
 
 img { max-width: 100%; }
 
-.togglelist { list-style-type: none; padding-left: 0; display:flex; align-items: stretch; }
+.markdown-body .togglelist { padding-left: 0;}
+.togglelist { list-style-type: none; display:flex; padding-left:0; align-items: stretch; }
 .togglelist > * { flex: 1; text-align: center; padding-left: 2em; padding-right: 2em; }
+
+@media (max-width: 640px) {
+    .togglelist > * { padding-left: 1em; padding-right: 1em; }
+}
 
 .checklistToggler { opacity: 0.2; }
 .checklistToggler.active { opacity: 1;}
