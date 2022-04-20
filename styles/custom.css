@@ -37,19 +37,9 @@ label {
         border-top: 0.1em solid #e1e4e8;
     }
 
-.yesnolist { list-style-type: none; padding-left: 0;}
-.yesnolist p { font-size: larger; }
-.yesnolist label { 
-    display: inline-block; 
-    box-sizing: border-box; 
-    text-indent: initial; 
-    border: 1px solid #ccc; 
-    width: calc(50% - 2px); 
-    padding-left:1em; 
-    padding-right: 1em; 
-}
-.yesnolist label:nth-child(2n) { background: initial;}
-.yesnolist label.checked { background-color: blue; color: white; }
+.togglelist { list-style-type: none; padding-left: 0; }
+.checklistToggler { opacity: 0.2; }
+.checklistToggler.active { opacity: 1;}
 
 .title {
     color: #4472C4;

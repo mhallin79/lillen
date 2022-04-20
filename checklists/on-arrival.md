@@ -1,61 +1,70 @@
 ﻿<link href="../styles/custom.css" rel="stylesheet" />
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script type="text/javascript">
+<script>
     $(function(){
-        var toggleTypes = ['powerToggle', 'waterToggle', 'greywaterToggle'];
-        $.each(toggleTypes, function(i, toggleType){
-            var checkboxTarget = $('input[name="' + toggleType + '"]').data('target');
-            $('input[name="' + toggleType + '"]').on('change', function(e){
-                var label = $('label input[name="' + toggleType + '"]').each(function(i, el){
-                    $(el).parent().removeClass('checked');
-                });
-                var checkedRadio = $('input[name="' + toggleType + '"]:checked');
-                checkedRadio.parent().addClass('checked');
-                $('label.'+ checkboxTarget+'-Y').css('display', (checkedRadio.val() === 'Y' ? 'block' : 'none'));
-                $('label.'+ checkboxTarget+'-N').css('display', (checkedRadio.val() === 'Y' ? 'none' : 'block'));
-            });
-            $('input[name="' + toggleType + '"]:checked').parent().addClass('checked');
-            $('label.'+checkboxTarget+'-Y').css({ display: 'none'}); // initial hide
+        $('.checklistToggler').each(function(i, el){
+            var toggler = $(el);
+            var togglerTarget = toggler.data('target');
+            // initialise
+            updateToggleState(toggler, false);  
+            // click handler
+            toggler.on('click', function(e){
+                var isActive = !toggler.data('isActive');
+                updateToggleState(toggler, isActive);  
+                e.preventDefault();
+            })
         });
+        function updateToggleState(toggler, isActive) {
+            toggler.data('isActive', isActive);
+            var togglerTarget = toggler.data('target');
+            if (isActive) {
+                $('label.'+togglerTarget+'-Y').show();
+                $('label.'+togglerTarget+'-N').hide();
+                toggler.addClass('active');
+            }
+            else {
+                $('label.'+togglerTarget+'-N').show();
+                $('label.'+togglerTarget+'-Y').hide();
+                toggler.removeClass('active');
+            }
+        }
     });
 </script>
 
 # On Arrival
 
-<ol class="yesnolist">
+Activate the site facilities available:
+
+<ol class="togglelist">
     <li>
-        <p>Does the site have power to connect?</p>
-        <label title="yes"><input type="radio" name="powerToggle" class="radioToggle" value="Y" data-target="power" /> Yes</label>
-        <label title="no"><input type="radio" name="powerToggle" class="radioToggle" value="N" data-target="power" checked="checked" /> No</label>
+        <a href="#" title="Toggle 240v power" class="checklistToggler" data-target="power"><img src="x.png" alt="240v Power" /></a>
     </li>
     <li>
-        <p>Does the site have water to connect?</p>
-        <label title="yes"><input type="radio" name="waterToggle" class="radioToggle" value="Y" data-target="water" /> Yes</label>
-        <label title="no"><input type="radio" name="waterToggle" class="radioToggle" value="N" data-target="water" checked="checked" /> No</label>
+        <a href="#" title="Toggle mains water" class="checklistToggler" data-target="water"><img src="x.png" alt="Mains Water" /></a>
     </li>
     <li>
-        <p>Does the site have greywater to connect?</p>
-        <label title="yes"><input type="radio" name="greywaterToggle" class="radioToggle" value="Y" data-target="greywater" /> Yes</label>
-        <label title="no"><input type="radio" name="greywaterToggle" class="radioToggle" value="N" data-target="greywater" checked="checked" /> No</label>
+        <a href="#" title="Toggle greywater" class="checklistToggler" data-target="greywater"><img src="x.png" alt="Greywater" /></a>
     </li>
 </ol>
 
 ## Checklist
 
-<label for="parking"><input type="checkbox" id="parking"/> Select as flat and level a parking site as possible. Use leveling blocks if
+<label><input type="checkbox" /> Select as flat and level a parking site as possible. Use leveling blocks if
 required.</label>
-<label for="power" class="power-Y"><input type="checkbox" id="power" /> Connect 240v electricity <br />
+<label class="power-Y"><input type="checkbox" /> Connect 240v electricity <br />
 *Check if [15A to 10A Power Adaptor](../guides/power-adaptor.md) is required.*</label>
-<label for="city-water" class="water-Y"><input type="checkbox" id="city-water" /> Connect city water </label>
-<label for="grey-water" class="greywater-Y"><input type="checkbox" id="grey-water" /> Connect grey water </label>
-<label for="lpg"><input type="checkbox" id="lpg"/> Ensure LPG gas bottle is open</label>
-<label for="control-panel"><input type="checkbox" id="control-panel"/> Turn on button 1-3 on the [Battery and Water Control Panel](../guides/control-panel.md).</label>
-<label for="water-pump" class="water-N"><input type="checkbox" id="water-pump"/> Turn the water pump on.<br/>
+<label class="water-Y"><input type="checkbox" /> Connect city water </label>
+<label class="greywater-Y"><input type="checkbox" /> Connect grey water </label>
+<label><input type="checkbox" /> Ensure LPG gas bottle is open</label>
+<label><input type="checkbox" /> Turn on button 1-3 on the [Battery and Water Control Panel](../guides/control-panel.md).</label>
+<label class="water-N"><input type="checkbox" /> Turn the water pump on.<br/>
 *Button 4 on the [Battery and Water Control Panel](../guides/control-panel.md)*
 </label>
-<label for="water-heater"><input type="checkbox" id="water-heater"/> Turn the hot water heater on using either 240v or LPG gas.</label>
-<label for="refrigerator"><input type="checkbox" id="refrigerator"/> Ensure the refrigerator (in auto mode) switch to either 240v or LPG gas.</label>
-<label for="lpg-level"><input type="checkbox" id="lpg-level"/> If using LPG gas, turn the refrigerator fan on.</label>
+<label class="power-N"><input type="checkbox" /> Turn the hot water heater on using LPG gas.</label>
+<label class="power-Y"><input type="checkbox" /> Turn the hot water heater on using 240v.</label>
+<label class="power-N"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to LPG gas.</label>
+<label class="power-Y"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to 240v.</label>
+<label><input type="checkbox" /> If using LPG gas, turn the refrigerator fan on.</label>
 
 > **Please note!** If using LPG gas, it can take up to **20 minutes** before the fridge turns on. 
 >
