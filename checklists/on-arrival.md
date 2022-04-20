@@ -59,13 +59,13 @@ Activate the site facilities available:
 <label><input type="checkbox" /> Select as flat and level a parking site as possible. Use leveling blocks if
 required.</label>
 <label class="power-Y"><input type="checkbox" /> Connect 240v electricity <br />
-*Check if [15A to 10A Power Adaptor](../guides/power-adaptor.md) is required.*</label>
+<em>Check if <a href="../guides/power-adaptor.html">15A to 10A Power Adaptor</a> is required.</em></label>
 <label class="water-Y"><input type="checkbox" /> Connect city water </label>
 <label class="greywater-Y"><input type="checkbox" /> Connect grey water </label>
 <label><input type="checkbox" /> Ensure LPG gas bottle is open</label>
-<label><input type="checkbox" /> Turn on button 1-3 on the [Battery and Water Control Panel](../guides/control-panel.md).</label>
+<label><input type="checkbox" /> Turn on button 1-3 on the <a href="../guides/control-panel.html">Battery and Water Control Panel</a>.</label>
 <label class="water-N"><input type="checkbox" /> Turn the water pump on.<br/>
-*Button 4 on the [Battery and Water Control Panel](../guides/control-panel.md)*
+<em>Button 4 on the <a href="../guides/control-panel.html">Battery and Water Control Panel</a></em>
 </label>
 <label class="power-N"><input type="checkbox" /> Turn the hot water heater on using LPG gas.</label>
 <label class="power-Y"><input type="checkbox" /> Turn the hot water heater on using 240v.</label>
