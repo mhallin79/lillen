@@ -60,15 +60,15 @@ Activate the site facilities available:
 required.</label>
 <label class="power-Y"><input type="checkbox" /> Connect 240v electricity <br />
 <em>Check if <a href="../guides/power-adaptor.html">15A to 10A Power Adaptor</a> is required.</em></label>
-<label class="water-Y"><input type="checkbox" /> Connect city water </label>
-<label class="greywater-Y"><input type="checkbox" /> Connect grey water </label>
+<label class="water-Y"><input type="checkbox" /> Connect to city water </label>
+<label class="greywater-Y"><input type="checkbox" /> Connect greywater </label>
 <label><input type="checkbox" /> Ensure LPG gas bottle is open</label>
 <label><input type="checkbox" /> Turn on button 1-3 on the <a href="../guides/control-panel.html">Battery and Water Control Panel</a>.</label>
 <label class="water-N"><input type="checkbox" /> Turn the water pump on.<br/>
 <em>Button 4 on the <a href="../guides/control-panel.html">Battery and Water Control Panel</a></em>
 </label>
 <label class="power-N"><input type="checkbox" /> Turn the hot water heater on using the Gas button.</label>
-<label class="power-Y"><input type="checkbox" /> Turn the hot water heater on using Electric button.</label>
+<label class="power-Y"><input type="checkbox" /> Turn the hot water heater on using the Electric button.</label>
 <label class="power-N"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to LPG gas.</label>
 <label class="power-Y"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to 240v.</label>
 <label class="power-N"><input type="checkbox" /> Ensure the refrigerator fan is switched on.</label>
