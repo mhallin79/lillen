@@ -43,13 +43,13 @@ Activate the site facilities available:
 
 <ol class="togglelist">
     <li>
-        <a href="#" title="Toggle 240v power" class="checklistToggler" data-target="power"><img src="x.png" alt="240v Power" /></a>
+        <a href="#" title="Toggle 240v power" class="checklistToggler" data-target="power"><img src="https://cdn0.iconfinder.com/data/icons/mixicons/512/power-512.png" alt="240v Power" /></a>
     </li>
     <li>
-        <a href="#" title="Toggle mains water" class="checklistToggler" data-target="water"><img src="x.png" alt="Mains Water" /></a>
+        <a href="#" title="Toggle mains water" class="checklistToggler" data-target="water"><img src="https://cdn3.iconfinder.com/data/icons/real-estate-174/65/28-512.png" alt="Mains Water" /></a>
     </li>
     <li>
-        <a href="#" title="Toggle greywater" class="checklistToggler" data-target="greywater"><img src="x.png" alt="Greywater" /></a>
+        <a href="#" title="Toggle greywater" class="checklistToggler" data-target="greywater"><img src="https://cdn0.iconfinder.com/data/icons/ecology-4/154/eco-ecology-drow-water-clean-512.png" alt="Greywater" /></a>
     </li>
 </ol>
 
