@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Checklists",
+    "\\checklists",
     "\\docs",
-    "\\Guides",
-    "\\images"
+    "\\guides",
+    "\\images",
+    "\\styles"
   ],
-  "SelectedNode": "\\control-panel.md",
+  "SelectedNode": "\\checklists\\pre-return.md",
   "PreviewInSolutionExplorer": false
 }
