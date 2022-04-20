@@ -37,9 +37,11 @@ label {
         border-top: 0.1em solid #e1e4e8;
     }
 
-.togglelist { list-style-type: none; padding-left: 0; }
+.togglelist { list-style-type: none; padding-left: 0; display:flex; align-items: stretch; }
+.togglelist > * { flex: 1; text-align: center; }
 .checklistToggler { opacity: 0.2; }
 .checklistToggler.active { opacity: 1;}
+.checklistContainer { margin-bottom: 1em; }
 .checklistContainer label { background: inherit;}
 .checklistContainer label.alt { background: #f7f7f7;}
 

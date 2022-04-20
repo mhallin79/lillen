@@ -78,6 +78,5 @@ required.</label>
 >
 > The refrigerator must be level and will not operate if not parked on a flat surface.
 
-
 <a href="pre-departure.html"><button class="nav-button"><i class="arrow arrow-left"></i> Pre-Departure</button></a>
 <a href="pre-return.html" class="right"><button class="nav-button">Pre-Return <i class="arrow arrow-right"></i></button></a>
