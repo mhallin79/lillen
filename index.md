@@ -18,5 +18,7 @@ for offline use.
 ## Guides
 [15A to 10A Power Adaptor](guides/power-adaptor.md){: .list-link}
 [Battery and Water Control Panel](guides/control-panel.md){: .list-link}
+[Diesel Heater Control](guides/diesel-heater-control.md){: .list-link}
 [Electric Bed](guides/bed.md){: .list-link}
+[Hot Water Heater Controls](guides/hot-water-heater-controls.md){: .list-link}
 [Nitrogen Tyre Inflation](guides/tyres.md){: .list-link}

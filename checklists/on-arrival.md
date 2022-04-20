@@ -67,8 +67,10 @@ required.</label>
 <label class="water-N"><input type="checkbox" /> Turn the water pump on.<br/>
 <em>Button 4 on the <a href="../guides/control-panel.html">Battery and Water Control Panel</a></em>
 </label>
-<label class="power-N"><input type="checkbox" /> Turn the hot water heater on using the Gas button.</label>
-<label class="power-Y"><input type="checkbox" /> Turn the hot water heater on using the Electric button.</label>
+<label class="power-N"><input type="checkbox" /> Turn the hot water heater on using the Gas button.<br />
+<em>The <a href="hot-water-heater-controls.md">Hot Water Heater Controls</a> are located on the left-hand side back lounge area</em></label>
+<label class="power-Y"><input type="checkbox" /> Turn the hot water heater on using the Electric button.<br />
+<em>The <a href="hot-water-heater-controls.md">Hot Water Heater Controls</a> are located on the left-hand side back lounge area</em></label>
 <label class="power-N"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to LPG gas.</label>
 <label class="power-Y"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to 240v.</label>
 <label class="power-N"><input type="checkbox" /> Ensure the refrigerator fan is switched on.</label>
