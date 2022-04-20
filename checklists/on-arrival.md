@@ -43,13 +43,13 @@ Activate the site facilities available:
 
 <ol class="togglelist">
     <li>
-        <a href="#" title="Toggle 240v power" class="checklistToggler" data-target="power"><img src="https://cdn0.iconfinder.com/data/icons/mixicons/512/power-512.png" alt="240v Power" /></a>
+        <a href="#" title="Toggle 240v power" class="checklistToggler" data-target="power"><img src="images/power.png" alt="240v Power" /></a>
     </li>
     <li>
-        <a href="#" title="Toggle mains water" class="checklistToggler" data-target="water"><img src="https://cdn3.iconfinder.com/data/icons/real-estate-174/65/28-512.png" alt="Mains Water" /></a>
+        <a href="#" title="Toggle mains water" class="checklistToggler" data-target="water"><img src="images/water.png" alt="Mains Water" /></a>
     </li>
     <li>
-        <a href="#" title="Toggle greywater" class="checklistToggler" data-target="greywater"><img src="https://cdn0.iconfinder.com/data/icons/ecology-4/154/eco-ecology-drow-water-clean-512.png" alt="Greywater" /></a>
+        <a href="#" title="Toggle greywater" class="checklistToggler" data-target="greywater"><img src="images/greywater.png" alt="Greywater" /></a>
     </li>
 </ol>
 
@@ -67,11 +67,11 @@ required.</label>
 <label class="water-N"><input type="checkbox" /> Turn the water pump on.<br/>
 <em>Button 4 on the <a href="../guides/control-panel.html">Battery and Water Control Panel</a></em>
 </label>
-<label class="power-N"><input type="checkbox" /> Turn the hot water heater on using LPG gas.</label>
-<label class="power-Y"><input type="checkbox" /> Turn the hot water heater on using 240v.</label>
+<label class="power-N"><input type="checkbox" /> Turn the hot water heater on using the Gas button.</label>
+<label class="power-Y"><input type="checkbox" /> Turn the hot water heater on using Electric button.</label>
 <label class="power-N"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to LPG gas.</label>
 <label class="power-Y"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to 240v.</label>
-<label><input type="checkbox" /> If using LPG gas, turn the refrigerator fan on.</label>
+<label class="power-N"><input type="checkbox" /> Ensure the refrigerator fan is switched on.</label>
 </div>
 
 > **Please note!** If using LPG gas, it can take up to **20 minutes** before the fridge turns on. 
