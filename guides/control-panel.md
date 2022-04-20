@@ -15,7 +15,7 @@ As a rule of thumb, while stationary button 1-4  should be switched ON.
 3. Enables the lighting
 4. Turns on the water pump (Not required if connected to city water)
 5. Checks the water tank levels
-6. Grey water tank
+6. Greywater tank
 7. Fresh water tank
 8. Check the 12v battery power levels
 9. The house battery

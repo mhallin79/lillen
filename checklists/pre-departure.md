@@ -13,12 +13,15 @@
 *Dial is located on the left-hand side back lounge area*</label>
 <label for="power"><input type="checkbox" id="power"/> Disconnect 240v electricity *if applicable*</label>
 <label for="city-water"><input type="checkbox" id="city-water"/> Disconnect city water *if applicable*</label>
-<label for="grey-water"><input type="checkbox" id="grey-water"/> Disconnect grey water *if applicable*</label>
+<label for="greywater"><input type="checkbox" id="greywater"/> Disconnect greywater *if applicable*</label>
 <label for="lpg"><input type="checkbox" id="lpg"/> Ensure LPG gas bottles are turned off</label>
 <label for="windows"><input type="checkbox" id="windows"/> Ensure that the windows are securely closed and locked</label>
+<label for="tv"><input type="checkbox" id="tv"/> Ensure that the TV is locked away and secured</label>
+<label for="safety-net"><input type="checkbox" id="safety-net"/> Ensure that the bunk bed safety net is connected</label>
 <label for="kitchen"><input type="checkbox" id="kitchen"/> Ensure everything in the kitchen has been put away and is rattle-proof</label>
 <label for="doors"><input type="checkbox" id="doors"/> Secure all drawers and doors</label>
 <label for="lose-objects"><input type="checkbox" id="lose-objects"/> Secure all loose objects for travel</label>
+<label for="table"><input type="checkbox" id="table"/> Ensure the table is in travel position</label>
 <label for="start-engine"><input type="checkbox" id="start-engine"/> Start the engine for warm up</label>
 <label for="refrigerator"><input type="checkbox" id="refrigerator"/> Ensure that the refrigerator (in auto mode) has shifted back 12v</label>
 
