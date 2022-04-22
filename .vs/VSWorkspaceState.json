@@ -4,9 +4,10 @@
     "\\checklists",
     "\\docs",
     "\\guides",
+    "\\guides\\images",
     "\\images",
     "\\styles"
   ],
-  "SelectedNode": "\\checklists\\pre-return.md",
+  "SelectedNode": "\\index.md",
   "PreviewInSolutionExplorer": false
 }

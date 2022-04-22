@@ -15,6 +15,13 @@ for offline use.
 [Pre-Return](checklists/pre-return.md){: .list-link}
 [Bad Weather](checklists/bad-weather.md){: .list-link}
 
+
+## What To Do 
+[Accident](what-to-do/accident.md){: .list-link}
+[Breakdown](what-to-do/breakdown.md){: .list-link}
+[Dashboard Lights](what-to-do/dashboard-lights.md){: .list-link}
+
+
 ## Guides
 [15A to 10A Power Adaptor](guides/power-adaptor.md){: .list-link}
 [Battery and Water Control Panel](guides/control-panel.md){: .list-link}

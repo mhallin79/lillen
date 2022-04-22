@@ -1,0 +1,15 @@
+<link href="../styles/custom.css" rel="stylesheet" />
+
+# Accident
+The below instructions are from the offical Camplify pre-hire checklist.
+
+1. Call Camplify on **1300 416 133** and inform
+them of the issue.
+2. Take photos and send to the owner in
+case they need to raise a damage incident.
+3. Inform the owner who, what, where and
+when the accident happened. If possible,
+use the messaging on Camplify's website.
+
+
+<a href="../index.html#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
