@@ -1,7 +1,7 @@
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Accident
-The below instructions are from the offical Camplify pre-hire checklist.
+The below instructions are from the official Camplify pre-hire checklist that is part of the handover.
 
 1. Call Camplify on **1300 416 133** and inform
 them of the issue.

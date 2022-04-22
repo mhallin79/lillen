@@ -1,7 +1,7 @@
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Breakdown
-The below instructions are from the offical Camplify pre-hire checklist.
+The below instructions are from the official Camplify pre-hire checklist that is part of the handover.
 
 1. Get off the road, keep safe.
 2. Call Camplify for NRMA Roadside on **1300
