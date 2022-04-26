@@ -5,4 +5,4 @@ Please find below my chat transcript with Thalia at Camplify Support on the 26th
 
 ![chat](images/camplify-payment.png)
 
-<a href="../index.html#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="../index.html"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
