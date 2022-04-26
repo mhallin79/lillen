@@ -12,4 +12,4 @@ when the accident happened. If possible,
 use the messaging on Camplify's website.
 
 
-<a href="../index.html#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/#what-to-do"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>

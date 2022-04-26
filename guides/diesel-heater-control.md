@@ -12,4 +12,4 @@ Hot air will then blow out from under the wardrobe.
 
 ![control panel](images/diesel-heater-control.png)
 
-<a href="../index.html#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>

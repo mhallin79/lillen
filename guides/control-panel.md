@@ -22,4 +22,4 @@ As a rule of thumb, while stationary button 1-4  should be switched ON.
 10. The car battery
 11. Light indicating that external 240v electricity is operational
 
-<a href="../index.html#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>

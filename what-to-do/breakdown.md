@@ -14,4 +14,4 @@ website.
 5. Owner will make all decisions on where
 the van is towed and repaired.
 
-<a href="../index.html#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/#what-to-do"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
