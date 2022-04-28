@@ -2,12 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\checklists",
-    "\\docs",
     "\\guides",
-    "\\guides\\images",
     "\\images",
-    "\\styles"
+    "\\styles",
+    "\\what-to-do"
   ],
-  "SelectedNode": "\\index.md",
+  "SelectedNode": "\\checklists\\on-arrival.md",
   "PreviewInSolutionExplorer": false
 }
