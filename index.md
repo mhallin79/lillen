@@ -8,6 +8,9 @@ All checklists and guides are available both online in a easy checkbox list
 format and also in a combined [PDF version](docs/lillen-checklist.pdf) 
 for offline use.
 
+If you have any questions you can message the owner on the Camplify website 
+or send an email to [owner@lillen.au](mailto:owner@lillen.au)
+
 ## Checklists
 
 [Pre-Departure](checklists/pre-departure.md){: .list-link}
