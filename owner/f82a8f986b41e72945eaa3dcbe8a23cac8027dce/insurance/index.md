@@ -1,4 +1,4 @@
-<link href="../styles/custom.css" rel="stylesheet" />
+<link href="../../../styles/custom.css" rel="stylesheet" />
 
 # Owner Insurance
 Lillen's is insured throught Camplify Premium Membership Subscription and is included on Camplify's 

@@ -1,4 +1,4 @@
-<link href="../styles/custom.css" rel="stylesheet" />
+<link href="../../../styles/custom.css" rel="stylesheet" />
 
 # Questions
 
