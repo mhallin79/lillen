@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /insurance/
-Disallow: /checklists/return.html
+Disallow: /owner/

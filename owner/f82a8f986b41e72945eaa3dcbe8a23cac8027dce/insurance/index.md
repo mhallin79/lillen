@@ -28,6 +28,6 @@ Camplify provides information about [hirer insuarnce](https://www.camplify.com.a
 - [Premium Membership Agreement](Premium_Membership_Agreements_AU_01102021-ef9fa79eff886944e1e1809bcbc5058268c052c381822fb55748fffeb27a0bf3.pdf)
 - [Camplify Fleet Policy Summary](Camplify_Fleet_Policy_Summary_Inclusions_Exclusions_AU_01102021-a598a417fb437b7a0ea3f5ea7ad4f850178a58596c61bbb158564b211ee7af0c.pdf)
 
-<a href="/"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="../"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 Updated: 12/05/2022
