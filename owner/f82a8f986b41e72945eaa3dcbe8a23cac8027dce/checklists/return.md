@@ -15,3 +15,6 @@
 <label for="grey-water-tank"><input type="checkbox" id="grey-water-tank" /> Grey Water Tank</label>
 <label for="awning"><input type="checkbox" id="awning" /> Awning</label>
 <label for="bed"><input type="checkbox" id="bed" /> Electric Bed</label>
+
+
+<a href="../"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
