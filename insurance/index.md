@@ -5,7 +5,7 @@ Lillen's is insured throught Camplify Premium Membership Subscription and is inc
 fleet insurance policy. 
 
 ## Market Value
-Lillen is insured at a market value of **$130k-$160k** in the **Premium Membership Lewvel 8** tier.
+Lillen is insured at a market value of **$130k-$160k** in the **Premium Membership Level 8** tier.
 
 ![market-value](market-value-tier.png)
 
