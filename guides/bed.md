@@ -24,7 +24,7 @@ If the battery level is between 11.0 and 12.2 e.g red and amber lights there mig
 power to lift the bed back up. 
 
 Example of low power
-![low-power](images/control-panel-low-12V-power.png)
+![low-power](images/control-panel-low-12v-power.png)
 
 1. Ensure the battery indicator is lit green
 2. Endure the AUX indicator is lit green
