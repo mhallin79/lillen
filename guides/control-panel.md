@@ -17,9 +17,9 @@ As a rule of thumb, while stationary button 1-4  should be switched ON.
 5. Checks the water tank levels
 6. Greywater tank
 7. Fresh water tank
-8. Check the 12v battery power levels
+8. Check the 12V battery power levels
 9. The house battery
 10. The car battery
-11. Light indicating that external 240v electricity is operational
+11. Light indicating that external 240V electricity is operational
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>

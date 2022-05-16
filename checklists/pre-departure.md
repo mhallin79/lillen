@@ -11,7 +11,7 @@
 *Buttons are located on the left-hand side back lounge area*</label>
 <label for="diesel-heater"><input type="checkbox" id="diesel-heater" /> Ensure that the diesel heater is off *if applicable*<br/>
 *Dial is located on the left-hand side back lounge area*</label>
-<label for="power"><input type="checkbox" id="power"/> Disconnect 240v electricity *if applicable*</label>
+<label for="power"><input type="checkbox" id="power"/> Disconnect 240V electricity *if applicable*</label>
 <label for="city-water"><input type="checkbox" id="city-water"/> Disconnect city water *if applicable*</label>
 <label for="greywater"><input type="checkbox" id="greywater"/> Disconnect greywater *if applicable*</label>
 <label for="lpg"><input type="checkbox" id="lpg"/> Ensure LPG gas bottles are turned off</label>
@@ -23,7 +23,7 @@
 <label for="lose-objects"><input type="checkbox" id="lose-objects"/> Secure all loose objects for travel</label>
 <label for="table"><input type="checkbox" id="table"/> Ensure the table is in travel position</label>
 <label for="start-engine"><input type="checkbox" id="start-engine"/> Start the engine for warm up</label>
-<label for="refrigerator"><input type="checkbox" id="refrigerator"/> Ensure that the refrigerator (in auto mode) has shifted back 12v</label>
+<label for="refrigerator"><input type="checkbox" id="refrigerator"/> Ensure that the refrigerator (in auto mode) has shifted back 12V</label>
 
 <a href="on-arrival.html" class="right">
 <button class="nav-button">On Arrival <i class="arrow arrow-right" /></button>
