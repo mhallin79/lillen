@@ -31,5 +31,6 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 [Diesel Heater Control](guides/diesel-heater-control.md){: .list-link}
 [Electric Bed](guides/bed.md){: .list-link}
 [Festoon Lights](guides/festoon-lights.md){: .list-link}
+[Hot Water Heater Controls](guides/hot-water-heater-controls.md){: .list-link}
 [Keys](guides/keys.md){: .list-link}
-[Nitrogen Tyre Inflation](guides/tyres.md){: .list-link}[Nitrogen Tyre Inflation](guides/tyres.md){: .list-link}
+[Nitrogen Tyre Inflation](guides/tyres.md){: .list-link}
