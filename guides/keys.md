@@ -17,14 +17,14 @@ Backup key, used to start the engine and also the diesel fuel lock.
 ### 2 Medium Black Key 
 Is used for the 
 - Left hand side storage compartment
-- LPG gas botttle storage
-- Fresh water
+- LPG gas bottle storage compartment
+- Water tank lock
 
 ### 3 Small Black Key #9015
 Is used for the right hand side rear storage compartment.
 
 ### 4 Small Black Key #9004
-Is for the toilet cassette.
+Is for the toilet cassette compartment.
 
 ### 5 Small Silver Key #CH751
 Is for the external shower.
