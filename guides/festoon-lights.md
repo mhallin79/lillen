@@ -23,6 +23,10 @@ to the external power point under the kitchen window.
 
 ![clips](images/festoon-lights-power-cord.jpg)
 
+## Storage
+The festoon lights and a provided awning track hanger clips 
+are kept in a box in the left rear storage compartment.
 
+![clips](images/festoon-lights-storage-box.jpg)
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
