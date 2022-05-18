@@ -26,7 +26,7 @@ with a **Weatherproof Connector Protector** (1).
 ![extension-cable](images/extension-cable.jpg)
 
 ### Weatherproof Connector Protector
-If the extension cable is reuquired, please use the weatherproof connector protector.
+If the extension cable is required, please use the weatherproof connector protector.
 
 ![weatherproof-connector-protector](images/weatherproof-connector-protector.jpg)
 
@@ -42,7 +42,7 @@ However, if you are taking Lillen to stay at someones property they might only h
 
 
 ## Storage
-All hose and cable carrier bags are stored inside the right side rear storage 
+All water hose and power cable carrier bags are stored inside the right side rear storage 
 compartment togheter with the weatherproof 15A to 10A power adaptor.
 
 ![hose-and-cable-bag-storage](images/hose-and-cable-bag-storage.jpg)
