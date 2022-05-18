@@ -27,6 +27,7 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 
 ## Guides
 [Battery and Water Control Panel](guides/control-panel.md){: .list-link}
+[Cordless Vacuum](guides/cordless-vacuum.md){: .list-link}
 [Diesel Heater Control](guides/diesel-heater-control.md){: .list-link}
 [Electric Bed](guides/bed.md){: .list-link}
 [Festoon Lights](guides/festoon-lights.md){: .list-link}
