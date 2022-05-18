@@ -61,7 +61,7 @@ required.</label>
 <label class="power-N"><input type="checkbox" />Ensure the solar panels are not covered by shade as then they 
 will not charge the 12V battery properly.</label>
 <label class="power-Y"><input type="checkbox" /> Connect 240V electricity <br />
-<em>Check if <a href="../guides/power-adaptor.html">15A to 10A Power Adaptor</a> is required.</em></label>
+<em>Check if <a href="../guides/hoses-and-cables.html">15A to 10A Power Adaptor</a> is required.</em></label>
 <label class="water-Y"><input type="checkbox" /> Connect to city water </label>
 <label class="greywater-Y"><input type="checkbox" /> Connect greywater </label>
 <label><input type="checkbox" /> Ensure LPG gas bottle is open</label>

@@ -23,7 +23,12 @@ The grey water hose is stored in a carrier bag.
 A 15 meter 15A Extension Cable is stored in a carrier bag togheter 
 with a **Weatherproof Connector Protector** (1). 
 
-![eletric-cable](images/eletric-cable.jpg)
+![extension-cable](images/extension-cable.jpg)
+
+### Weatherproof Connector Protector
+If the extension cable is reuquired, please use the weatherproof connector protector.
+
+![weatherproof-connector-protector](images/weatherproof-connector-protector.jpg)
 
 ## 15A to 10A Power Adaptor
 Use the included weatherproof 15A to 10A power adaptor to safely and legally 
