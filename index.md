@@ -26,7 +26,6 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 
 
 ## Guides
-[15A to 10A Power Adaptor](guides/power-adaptor.md){: .list-link}
 [Battery and Water Control Panel](guides/control-panel.md){: .list-link}
 [Diesel Heater Control](guides/diesel-heater-control.md){: .list-link}
 [Electric Bed](guides/bed.md){: .list-link}
@@ -34,3 +33,4 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 [Hot Water Heater Controls](guides/hot-water-heater-controls.md){: .list-link}
 [Keys](guides/keys.md){: .list-link}
 [Nitrogen Tyre Inflation](guides/tyres.md){: .list-link}
+[Water Hoses and Power Cables](guides/hoses-and-cables.md){: .list-link}
