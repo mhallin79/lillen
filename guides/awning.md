@@ -4,18 +4,17 @@
 Thule's offical user manual with instructions on how to operate the awning is 
 available as a [PDF download](/docs/awning.pdf) in addition the the below user guide. 
 
-
 ## Insert the Crank Arm
-1. Insert teh cranck arm fully
+1. Insert the cranck arm fully
 2. Rotate the crank arm 90 degrees 
 ![crank-arm-insert](images/awning/crank-arm-insert.jpg)
 3. Pull the crank arm outwards into locked position
 ![crank-arm-lock](images/awning/crank-arm-lock.jpg)
 
 ## Wind out the Awning
-Wind out the awning so that there is no tension on teh fabric
+Wind out the awning so that there is no tension on the fabric
 ![awning-slack](images/awning/awning-slack.jpg)
-Apply the safety locks
+Apply the locks
 ![awning-lock](images/awning/awning-lock.jpg)
 Apply some tension to the fabric
 ![awning-tension](images/awning/awning-tension.jpg)

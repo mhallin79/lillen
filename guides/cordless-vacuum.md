@@ -12,7 +12,7 @@ A cordless vacuum with a chargable battery is kept in the left side rear storage
 ![cordless-vacuum](images/cordless-vacuum.jpg)
 
 1. Cordless Vacuum
-2. High Torque Brush with front LED lights
+2. 270&#xb0; Rotatable High Torque Brush with front LED lights
 3. Accessories box
 
 ## Accessories
