@@ -1,7 +1,8 @@
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Festoon Lights
-Lillen's has festoon lights that can be hung from the awning using the provided track hanger clips. 
+Lillen has festoon lights that can be hung from the awning using the provided track 
+hanger clips. 
 
 > **Please note!** The Feston Lights need 240V to operate.
 
@@ -25,7 +26,7 @@ to the external power point under the kitchen window.
 
 ## Storage
 The festoon lights and a provided awning track hanger clips 
-are kept in a box in the left rear storage compartment.
+are kept in a box in the left side rear storage compartment.
 
 ![clips](images/festoon-lights-storage-box.jpg)
 
