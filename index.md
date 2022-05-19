@@ -26,12 +26,13 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 
 
 ## Guides
-[Battery and Water Control Panel](guides/control-panel.md){: .list-link}
-[Cordless Vacuum](guides/cordless-vacuum.md){: .list-link}
-[Diesel Heater Control](guides/diesel-heater-control.md){: .list-link}
-[Electric Bed](guides/bed.md){: .list-link}
-[Festoon Lights](guides/festoon-lights.md){: .list-link}{: .pdf}
-[Hot Water Heater Controls](guides/hot-water-heater-controls.md){: .list-link}
+[Awning](guides/awning.md){: .list-link}
+[Battery and Water Control Panel `PDF`{: .pdf}](guides/control-panel.md){: .list-link}
+[Cordless Vacuum ](guides/cordless-vacuum.md){: .list-link}
+[Diesel Heater Control `PDF`{: .pdf}](guides/diesel-heater-control.md){: .list-link}
+[Electric Bed `PDF`{: .pdf}](guides/bed.md){: .list-link}
+[Festoon Lights](guides/festoon-lights.md){: .list-link} 
+[Hot Water Heater Controls `PDF`{: .pdf}](guides/hot-water-heater-controls.md){: .list-link}
 [Keys](guides/keys.md){: .list-link}
-[Nitrogen Tyre Inflation](guides/tyres.md){: .list-link}
+[Nitrogen Tyre Inflation `PDF`{: .pdf}](guides/tyres.md){: .list-link}
 [Water Hoses and Power Cables](guides/hoses-and-cables.md){: .list-link}
