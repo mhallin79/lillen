@@ -7,6 +7,7 @@ Caravan World made a review of the **Avan Ovation M5** back in 2016.
 There are some minor differences between Lillen and the model reviewed by Caravan World.
 - Seating has fabric upholstery instead of leather.
 - Reverse camera display is integrated with the radio LCD touch screen.
+- Added Bull Bar 
 
 <div class="iframeVideo">
 <iframe src="https://www.youtube.com/embed/6hEe1ch2wfs"
