@@ -5,7 +5,7 @@
 <h2 class="subtitle">AND GUIDES</h2>
 
 All checklists and guides are available both online in a easy checkbox list 
-format and also in a combined [PDF version](docs/lillen-checklist.pdf) 
+format and also in a combined [PDF version](docs/checklist.pdf) 
 for offline use.
 
 If you have any questions you can message the owner on the [Camplify website](https://www.camplify.com.au/rv/motorhome-rental-woy-woy-nsw-lillen/21613)
