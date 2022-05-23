@@ -12,7 +12,6 @@ If you have any questions you can message the owner on the [Camplify website](ht
 or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 
 ## Checklists
-
 [Pre-Departure](checklists/pre-departure.md){: .list-link}
 [On Arrival](checklists/on-arrival.md){: .list-link}
 [Pre-Return](checklists/pre-return.md){: .list-link}
@@ -23,7 +22,6 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 [Accident](what-to-do/accident.md){: .list-link}
 [Breakdown](what-to-do/breakdown.md){: .list-link}
 [Dashboard Lights](what-to-do/dashboard-lights.md){: .list-link}
-
 
 ## Guides
 [Awning](guides/awning.md){: .list-link}
@@ -39,8 +37,8 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 
 ## Videos
 [Antenna and TV](videos/antenna-and-tv.md){: .list-link}
-[Cassette Toilet](https://www.youtube.com/watch?v=IsjikA9_Azo){: .list-link}
-[Fridge](https://www.youtube.com/watch?v=7mFte6Dl3jE){: .list-link}
+[Cassette Toilet](videos/cassette-toilet.md){: .list-link}
+[Fridge](videos/fridge.md){: .list-link}
 
 ## Reviews
 [Caravan World](review/index.md){: .list-link}

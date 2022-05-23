@@ -1,11 +1,11 @@
 <link href="../styles/custom.css" rel="stylesheet" />
 
-# Antenna and TV
+# Cassette Toilet
 Please find below a short video from the manufacturer that describes the process of 
-setting up the antenna and searching for TV channels.
+using and cleaning the toilet.
 
 <div class="iframeVideo">
-<iframe src="https://www.youtube.com/embed/gePqJ0VKwcs"
+<iframe src="https://www.youtube.com/embed/IsjikA9_Azo"
 frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
