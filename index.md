@@ -18,7 +18,7 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 [Bad Weather](checklists/bad-weather.md){: .list-link}
 
 
-## What To Do 
+## What to Do 
 [Accident](what-to-do/accident.md){: .list-link}
 [Breakdown](what-to-do/breakdown.md){: .list-link}
 [Dashboard Lights](what-to-do/dashboard-lights.md){: .list-link}
