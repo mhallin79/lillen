@@ -1,6 +1,6 @@
 <link href="../styles/custom.css" rel="stylesheet" />
 
-# Review
+# Caravan World Review
 Caravan World made a review of the **Avan Ovation M5** back in 2016. 
 
 ## What is different?
@@ -15,4 +15,3 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 </iframe>
 </div>
 
-<a href="/#reviews"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
