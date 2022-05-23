@@ -36,3 +36,8 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 [Keys](guides/keys.md){: .list-link}
 [Nitrogen Tyre Inflation `PDF`{: .pdf}](guides/tyres.md){: .list-link}
 [Water Hoses and Power Cables](guides/hoses-and-cables.md){: .list-link}
+
+## Videos
+[Antenna and TV](https://www.youtube.com/watch?v=gePqJ0VKwcs){: .list-link}
+[Cassette Toilet](https://www.youtube.com/watch?v=IsjikA9_Azo){: .list-link}
+[Fridge](https://www.youtube.com/watch?v=7mFte6Dl3jE){: .list-link}
