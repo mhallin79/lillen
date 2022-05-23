@@ -41,3 +41,6 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 [Antenna and TV](https://www.youtube.com/watch?v=gePqJ0VKwcs){: .list-link}
 [Cassette Toilet](https://www.youtube.com/watch?v=IsjikA9_Azo){: .list-link}
 [Fridge](https://www.youtube.com/watch?v=7mFte6Dl3jE){: .list-link}
+
+## Reviews
+[Caravan World](review/index.md){: .list-link}
