@@ -1,3 +1,7 @@
+---
+title: Water Hoses and Power Cables | Guides 
+---
+
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Water Hoses and Power Cables

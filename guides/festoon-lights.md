@@ -1,3 +1,7 @@
+---
+title: Festoon Lights | Guides 
+---
+
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Festoon Lights

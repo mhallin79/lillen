@@ -1,5 +1,5 @@
 ---
-title: Accident
+title: Accident | What to Do 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

@@ -1,3 +1,7 @@
+---
+title: Dashboard Lights | What to Do 
+---
+
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Dashboard Lights

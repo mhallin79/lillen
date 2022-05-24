@@ -1,3 +1,7 @@
+---
+title: Diesel Heater Control | Guides 
+---
+
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Diesel Heater Control

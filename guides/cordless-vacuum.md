@@ -1,3 +1,7 @@
+---
+title: Cordless Vacuum | Guides 
+---
+
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Cordless Vacuum

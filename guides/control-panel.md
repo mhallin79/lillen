@@ -1,3 +1,7 @@
+---
+title: Battery and Water Control Panel | Guides 
+---
+
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Battery and Water Control Panel

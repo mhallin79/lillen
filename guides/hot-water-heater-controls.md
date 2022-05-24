@@ -1,3 +1,7 @@
+---
+title: Hot Water Heater Controls | Guides 
+---
+
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Hot Water Heater Controls

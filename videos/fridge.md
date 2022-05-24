@@ -1,3 +1,7 @@
+---
+title: Fridge | Videos 
+---
+
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Fridge

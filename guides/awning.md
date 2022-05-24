@@ -1,3 +1,7 @@
+---
+title: Awning | Guides 
+---
+
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Awning

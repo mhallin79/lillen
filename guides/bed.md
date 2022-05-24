@@ -1,3 +1,7 @@
+---
+title: Electric Bed | Guides 
+---
+
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Electric Bed
