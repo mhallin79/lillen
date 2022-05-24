@@ -1,5 +1,5 @@
 ---
-title: Cordless Vacuum | Guides 
+title: Cordless Vacuum &#8729; Guides 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

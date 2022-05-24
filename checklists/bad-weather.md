@@ -1,5 +1,5 @@
 ---
-title: Bad Weather | Checklists 
+title: Bad Weather &#8729; Checklists 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

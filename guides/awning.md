@@ -1,5 +1,5 @@
 ---
-title: Awning | Guides 
+title: Awning &#8729; Guides 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

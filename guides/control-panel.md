@@ -1,5 +1,5 @@
 ---
-title: Battery and Water Control Panel | Guides 
+title: Battery and Water Control Panel &#8729; Guides 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

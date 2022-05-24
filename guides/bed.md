@@ -1,5 +1,5 @@
 ---
-title: Electric Bed | Guides 
+title: Electric Bed &#8729; Guides 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

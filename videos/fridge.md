@@ -1,5 +1,5 @@
 ---
-title: Fridge | Videos 
+title: Fridge &#8729; Videos 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

@@ -1,5 +1,5 @@
 ---
-title: Diesel Heater Control | Guides 
+title: Diesel Heater Control &#8729; Guides 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

@@ -1,5 +1,5 @@
 ---
-title: Festoon Lights | Guides 
+title: Festoon Lights &#8729; Guides 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

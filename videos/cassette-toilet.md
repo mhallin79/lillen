@@ -1,5 +1,5 @@
 ---
-title: Cassette Toilet | Videos 
+title: Cassette Toilet &#8729; Videos 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

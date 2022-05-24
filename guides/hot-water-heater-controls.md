@@ -1,5 +1,5 @@
 ---
-title: Hot Water Heater Controls | Guides 
+title: Hot Water Heater Controls &#8729; Guides 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

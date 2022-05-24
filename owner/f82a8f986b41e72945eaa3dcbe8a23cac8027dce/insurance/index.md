@@ -1,5 +1,5 @@
 ---
-title: Owner Insurance | Owner Resources 
+title: Owner Insurance &#8729; Owner Resources 
 ---
 
 <link href="../../../styles/custom.css" rel="stylesheet" />

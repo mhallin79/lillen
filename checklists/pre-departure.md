@@ -1,5 +1,5 @@
 ---
-title: Pre-Departure | Checklists 
+title: Pre-Departure &#8729; Checklists 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

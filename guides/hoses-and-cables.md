@@ -1,5 +1,5 @@
 ---
-title: Water Hoses and Power Cables | Guides 
+title: Water Hoses and Power Cables &#8729; Guides 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

@@ -1,5 +1,5 @@
 ﻿---
-title: On Arrival | Checklists 
+title: On Arrival &#8729; Checklists 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

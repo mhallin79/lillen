@@ -1,5 +1,5 @@
 ---
-title: Caravan World | Reviews 
+title: Caravan World &#8729; Reviews 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />

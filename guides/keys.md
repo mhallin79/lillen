@@ -1,5 +1,5 @@
 ---
-title: Keys | Guides 
+title: Keys &#8729; Guides 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />
