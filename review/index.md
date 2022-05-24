@@ -17,3 +17,5 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 </div>
 
 <a href="/#reviews"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+
+{% include google-analytics.html %}

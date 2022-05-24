@@ -12,3 +12,5 @@ Before bad weather arises, please ensure the following.
 <a href="pre-return.html">
 <button class="nav-button"><i class="arrow arrow-left"></i> Pre-Return</button>
 </a>
+
+{% include google-analytics.html %}

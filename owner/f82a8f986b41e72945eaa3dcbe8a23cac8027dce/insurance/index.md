@@ -31,3 +31,5 @@ Camplify provides information about [hirer insuarnce](https://www.camplify.com.a
 <a href="../"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 Updated: 12/05/2022
+
+{% include google-analytics.html %}

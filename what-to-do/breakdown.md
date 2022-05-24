@@ -15,3 +15,5 @@ website.
 the van is towed and repaired.
 
 <a href="/#what-to-do"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+
+{% include google-analytics.html %}

@@ -9,3 +9,5 @@ let the owner know upon return of the vehicle as the tyre will need to be fully 
 with nitrogen.
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+
+{% include google-analytics.html %}

@@ -46,3 +46,5 @@ It is a two-man job and it seem to be a complicated procedure.
 > **Important!** Do not attempt manual operation without first contacting the owner or Camplify support.
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+
+{% include google-analytics.html %}

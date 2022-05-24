@@ -13,3 +13,5 @@ When connected to 240V external power use the left electric button. The whole bu
 If no access to external power, then use the right Gas button. The light to the right of the button indicates that the hot water heater is operating on LPG Gas.
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+
+{% include google-analytics.html %}

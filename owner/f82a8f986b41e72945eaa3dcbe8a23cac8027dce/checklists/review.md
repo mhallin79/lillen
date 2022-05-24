@@ -24,3 +24,5 @@ I be happy to rent out Lillen to [GN] and his family again anytime!
 <div class="alert alert-danger">
     <strong>Important:</strong> Sample text
 </div>
+
+

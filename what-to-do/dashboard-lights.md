@@ -12,3 +12,5 @@ Camplify on **1300 416 133** and select option
 4 for road assistance
 
 <a href="/#what-to-do"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+
+{% include google-analytics.html %}

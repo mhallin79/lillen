@@ -31,3 +31,5 @@ Is for the toilet cassette compartment.
 Is for the external shower.
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+
+{% include google-analytics.html %}

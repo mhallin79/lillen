@@ -28,3 +28,5 @@ Optional leg wall connector
 ![leg-wall-connector](images/awning/leg-wall-connector.jpg)
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+
+{% include google-analytics.html %}

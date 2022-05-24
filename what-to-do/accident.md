@@ -13,3 +13,5 @@ use the messaging on Camplify's website.
 
 
 <a href="/#what-to-do"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+
+{% include google-analytics.html %}

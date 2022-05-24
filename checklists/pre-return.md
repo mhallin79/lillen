@@ -12,3 +12,5 @@
 <a href="bad-weather.html" class="right">
 <button class="nav-button">Bad Weather <i class="arrow arrow-right"></i></button>
 </a>
+
+{% include google-analytics.html %}

@@ -28,3 +28,5 @@
 <a href="on-arrival.html" class="right">
 <button class="nav-button">On Arrival <i class="arrow arrow-right" /></button>
 </a>
+
+{% include google-analytics.html %}
