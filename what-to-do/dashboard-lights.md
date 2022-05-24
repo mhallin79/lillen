@@ -1,5 +1,5 @@
 ---
-title: Dashboard Lights · What to Do 
+title: Dashboard Lights &#8729; What to Do 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />
