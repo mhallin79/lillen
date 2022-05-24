@@ -1,3 +1,7 @@
+---
+title: Accident
+---
+
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Accident
