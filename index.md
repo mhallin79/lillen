@@ -42,6 +42,3 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 
 ## Reviews
 [Caravan World](review/index.md){: .list-link}
-
-
-{% include google-analytics.html %}
