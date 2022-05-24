@@ -1,5 +1,5 @@
 ---
-title: Breakdown | What to Do 
+title: Breakdown · What to Do 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />
