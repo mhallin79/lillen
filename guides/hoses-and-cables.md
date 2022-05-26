@@ -47,7 +47,7 @@ However, if you are taking Lillen to stay at someones property they might only h
 
 ## Storage
 All water hose and power cable carrier bags are stored inside the right side rear storage 
-compartment togheter with the weatherproof 15A to 10A power adaptor.
+compartment together with the weatherproof 15A to 10A power adaptor.
 
 ![hose-and-cable-bag-storage](images/hose-and-cable-bag-storage.jpg)
 
