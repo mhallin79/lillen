@@ -33,6 +33,7 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 [Hot Water Heater Controls `PDF`{: .pdf}](guides/hot-water-heater-controls.md){: .list-link}
 [Keys](guides/keys.md){: .list-link}
 [Nitrogen Tyre Inflation `PDF`{: .pdf}](guides/tyres.md){: .list-link}
+[NSW Casual Toll Pass](guides/tolls.md){: .list-link}
 [Water Hoses and Power Cables `PDF`{: .pdf}](guides/hoses-and-cables.md){: .list-link}
 
 ## Videos
