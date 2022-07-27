@@ -1,5 +1,5 @@
 ---
-title: Frridge &#8729; Guides 
+title: Fridge &#8729; Guides 
 ---
 
 <link href="../styles/custom.css" rel="stylesheet" />
@@ -16,6 +16,10 @@ Use mains power if connected to external power.
 ### LPG gas
 Use LPG gas if there is no access to external power.
 
+> **Please note!** If using LPG gas, it can take up to **20 minutes** before the fridge turns on. 
+>
+> The refrigerator must be level and will not operate if not parked on a flat surface.
+
 ### 12V electricity
 12v will only operate whilst driving. 
 
@@ -25,10 +29,6 @@ detract the warm air quicker to the vents.
 
 Fan level 1 is to be used at ambient temperatures above 32C
 Fan level 2 is to be used at ambient temperatures above 38C
-
-> **Please note!** If using LPG gas, it can take up to **20 minutes** before the fridge turns on. 
->
-> The refrigerator must be level and will not operate if not parked on a flat surface.
 
 ## Manual
 Thetford's offical user manual with instructions on how to operate the fridge is 
