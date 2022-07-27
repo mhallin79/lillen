@@ -20,8 +20,8 @@ Use LPG gas if there is no access to external power.
 There are two fans at the rear of the refrigerator to improve the cooling performance in high temperatures. It helps to 
 detract the warm air quicker to the vents. 
 
-Fan level 1 is to be used at ambient temperatures above 32°C
-Fan level 2 is to be used at ambient temperatures above 38°C
+Fan level 1 is to be used at ambient temperatures above 32C
+Fan level 2 is to be used at ambient temperatures above 38C
 
 > **Please note!** If using LPG gas, it can take up to **20 minutes** before the fridge turns on. 
 >
