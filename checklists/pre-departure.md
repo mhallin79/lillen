@@ -21,6 +21,7 @@ title: Pre-Departure &#8729; Checklists
 <label for="lpg"><input type="checkbox" id="lpg"/> Ensure LPG gas bottles are turned off</label>
 <label for="windows"><input type="checkbox" id="windows"/> Ensure that the windows are securely closed and locked</label>
 <label for="tv"><input type="checkbox" id="tv"/> Ensure that the TV is locked away and secured</label>
+<label for="safety-net"><input type="checkbox" id="safety-net"/> Ensure that the fridge door extra security lock is in locked position</label>
 <label for="safety-net"><input type="checkbox" id="safety-net"/> Ensure that the bunk bed safety net is connected</label>
 <label for="kitchen"><input type="checkbox" id="kitchen"/> Ensure everything in the kitchen has been put away and is rattle-proof</label>
 <label for="doors"><input type="checkbox" id="doors"/> Secure all drawers and doors</label>
