@@ -4,19 +4,13 @@ title: Repairs &#8729; Owner Resources
 <link href="../../../styles/custom.css" rel="stylesheet" />
 
 # Repairs
-
 ## Internal
-**Shutter Box**
+###[Shutter Box](https://www.avanspareparts.com.au/all-parts/furniture-and-hardware/misc-products/display/823-shutter-box-2m-length)
 Price: Call for Price
-https://www.avanspareparts.com.au/all-parts/furniture-and-hardware/misc-products/display/823-shutter-box-2m-length
-
-**Blind Retaining Clip for Flyscreen to Blind**
+###[Blind Retaining Clip for Flyscreen to Blind](https://www.avanspareparts.com.au/all-parts/windows-and-blinds/display/825-grey-retainer-to-suit-window-blind-flyscreen)
 Price: $3.40
-https://www.avanspareparts.com.au/all-parts/windows-and-blinds/display/825-grey-retainer-to-suit-window-blind-flyscreen
-
-**Finch LED Hatch**
+###[Finch LED Hatch](https://www.avanspareparts.com.au/all-parts/windows-and-blinds/vents-and-skylights/display/617-finch-led-hatch-700x500-complete)
 Price: $750.00
-https://www.avanspareparts.com.au/all-parts/windows-and-blinds/vents-and-skylights/display/617-finch-led-hatch-700x500-complete
 
 ## External
 **External Grab Handle with LED Light**
