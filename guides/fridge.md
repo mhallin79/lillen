@@ -7,10 +7,13 @@ title: Frridge &#8729; Guides
 # Fridge
 Lillen has a 3-way refrigerator that has 3 modes of operation.
 
+### Auto mode
+The refrigerator automatically selects the best source available. This is recommended. 
+
 ### 240V electricity
 Use mains power if connected to external power.
 
-### LPG gas.
+### LPG gas
 Use LPG gas if there is no access to external power.
 
 ### 12V electricity
@@ -32,7 +35,7 @@ Thetford's offical user manual with instructions on how to operate the fridge is
 available as a [PDF download](/docs/fridge.pdf) in addition the the below user guide. 
 
 ## Video
-A short video from the manufacturer that describes how to operate the [Fridge](/videos/fridge.md) is also available 
+A short video from the manufacturer that describes how to operate the [Fridge](/videos/fridge.html) is also available 
 
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
