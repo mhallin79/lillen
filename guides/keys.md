@@ -10,10 +10,10 @@ Lillen has several keys for the various locks.
 ## Large Black Key with Remote (#C265)
 Main key, used to start the engine, unlock the driver door and also the diesel fuel lock.
 
-![mian-key](images/main-key.jpg)
+![main-key](images/main-key.jpg)
 
 ## Keyring
-![mian-key](images/keyring.jpg)
+![keyring](images/keyring.jpg)
 
 ### 1 - Large Black Key (#C265)
 Backup key, used to start the engine, unlock the driver door and also the diesel fuel lock.

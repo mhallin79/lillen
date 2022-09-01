@@ -35,6 +35,8 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 [Fridge](guides/fridge.md){: .list-link} 
 [Hot Water System](guides/hot-water-system.md){: .list-link}
 [Keys](guides/keys.md){: .list-link}
+[Safety Equipment](guides/safety-equipment.md){: .list-link}
+[Spare Wheel and Jack](guides/spare-wheel-and-jack.md){: .list-link}
 [Nitrogen Tyre Inflation `PDF`{: .pdf}](guides/tyres.md){: .list-link}
 [NSW Casual Toll Pass](guides/tolls.md){: .list-link}
 [Water Hoses and Power Cables `PDF`{: .pdf}](guides/hoses-and-cables.md){: .list-link}
