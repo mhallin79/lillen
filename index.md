@@ -31,7 +31,7 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 [Electric Bed `PDF`{: .pdf}](guides/bed.md){: .list-link}
 [Festoon Lights](guides/festoon-lights.md){: .list-link} 
 [Fridge](guides/fridge.md){: .list-link} 
-[Hot Water Heater Controls `PDF`{: .pdf}](guides/hot-water-heater-controls.md){: .list-link}
+[Hot Water Heater Controls `PDF`{: .pdf}](guides/hot-water-system.md){: .list-link}
 [Keys](guides/keys.md){: .list-link}
 [Nitrogen Tyre Inflation `PDF`{: .pdf}](guides/tyres.md){: .list-link}
 [NSW Casual Toll Pass](guides/tolls.md){: .list-link}
