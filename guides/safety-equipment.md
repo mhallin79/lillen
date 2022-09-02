@@ -14,13 +14,18 @@ A campers first aid kit is located under the wardrobe.
 
 ## Fire Extinguisher 
 A fire extinguisher is located next to the entry door
+
 ![fire-extinguisher](images/fire-extinguisher.jpg)
 
 ## Fire Blanket
 A fire blanket is located over the entry door
+
 ![fire-blanket](images/fire-blanket.jpg)
 
 ## Smoke Detector
+A smoke detector is mounted in the ceiling
+
+![fire-blanket](images/smoke-detector.jpg)
 
 
 ## Gas Detector

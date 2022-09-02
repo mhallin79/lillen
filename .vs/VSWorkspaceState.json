@@ -1,14 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\docs",
     "\\guides",
+    "\\guides\\images",
     "\\owner",
     "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce",
-    "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\checklists",
     "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\insurance",
     "\\review",
     "\\videos",
     "\\what-to-do"
   ],
+  "SelectedNode": "\\guides\\hot-water-system.md",
   "PreviewInSolutionExplorer": false
 }
