@@ -4,8 +4,7 @@
 <h1 class="title">LILLEN CHECKLISTS</h1>
 <h2 class="subtitle">AND GUIDES</h2>
 
-All checklists and guides are available both online in a easy checkbox list 
-format and also in a combined [PDF version](docs/checklist.pdf) 
+The What to Do  and Checklists section is also available in a [PDF version](docs/checklist.pdf) 
 for offline use.
 
 If you have any questions you can message the owner on the [Camplify website](https://www.camplify.com.au/rv/motorhome-rental-woy-woy-nsw-lillen/21613)
@@ -27,10 +26,10 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 
 ## Guides
 [Awning](guides/awning.md){: .list-link}
-[Battery and Water Control Panel `PDF`{: .pdf}](guides/control-panel.md){: .list-link}
+[Battery and Water Control Panel](guides/control-panel.md){: .list-link}
 [Cordless Vacuum ](guides/cordless-vacuum.md){: .list-link}
-[Diesel Heater Control `PDF`{: .pdf}](guides/diesel-heater-control.md){: .list-link}
-[Electric Bed `PDF`{: .pdf}](guides/bed.md){: .list-link}
+[Diesel Heater Control](guides/diesel-heater-control.md){: .list-link}
+[Electric Bed](guides/bed.md){: .list-link}
 [Festoon Lights](guides/festoon-lights.md){: .list-link} 
 [Fridge](guides/fridge.md){: .list-link} 
 [Hot Water System](guides/hot-water-system.md){: .list-link}
@@ -38,9 +37,9 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 [Safety Equipment](guides/safety-equipment.md){: .list-link}
 [Spare Wheel and Jack](guides/spare-wheel-and-jack.md){: .list-link}
 [Microwave Oven](guides/microwave-oven.md){: .list-link}
-[Nitrogen Tyre Inflation `PDF`{: .pdf}](guides/tyres.md){: .list-link}
+[Nitrogen Tyre Inflation ](guides/tyres.md){: .list-link}
 [NSW Casual Toll Pass](guides/tolls.md){: .list-link}
-[Water Hoses and Power Cables `PDF`{: .pdf}](guides/hoses-and-cables.md){: .list-link}
+[Water Hoses and Power Cables](guides/hoses-and-cables.md){: .list-link}
 
 
 ## Videos

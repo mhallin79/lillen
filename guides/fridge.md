@@ -32,7 +32,7 @@ Fan level 2 is to be used at ambient temperatures above 38C
 
 ## Manual
 Thetford's offical user manual with instructions on how to operate the fridge is 
-available as a [PDF download](/docs/fridge.pdf) in addition the the below user guide. 
+available as a [PDF download](/docs/fridge.pdf) in addition the the above user guide. 
 
 ## Video
 A short video from the manufacturer that describes how to operate the [Fridge](/videos/fridge.html) is also available 
