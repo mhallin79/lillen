@@ -5,6 +5,8 @@ title: Pre-Return &#8729; Checklists
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Pre-Return
+This checklists is also available in a [PDF version](/docs/checklists.pdf) for offline use.
+
 <label for="diesel"><input type="checkbox" id="diesel" /> Full Tank of Diesel</label>
 <label for="toilet"> <input type="checkbox" id="toilet" /> Empty Toilet Cassette</label>
 <label for="greywater-tank"><input type="checkbox" id="greywater-tank" /> Empty Greywater Tank</label>

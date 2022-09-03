@@ -7,6 +7,8 @@ title: Bad Weather &#8729; Checklists
 # Bad Weather
 Before bad weather arises, please ensure the following.
 
+This checklists is also available in a [PDF version](/docs/checklists.pdf) for offline use.
+
 > **Important!** Do not leave awning out overnight or unattended.
 
 <label for="awning"> <input type="checkbox" id="awning" /> Ensure awning is packed away</label>

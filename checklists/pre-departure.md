@@ -5,6 +5,7 @@ title: Pre-Departure &#8729; Checklists
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Pre-Departure
+This checklists is also available in a [PDF version](/docs/checklists.pdf) for offline use.
 
 <label for="antenna"><input type="checkbox" id="antenna" /> Ensure that the rooftop tv antenna is retracted and secured</label>
 <label for="awning"><input type="checkbox" id="awning" /> Ensure awning is retracted and secured properly</label>

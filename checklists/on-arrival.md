@@ -42,6 +42,7 @@ title: On Arrival &#8729; Checklists
 </script>
 
 # On Arrival
+This checklists is also available in a [PDF version](/docs/checklists.pdf) for offline use.
 
 Activate the site facilities available:
 

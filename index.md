@@ -19,7 +19,7 @@ A flyer is also available in a [PDF version](docs/flyer.pdf) for offline use.
 [Dashboard Lights](what-to-do/dashboard-lights.md){: .list-link}
 
 ## Checklists
-Checklists are also available in a [PDF version](docs/checklist.pdf) for offline use.
+Checklists are also available in a [PDF version](docs/checklists.pdf) for offline use.
 [Pre-Departure](checklists/pre-departure.md){: .list-link}
 [On Arrival](checklists/on-arrival.md){: .list-link}
 [Pre-Return](checklists/pre-return.md){: .list-link}
