@@ -4,8 +4,7 @@
 <h1 class="title">LILLEN CHECKLISTS</h1>
 <h2 class="subtitle">AND GUIDES</h2>
 
-The What to Do  and Checklists section is also available in a [PDF version](docs/checklist.pdf) 
-for offline use.
+
 
 If you have any questions you can message the owner on the [Camplify website](https://www.camplify.com.au/rv/motorhome-rental-woy-woy-nsw-lillen/21613)
 or send an email to [owner@lillen.au](mailto:owner@lillen.au)
@@ -14,11 +13,13 @@ or send an email to [owner@lillen.au](mailto:owner@lillen.au)
 [Caravan World](review/index.md){: .list-link}
 
 ## What to Do 
+A flyer is also available in a [PDF version](docs/flyer.pdf) for offline use.
 [Accident](what-to-do/accident.md){: .list-link}
 [Breakdown](what-to-do/breakdown.md){: .list-link}
 [Dashboard Lights](what-to-do/dashboard-lights.md){: .list-link}
 
 ## Checklists
+Checklists are also available in a [PDF version](docs/checklist.pdf) for offline use.
 [Pre-Departure](checklists/pre-departure.md){: .list-link}
 [On Arrival](checklists/on-arrival.md){: .list-link}
 [Pre-Return](checklists/pre-return.md){: .list-link}
