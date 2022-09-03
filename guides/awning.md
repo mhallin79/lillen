@@ -5,8 +5,7 @@ title: Awning &#8729; Guides
 <link href="../styles/custom.css" rel="stylesheet" />
 
 # Awning
-Thule's offical user manual with instructions on how to operate the awning is 
-available as a [PDF download](/docs/awning.pdf) in addition the the below user guide. 
+
 
 ## Insert the Crank Arm
 1. Insert the cranck arm fully
@@ -30,6 +29,10 @@ Lock the legs into place
 ![leg-lock](images/awning/leg-lock.jpg)
 Optional leg wall connector 
 ![leg-wall-connector](images/awning/leg-wall-connector.jpg)
+
+
+## Manual
+The manufacturers operating manual is available as a [PDF download](/docs/awning.pdf). 
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 

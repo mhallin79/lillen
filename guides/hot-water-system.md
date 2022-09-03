@@ -10,9 +10,6 @@ Lillen has a 28 Liter Dual (Gas & Electric) Hot Water System.
 
 This is enough capacity for a **6 minute hot shower**. 
 
-The manufacturers operating instructions is available as a [PDF download](/docs/hot-water-system.pdf) in addition the the below user guide. 
-
-
 ## Controls
 The hot water controls are located at the back of the motorhome on the left side next to 
 the [diesel heater control](diesel-heater-control.md).
@@ -40,7 +37,8 @@ ensure that the flame sensor monitors the gas correctly.
 If the gas fails or it senses a fault in the system it will turn off the gas and the
 light will flash at a constant rate until the switch is turned off to reset the unit.
 
-
+## Manual
+The manufacturers operating instructions is available as a [PDF download](/docs/hot-water-system.pdf). 
 
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>

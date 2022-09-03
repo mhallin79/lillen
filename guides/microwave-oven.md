@@ -19,25 +19,25 @@ Lillen has a 800W Compact Microwave Oven.
 
 ![control panel](images/microwave-oven-quick-reference-guide.png)
 
-## Power Issues
+## Manual
+The manufacturers operating manual is available as a [PDF download](/docs/microwave-oven.pdf). 
 
-1. Ensure that external 240V is connected
+## Troubleshooting
+If the microwave oven will not power on follow the below steps.
+
+1. Ensure that external 240V is connected by ensuring the 230V light is lit on the [Battery and Water Control Panel](/guides/control-panel.md).
 
 ![external-240v](images/external-240v-indicator.jpg)
 
 2. Ensure that the 240v fuse has not tripped
 
-The 240V Fuse Box is located behind the driver seat.
+The 240V Fuse Box is mounted on the passenger couch behind the driver seat.
 
 ![240v-fuse-box](images/240v-fuse-box.jpg)
 
 The right fuse switch is for the microwave.
 
 ![fuse-switch](images/microwave-oven-fuse.jpg)
-
-## Manual
-The manufacturers operating manual is available as a [PDF download](/docs/microwave-oven.pdf)
-in addition the the above user guide. 
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
