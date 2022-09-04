@@ -41,6 +41,7 @@ Checklists are also available in a [PDF version](docs/checklists.pdf) for offlin
 [Fridge](guides/fridge.md){: .list-link} 
 [Hot Water System](guides/hot-water-system.md){: .list-link}
 [Keys](guides/keys.md){: .list-link}
+[LPG bottles](guides/lpg-bottles.md){: .list-link}
 [Safety Equipment](guides/safety-equipment.md){: .list-link}
 [Spare Wheel and Jack](guides/spare-wheel-and-jack.md){: .list-link}
 [Microwave Oven](guides/microwave-oven.md){: .list-link}
