@@ -29,7 +29,20 @@ The bunk bed has a custom mattress measuring 140cm x 200cm. It is provided with
 - Charcoal matress protector
 - Two pillows with charcoal pillow protectors
 
-![electric bed](images/bedding-bunk-bed.jpg)
+![bunk bed](images/bedding-bunk-bed.jpg)
+
+### Safety Net
+The bunk bed has a safety net.
+
+![safety net](images/bedding-bunk-bed-safety-net.jpg)
+ 
+## Blinds
+All windows including the cab has blinds.
+
+Example of the door and windscreen blinds inside the cab. 
+
+![cab blinds](images/bedding-cab-blinds.jpg)
+
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
