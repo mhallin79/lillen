@@ -9,7 +9,7 @@ title: Electric Bed &#8729; Guides
 Lillen comes equipped with an electric bed.
 
 The bed is operated from the control switch located under the TV unit. 
-![fuse-box-1](images/electric-bed-lift-control.jpg)
+![lift control](images/electric-bed-lift-control.jpg)
 
 Pressing and holding the switch in the UP position moves the bed upward. 
 
