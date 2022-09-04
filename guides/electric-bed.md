@@ -11,6 +11,14 @@ Lillen comes equipped with an electric bed.
 The bed is operated from the control switch located under the TV unit. 
 ![lift control](images/electric-bed-lift-control.jpg)
 
+Example video of how the bed comes down from the ceiling.
+<div class="iframeVideo">
+<iframe src="https://www.youtube.com/embed/P3ik0_k77sE"
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
+</div>
+
 Pressing and holding the switch in the UP position moves the bed upward. 
 
 Pressing and holding the switch in the DOWN position, moves the bed downward.
