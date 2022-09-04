@@ -49,19 +49,19 @@ First check that button 1 and 2 on the [Battery and Water Control Panel](control
 If the cables are properly connected, the next place to check is the fuse box that is located 
 under the passenger couch behind the driver seat. 
 
-The bed fuse is located next to the blue Electroblock.
+The bed's 20A fuse is located inside the fuse box next to the blue Electroblock.
 ![fuse-box-1](images/electric-bed-fuse-box-1.jpg)
 
-Remove the plastic the cover.
+Remove the fuse box plastic the cover.
 ![fuse-box-2](images/electric-bed-fuse-box-2.jpg)
 
-Check the first fuse fromt the right.
+Check the first 20A fuse fromt the right.
 ![fuse-box-3](images/electric-bed-fuse-box-3.jpg)
 
 Example of what a demaged fuse looks like.
 ![fuse-box-3](images/electric-bed-damaged-fuse.jpg)
 
-There is a Spare Fuses Kit inside the storage hatch at the rear on the right side (where the water hoses are stored). 
+There is a Spare Fuse Kit inside the storage hatch at the rear on the right side (where the water hoses are stored). 
 
 ### Check 12V Power
 If the bed will not raise when using 12V, check the power level of the "house battery" on 

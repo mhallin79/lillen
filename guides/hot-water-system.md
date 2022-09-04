@@ -12,7 +12,7 @@ This is enough capacity for a **6 minute hot shower**.
 
 ## Controls
 The hot water controls are located at the back of the motorhome on the left side next to 
-the [diesel heater control](diesel-heater-control.md).
+the [diesel heater control](diesel-heater.md).
 
 ![control panel](images/hot-water-heater-controls.png)
 
