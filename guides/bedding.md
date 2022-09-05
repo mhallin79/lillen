@@ -36,13 +36,16 @@ The bunk bed has a safety net.
 
 ![safety net](images/bedding-bunk-bed-safety-net.jpg)
  
-## Blinds
-All windows including the cab has blinds.
+## Blankout Blinds
+All windows including the sunroof hatch and cab has blackout blinds.
 
-Example of the door and windscreen blinds inside the cab. 
+Example of the door and windscreen bloackout blinds inside the cab. 
 
 ![cab blinds](images/bedding-cab-blinds.jpg)
 
+All windows has internal blackout blind and flyscreen set.
+
+![window blind and flyscreen](images/window-blind-flyscreen.jpg)
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
