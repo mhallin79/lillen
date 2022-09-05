@@ -20,9 +20,26 @@ It has a three speed, ultra-quiet, high efficiency fan and a remote control with
 
 ![remote control operating instructions](images/air-conditioner-remote-control-operating-instructions.png)
 
-
 ## Manual
 The manufacturers operating manual is available as a [PDF download](/docs/air-conditioner.pdf). 
+
+## Troubleshooting
+If the Air Conditioner will not power on follow the below steps.
+
+1. Ensure that external 240V is connected by ensuring the 230V light is lit on the [Battery and Water Control Panel](/guides/control-panel.md).
+
+![external-240v](images/external-240v-indicator.jpg)
+
+2. Ensure that the 240v fuse has not tripped
+
+The 240V Fuse Box is mounted on the passenger couch behind the driver seat.
+
+![240v-fuse-box](images/240v-fuse-box.jpg)
+
+The left fuse switch is for the Air Conditioner.
+
+![fuse-switch](images/air-conditioner-fuse.jpg)
+
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
