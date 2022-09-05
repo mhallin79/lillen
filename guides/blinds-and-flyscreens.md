@@ -5,7 +5,7 @@ title: Blinds and Flyscreens &#8729; Guides
 <link href="../styles/custom.css" rel="stylesheet" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 
-## Blinds and Flyscreens
+# Blinds and Flyscreens
 All windows including the sunroof hatch, main entry door and cab has blackout blinds.
 
 All windows has internal blackout blind and flyscreen set.
