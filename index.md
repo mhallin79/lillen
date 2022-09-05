@@ -35,6 +35,7 @@ Checklists are also available in a [PDF version](docs/checklists.pdf) for offlin
 [Awning](guides/awning.md){: .list-link}
 [Battery and Water Control Panel](guides/control-panel.md){: .list-link}
 [Bedding](guides/bedding.md){: .list-link}
+[Blinds and Flyscreens](guides/blinds-and-flyscreens.md){: .list-link}
 [Cordless Vacuum ](guides/cordless-vacuum.md){: .list-link}
 [Diesel Heater](guides/diesel-heater.md){: .list-link}
 [Electric Bed](guides/electric-bed.md){: .list-link}
