@@ -17,7 +17,11 @@ It has a three speed, ultra-quiet, high efficiency fan and a remote control with
 ![plenum box](images/air-conditioner-plenum-box.jpg)
 
 ### Remote Control 
+The remote to the Air Conditioner is located under the TV unit. 
 
+![remote control operating instructions](images/air-conditioner-remote.jpg)
+
+#### Quick Reference Guide
 ![remote control operating instructions](images/air-conditioner-remote-control-operating-instructions.png)
 
 ## Manual
