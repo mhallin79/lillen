@@ -74,13 +74,13 @@ will not charge the 12V battery properly.</label>
 <label class="water-N"><input type="checkbox" /> Turn the water pump on.<br/>
 <em>Button 4 on the <a href="../guides/control-panel.html">Battery and Water Control Panel</a></em>
 </label>
-<label class="power-N"><input type="checkbox" /> Turn the hot water heater on using the Gas button.<br />
-<em>The <a href="hot-water-system.md">Hot Water Heater Controls</a> are located on the left-hand side back lounge area</em></label>
-<label class="power-Y"><input type="checkbox" /> Turn the hot water heater on using the Electric button.<br />
-<em>The <a href="hot-water-system.md">Hot Water Heater Controls</a> are located on the left-hand side back lounge area</em></label>
-<label class="power-N"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to LPG gas.</label>
+<label class="power-N"><input type="checkbox" /> Turn the hot water system on using the Gas button.<br />
+<em>The <a href="hot-water-system.html">Hot Water Heater Controls</a> are located on the left-hand side back lounge area</em></label>
+<label class="power-Y"><input type="checkbox" /> Turn the hot water system on using the Electric button.<br />
+<em>The <a href="hot-water-system.html">Hot Water Heater Controls</a> are located on the left-hand side back lounge area</em></label>
+<label class="power-N"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to gas.</label>
 <label class="power-Y"><input type="checkbox" /> Ensure the refrigerator (in auto mode) is switched to 240V.</label>
-<label class="power-N"><input type="checkbox" /> Ensure the refrigerator fan is switched on.</label>
+<label><input type="checkbox" /> Ensure the refrigerator fan is switched on if required.</label>
 </div>
 
 > **Please note!** If using LPG gas, it can take up to **20 minutes** before the fridge turns on. 
