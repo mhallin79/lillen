@@ -11,12 +11,12 @@ This checklists is also available in a [PDF version](/docs/checklists.pdf) for o
 <label for="awning"><input type="checkbox" id="awning" /> Ensure awning is retracted and secured properly</label>
 <label for="sunroof"> <input type="checkbox" id="sunroof" /> Ensure sunroof hatch is closed. Including in the bathroom</label>
 <label for="bike-rack"><input type="checkbox" id="bike-rack" /> Ensure bike rack is secure</label>
-<label for="bike-rack"><input type="checkbox" id="bike-rack" /> Ensure that outdoor shower access door is secured and locked</label>
+<label for="bike-rack"><input type="checkbox" id="bike-rack" /> Ensure that the outdoor shower access door is secured and locked</label>
 <label for="control-panel"><input type="checkbox" id="control-panel" /> Ensure that Button 1-4 on the [Battery and Water Control Panel](../guides/control-panel.md) are off</label>
 <label for="water-heater"><input type="checkbox" id="water-heater"/> Ensure that the hot water heater is off<br/>
 *Buttons are located on the left-hand side back lounge area*</label>
 <label for="diesel-heater"><input type="checkbox" id="diesel-heater" /> Ensure that the diesel heater is off *if applicable*<br/>
-*Dial is located on the left-hand side back lounge area*</label>
+*Rotary Control is located on the left-hand side back lounge area*</label>
 <label for="power"><input type="checkbox" id="power"/> Disconnect 240V electricity *if applicable*</label>
 <label for="city-water"><input type="checkbox" id="city-water"/> Disconnect city water *if applicable*</label>
 <label for="greywater"><input type="checkbox" id="greywater"/> Disconnect greywater *if applicable*</label>
