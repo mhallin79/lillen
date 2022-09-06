@@ -32,6 +32,7 @@ Checklists are also available in a [PDF version](docs/checklists.pdf) for offlin
 
 ## Guides
 [Air Conditioner](guides/air-conditioner.md){: .list-link}
+[Antenna and TV](guides/antenna-and-tv.md){: .list-link}
 [Awning](guides/awning.md){: .list-link}
 [Battery and Water Control Panel](guides/control-panel.md){: .list-link}
 [Bedding](guides/bedding.md){: .list-link}

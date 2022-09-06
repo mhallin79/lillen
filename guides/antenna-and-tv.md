@@ -13,13 +13,27 @@ Lillen has a windup antenna and 12V TV with built in DVD player.
 ## Antenna
 ![remote](images/antenna-and-tv-antenna-up-position.jpg)
 
-### Aerial Reception Booster
-Trn the aerial on by pressing the red button.
+Start by turnign the aerial on and windup the antenna. 
 
-![remote](images/antenna-and-tv-aerial-reception-booster.jpg)
+The aerial power switch and antena elevation crank is located in the cupboard over the cooktop and rangehood.
+
+![aerial-reception-booster](images/antenna-and-tv-aerial-and-crank-location.jpg)
+
+
+### Aerial Reception Booster
+
+1. Turn the aerial on by pressing the red power button.
+
+2. Make sure that the red light is on.
+
+![aerial-reception-booster](images/antenna-and-tv-aerial-reception-booster.jpg)
+
+3. Also ensure that a red light is visbale on the antenna.
+
+![antenna-aerial-light](images/antenna-and-tv-antenna-aerial-light.jpg)
 
 ### Elevating Crank
-Windup the antenna using the elevating crank
+Windup the antenna using the elevating crank.
 
 ![remote](images/antenna-and-tv-antenna-elevating-crank.jpg)
 
@@ -88,7 +102,8 @@ To start a channel search press the MENU button on the remote (located under the
 
 6. Enjoy free to air channels
 
-
+## Video
+A short video from the manufacturer that describes how to operate the [Antenna and TV](/videos/antenna-and-tv.md) is also available.
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
