@@ -14,13 +14,13 @@ title: Review Templates &#8729; Owner Resources
 - Driving 
   - Pilot Light
   - Gears 
+    - Neutral gear when starting the engine
     - Switch betwen Auto and Manual
-    - Neutral
     - Reverse Gear to turn off the engine
   - Always use the Handbreak when stopped
   - Reversing Camera
   - Cruise Control
-  - How to section
+  - Tips
     - Using a spotter  
     - Using Low Gears and Engine Breaking going down steep hills
-    - Using leveling Blocks
+    - Using leveling blocks
