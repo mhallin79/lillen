@@ -27,7 +27,6 @@ and I be very happy to rent out Lillen to them again anytime!
 #### Guides TODO
 - Antenna and TV
 - COBB charcoal BBQ
-- Outdoor shower
 - Bike rack
 
 <div class="alert alert-primary">
