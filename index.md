@@ -36,7 +36,8 @@ Checklists are also available in a [PDF version](docs/checklists.pdf) for offlin
 [Battery and Water Control Panel](guides/control-panel.md){: .list-link}
 [Bedding](guides/bedding.md){: .list-link}
 [Blinds and Flyscreens](guides/blinds-and-flyscreens.md){: .list-link}
-[Cordless Vacuum ](guides/cordless-vacuum.md){: .list-link}
+[Cassette Toilet](guides/cordless-vacuum.md){: .list-link}
+[Cordless Vacuum](guides/cordless-vacuum.md){: .list-link}
 [Diesel Heater](guides/diesel-heater.md){: .list-link}
 [Electric Bed](guides/electric-bed.md){: .list-link}
 [Festoon Lights](guides/festoon-lights.md){: .list-link} 
@@ -48,9 +49,8 @@ Checklists are also available in a [PDF version](docs/checklists.pdf) for offlin
 [Spare Wheel and Jack](guides/spare-wheel-and-jack.md){: .list-link}
 [Microwave Oven](guides/microwave-oven.md){: .list-link}
 [Oven and Cooktop](guides/oven-and-cooktop.md){: .list-link}
-[Nitrogen Tyre Inflation ](guides/tyres.md){: .list-link}
+[Nitrogen Tyre Inflation](guides/tyres.md){: .list-link}
 [NSW Casual Toll Pass](guides/tolls.md){: .list-link}
 [Water Hoses and Power Cables](guides/hoses-and-cables.md){: .list-link}
-
 
 {% include google-analytics.html %}

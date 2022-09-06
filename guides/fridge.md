@@ -37,12 +37,11 @@ detract the warm air quicker to the vents.
 Fan level 1 is to be used at ambient temperatures above 32C
 Fan level 2 is to be used at ambient temperatures above 38C
 
+## Video
+A short video from the manufacturer that describes how to operate the [Fridge](/videos/fridge.md) is also available 
+
 ## Manual
 The manufacturers operating manual is available as a [PDF download](/docs/fridge.pdf). 
-
-## Video
-A short video from the manufacturer that describes how to operate the [Fridge](/videos/fridge.html) is also available 
-
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
