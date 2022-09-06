@@ -20,6 +20,7 @@ title: Return &#8729; Owner Resources
 <label for="toilet"> <input type="checkbox" id="toilet" /> Toilet Cassette</label>
 <label for="grey-water-tank"><input type="checkbox" id="grey-water-tank" /> Grey Water Tank</label>
 <label for="awning"><input type="checkbox" id="awning" /> Awning</label>
+<label for="gas-bottles"><input type="checkbox" id="gas-bottles" /> Gas Bottles</label>
 <label for="bed"><input type="checkbox" id="bed" /> Electric Bed</label>
 
 
