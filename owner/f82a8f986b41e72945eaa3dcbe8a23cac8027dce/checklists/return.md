@@ -22,6 +22,7 @@ title: Return &#8729; Owner Resources
 <label for="awning"><input type="checkbox" id="awning" /> Awning</label>
 <label for="gas-bottles"><input type="checkbox" id="gas-bottles" /> Gas Bottles</label>
 <label for="bed"><input type="checkbox" id="bed" /> Electric Bed</label>
+<label for="bed"><input type="checkbox" id="bed" /> Outdoor Shower</label>
 
 
 <a href="../"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>

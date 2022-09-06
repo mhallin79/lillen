@@ -48,6 +48,7 @@ Checklists are also available in a [PDF version](docs/checklists.pdf) for offlin
 [Safety Equipment](guides/safety-equipment.md){: .list-link}
 [Spare Wheel and Jack](guides/spare-wheel-and-jack.md){: .list-link}
 [Microwave Oven](guides/microwave-oven.md){: .list-link}
+[Outdoor Shower](guides/outdoor-shower.md){: .list-link}
 [Oven and Cooktop](guides/oven-and-cooktop.md){: .list-link}
 [Nitrogen Tyre Inflation](guides/tyres.md){: .list-link}
 [NSW Casual Toll Pass](guides/tolls.md){: .list-link}
