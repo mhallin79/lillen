@@ -13,7 +13,11 @@ title: Review Templates &#8729; Owner Resources
 - Car stereo, GPS navigation and Bluetooth Pairing
 - Driving 
   - Pilot Light
-  - Gears (switch betwen Auto and Manual)
+  - Gears 
+    - Switch betwen Auto and Manual
+    - Neutral
+    - Reverse Gear to turn off the engine
+  - Always use the Handbreak when stopped
   - Reversing Camera
   - Cruise Control
   - How to section
