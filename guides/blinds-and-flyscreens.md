@@ -8,22 +8,25 @@ title: Blinds and Flyscreens &#8729; Guides
 # Blinds and Flyscreens
 All windows including the sunroof hatch, main entry door and cab has blackout blinds.
 
-All windows has internal blackout blind and flyscreen set.
+Example of window blind and flyscreen set.
 
 ![window blind and flyscreen](images/blind-and-flyscreen-window.jpg)
 
 Sunroof hatch.
 
-![window blind and flyscreen](images/blind-and-flyscreen-hatch.jpg)
+![hatch blind and flyscreen](images/blind-and-flyscreen-hatch.jpg)
 
-Main entry door.
+Main entry door blinds.
 
-![window blind and flyscreen](images/blind-and-flyscreen-door.jpg)
+![Entry door blind](images/blind-and-flyscreen-door-blind.jpg)
 
-Example of the door and windscreen bloackout blinds inside the cab. 
+Main entry door flyscreen.
+
+![Entry door flyscreen](images/blind-and-flyscreen-door-flyscreen.jpg)
+
+Example of the door and windscreen blinds inside the cab. 
 
 ![cab blinds](images/blind-and-flyscreen-cab.jpg)
-
 
 <a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
