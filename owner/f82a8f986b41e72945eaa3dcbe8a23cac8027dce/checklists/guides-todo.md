@@ -9,17 +9,23 @@ title: Review Templates &#8729; Owner Resources
 - COBB Charcoal BBQ
 - Bike Rack
 - Coffee Machine
+- Kitchen Inventory
+  - Plates and Bowles
+  - Glasses
+  - Cutlery
+  - Cookware
 - Stereo & DVD player
 - Car stereo, GPS navigation and Bluetooth Pairing
 - Driving 
   - Pilot Light
   - Gears 
-    - Neutral gear when starting the engine
+    - Neutral Gear after starting the engine
     - Switch betwen Auto and Manual
     - Reverse Gear to turn off the engine
   - Always use the Handbreak when stopped
   - Reversing Camera
   - Cruise Control
+  - Height Limitations
   - Tips
     - Using a spotter  
     - Using Low Gears and Engine Breaking going down steep hills
