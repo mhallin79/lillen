@@ -48,10 +48,14 @@ Please follow below steps to empty the waste tank.
 
 1. Unlock the access door and open it.
 2. Remove the waste tank by pulling the safety catch upwards.
+
 ![wast tanke](images/cassette-toilet-waste-tank-access-door.jpg)
+
 3. Pull the waste tank outwards to the stop. Tip it slightly and take out the tank completely.
 4. Place the tank upright and turn the emptying spout upwards.
+
 ![wast tanke](images/cassette-toilet-waste-tank.jpg)
+
 5. Empty at designated dump point
 6. Rinse out tank with fresh water 
 
