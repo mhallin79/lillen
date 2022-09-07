@@ -12,6 +12,12 @@ A campers first aid kit is located under the wardrobe.
 
 ![first-aid-kit](images/first-aid-kit.jpg)
 
+## Flashlight
+A LED flashlight is mounted next to the entry door.
+
+![first-aid-kit](images/flashlight.jpg)
+
+
 ## Fire Extinguisher 
 A fire extinguisher is located next to the entry door
 
