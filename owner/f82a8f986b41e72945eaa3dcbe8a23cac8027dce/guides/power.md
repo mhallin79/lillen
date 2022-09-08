@@ -28,7 +28,6 @@ The solar charge controller during the day while solar panels are charging with 
     <strong>Note:</strong> Work Mode is currenlty set to <b>Manual Mode</b>
 </div>
 
-
 ![batteries fuses](images/solar-charge-controller-day.jpg)
 
 The solar charge controller at night with load
@@ -49,3 +48,5 @@ Electroblock [Manual](../docs/electroblock.pdf)
 
 
 ## Solar Panels
+
+![solar panels](images/solar-panels.jpg)

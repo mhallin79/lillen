@@ -21,6 +21,19 @@ The remote to the Air Conditioner is located under the TV unit.
 
 ![remote control operating instructions](images/air-conditioner-remote.jpg)
 
+#### Modes
+Example of setting the remote at 22 degress **Auto**
+
+![remote control auto](images/air-conditioner-remote-auto.jpg)
+
+Example of setting the remote at 19 degress **Cool**
+
+![remote control auto](images/air-conditioner-remote-cool.jpg)
+
+Example of setting the remote at 26 degress **Heat**
+
+![remote control auto](images/air-conditioner-remote-heat.jpg)
+
 #### Quick Reference Guide
 ![remote control operating instructions](images/air-conditioner-remote-control-operating-instructions.png)
 
