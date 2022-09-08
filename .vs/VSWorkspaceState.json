@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\checklists",
     "\\guides",
-    "\\guides\\images",
     "\\owner",
     "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce",
     "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\checklists",
+    "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\checklists\\images",
+    "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\docs",
     "\\review",
     "\\videos",
     "\\what-to-do"
   ],
-  "SelectedNode": "\\index.md",
+  "SelectedNode": "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\checklists\\power.md",
   "PreviewInSolutionExplorer": false
 }
