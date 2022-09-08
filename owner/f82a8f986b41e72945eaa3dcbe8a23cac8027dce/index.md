@@ -20,4 +20,4 @@ title: Owner Resources
 [Hirer Reviews](templates/hirer-reviews.md){: .list-link}
 
 ## Videos
-[Power](videos/custom-power.md){: .list-link}
+[Custom Power](videos/custom-power.md){: .list-link}
