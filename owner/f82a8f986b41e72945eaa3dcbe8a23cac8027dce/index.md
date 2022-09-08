@@ -18,3 +18,6 @@ title: Owner Resources
 ## Templates
 [HTML](templates/html.md){: .list-link}
 [Hirer Reviews](templates/hirer-reviews.md){: .list-link}
+
+## Videos
+[Power](videos/custom-power.md){: .list-link}
