@@ -5,6 +5,12 @@ title: Oven and Cooktop &#8729; Guides
 <link href="../styles/custom.css" rel="stylesheet" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 
+<style>
+    td {
+      text-align: center;
+    }
+</style>
+
 # Oven and Cooktop
 Lillen's kitchen is equip with a gas oven with grill and a 3 burner gas cooktop. 
 
@@ -40,18 +46,44 @@ Once the burner is lit, keep the knob pushed in for a few seconds to ensure the 
 
 ![oven controls](images/oven-and-cooktop-oven-controls.jpg)
 
-### Oven flame regulation with thermostat
-| Position | Temperature |
-|---|---|
-| 1 | 130 &#8451; | 
-| 2 | 160 &#8451; | 
-| 3 | 180 &#8451; | 
-| 4 | 200 &#8451; | 
-| 5 | 220 &#8451; | 
-| 6 | 240 &#8451; | 
+### Oven Thermostat
+When the oven burner is ignited the flame remains at **high flame** in all knob positions. When the oven reaches
+the set temperature the flame automatically goes down to **low flame**.
 
-When the oven burner is ignited the flame remains at high flame in all knob positions. When the oven reaches
-the set temperature the flame automatically goes down to low flame.
+<table>
+    <thead>
+        <tr>
+            <th>Position</th>
+            <th>Temperature</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>130 &#8451;</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>160 &#8451;</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>180 &#8451;</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>200 &#8451;</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>220 &#8451;</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>240 &#8451;</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Cooktop
 The cooktop has 3 gas burners with electronic ignition.
