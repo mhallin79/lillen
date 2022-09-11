@@ -8,6 +8,18 @@ title: Fridge &#8729; Guides
 # Fridge
 Lillen has a 3-way refrigerator that has 3 modes of operation.
 
+![main-key](images/fridge.jpg)
+
+## Measurements
+
+| Cabinet | Volume | Width | Height | Depth |
+|---|---|---|---|---|
+| Fridge | **145** Liters | 43cm | 80cm | 42cm |
+| Freezer | **28** Liters | 38cm | 23cm | 32cm |
+| **TOTAL** | **173** Liters |
+
+## Modes
+
 ### Auto mode
 The refrigerator automatically selects the best source available. This is recommended. 
 
@@ -31,11 +43,14 @@ Use LPG gas if there is no access to external power.
 12v will only operate whilst driving. 
 
 ### Fans
-There are two fans at the rear of the refrigerator to improve the cooling performance in high temperatures. It helps to 
-detract the warm air quicker to the vents. 
+There are two fans at the rear of the refrigerator to improve the cooling performance in high temperatures. 
+It helps to detract the warm air quicker to the vents. 
 
-Fan level 1 is to be used at ambient temperatures above 32C
-Fan level 2 is to be used at ambient temperatures above 38C
+Fan **level 1** is to be used at ambient temperatures above **32C** <br/>
+Fan **level 2** is to be used at ambient temperatures above **38C**
+
+![main-key](images/fridge-fan-switch.jpg)
+
 
 ## Video
 A short video from the manufacturer that describes how to operate the [Fridge](/videos/fridge.md) is also available 

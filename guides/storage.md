@@ -11,8 +11,6 @@ Lillen has plenty of storage for a van this size.
 ## Wardrobe
 The wardrobe has a lot of space.
 
-Volume: **351L** Width: **45cm** Height: **120cm** Depth: **65cm**
-
 ![main-key](images/storage-wardrobe.jpg)
 
 ## Cabinet under the Wardrobe
