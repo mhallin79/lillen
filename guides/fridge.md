@@ -11,6 +11,7 @@ Lillen has a 3-way refrigerator that has 3 modes of operation that is specially 
 ![main-key](images/fridge.jpg)
 
 ## Measurements
+Whilst the total gross capacity of the fridge is **185L**, the usable volume available to store food & drink is listed below.
 
 | Cabinet | Volume | Width | Height | Depth |
 |---|---|---|---|---|
@@ -22,11 +23,12 @@ Lillen has a 3-way refrigerator that has 3 modes of operation that is specially 
 
 ![main-key](images/fridge-control-panel.png)
 
-1. On/Off switch
+**LEGEND**
+1. ON/OFF Button
 2. Arrow Buttons
 3. Confirmation Button
 4. Sources
-5. Cooling level indicators
+5. Cooling Level Indicators
 6. Anti-condensation 
 
 ## Modes
