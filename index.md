@@ -48,6 +48,7 @@ Checklists are also available in a [PDF version](docs/checklists.pdf) for offlin
 [LPG Bottles](guides/lpg-bottles.md){: .list-link}
 [Safety Equipment](guides/safety-equipment.md){: .list-link}
 [Spare Wheel and Jack](guides/spare-wheel-and-jack.md){: .list-link}
+[Storage](guides/storage.md){: .list-link}
 [Microwave Oven](guides/microwave-oven.md){: .list-link}
 [Outdoor Shower](guides/outdoor-shower.md){: .list-link}
 [Oven and Cooktop](guides/oven-and-cooktop.md){: .list-link}
