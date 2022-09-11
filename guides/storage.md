@@ -45,7 +45,7 @@ The cabinets over the fridge can be used to store non perishable items.
 
 ## Measurements 
 
-| Cabinet | Volume | Width | Height | Depth |
+|  | Volume | Width | Height | Depth |
 |---|---|---|---|---|
 | Wardrobe | **351** Liters | 45cm | 120cm | 65cm |
 | Left Cabinet over Passenger Couch | **47** Liters | 35cm | 45cm | 30cm |

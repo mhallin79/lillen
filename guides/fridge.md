@@ -12,11 +12,11 @@ Lillen has a 3-way refrigerator that has 3 modes of operation.
 
 ## Measurements
 
-| Cabinet | Volume | Width | Height | Depth |
+|  | Volume | Width | Height | Depth |
 |---|---|---|---|---|
-| Fridge | **145** Liters | 43cm | 80cm | 42cm |
-| Freezer | **28** Liters | 38cm | 23cm | 32cm |
-| **TOTAL** | **173** Liters |
+| Fridge | **155** Liters | 43cm | 80cm | 45cm |
+| Freezer | **30** Liters | 38cm | 24cm | 33cm |
+| **TOTAL** | **185** Liters |
 
 ## Modes
 
