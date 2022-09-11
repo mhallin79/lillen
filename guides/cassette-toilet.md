@@ -31,12 +31,12 @@ bad odour escaping the waste tank into the van.
 </div>
 
 ## Waste Tank Treatment
-Bio-Pak is provied and located under the bathroom sink. It is easy to use with no messy liquids abd quickly breaks 
+Bio-Pak is provied and located in the cupboard under the bathroom sink. It is easy to use with no messy liquids and quickly breaks 
 down waste, avoids unpleasant smells in the waste tank and keeps the inside of the waste tank clean. 
 
 Before use, drop a one BIO-PAK packet into the toilet waste tank and flush until covered. 
 
-![bio-pak](images/cassette-toilet-bio-pak.jpg)
+![keyring](images/storage-cupboard-bathroom.jpg)
 
 ## Waste Tank
 Please follow below steps to empty the waste tank.
