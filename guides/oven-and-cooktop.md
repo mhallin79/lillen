@@ -41,7 +41,15 @@ Once the burner is lit, keep the knob pushed in for a few seconds to ensure the 
 ![oven controls](images/oven-and-cooktop-oven-controls.jpg)
 
 ### Oven flame regulation with thermostat
-![oven temperatures](images/oven-and-cooktop-oven-temperatures.png)
+| Position | Temperature |
+|---|---|
+| 1 | 130 &#8451; | 
+| 2 | 160 &#8451; | 
+| 3 | 180 &#8451; | 
+| 4 | 200 &#8451; | 
+| 5 | 220 &#8451; | 
+| 6 | 240 &#8451; | 
+
 When the oven burner is ignited the flame remains at high flame in all knob positions. When the oven reaches
 the set temperature the flame automatically goes down to low flame.
 
