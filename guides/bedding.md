@@ -14,7 +14,7 @@ Lillen has two beds that sleeps up to four people.
 </div>
 
 ## Electric Bed
-The electric bed has a standard double bed mattress. It is provided with 
+The electric bed has a standard double bed mattress. It is provided with,
 
 - A double bed doona
 - Charcoal matress protector
@@ -22,8 +22,8 @@ The electric bed has a standard double bed mattress. It is provided with
 
 ![electric bed](images/bedding-electric-bed.jpg)
 
-## Bunk Bed
-The bunk bed has a custom mattress measuring 140cm x 200cm. It is provided with 
+## Bed over Cab
+The bed over the cab has a custom mattress measuring 140cm x 200cm. It is provided with,
 
 - A queen size bed summer doona
 - Charcoal matress protector
