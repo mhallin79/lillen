@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\guides",
     "\\owner",
     "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce",
-    "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\guides\\images",
+    "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\checklists",
+    "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\guides",
     "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\templates",
     "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\videos",
     "\\review",
     "\\videos",
     "\\what-to-do"
   ],
-  "SelectedNode": "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\videos\\custom-power.md",
+  "SelectedNode": "\\guides\\fridge.md",
   "PreviewInSolutionExplorer": false
 }
