@@ -15,7 +15,7 @@ Then at night, they can be moved to the driver and passenger seats for bedtime.
 </div>
 
 ## Wardrobe
-The wardrobe has a lot of space.
+The wardrobe has plenty of space and is provided with 10 hangers.
 
 ![main-key](images/storage-wardrobe.jpg)
 

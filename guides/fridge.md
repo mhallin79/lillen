@@ -6,7 +6,7 @@ title: Fridge &#8729; Guides
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
 
 # Fridge
-Lillen has a 3-way refrigerator that has 3 modes of operation that is specially developed for caravans or motorhomes.
+Lillen has a refrigerator that has three modes of operation that is specially developed for caravans and motorhomes.
 
 ![main-key](images/fridge.jpg)
 
