@@ -38,7 +38,7 @@ from the taps.
 2. Sink Tidy
 3. Drinking Water Jerry Can, Salad Spinner,  Colander and Two Salad Bowls.
 
-![pots](images/kitchenware-right-cupboard.jpg)
+![pots](images/kitchenware-cupboard-right.jpg)
 
 #### Frypans
 1. Open Skillet Frypan 20cm
@@ -53,7 +53,7 @@ from the taps.
 ![pots](images/kitchenware-cookware-pots.jpg)
 
 #### Sink Tidy
-A handy removable caddy is provided with dishwashing liquid, sponge and a tea towel.
+A handy removable caddy is provided with dishwashing liquid, sponge, extra bin liners and a tea towel.
 
 ![chopping board](images/kitchenware-sink-tidy.jpg)
 
@@ -67,12 +67,12 @@ A handy removable caddy is provided with dishwashing liquid, sponge and a tea to
 ### Left Cupboard
 The cupboard to the left of the oven contains.
 
-1. Cuttlery drawer
-2. Utensil storage
-3. Knife block
+1. Cuttlery Drawer
+2. Utensil Storage, Drying Rack, Cutting Board, Baking Dish, Two Measuring Jugs (1 Cup and 4 Cups) and two Umbrella Food Covers.
+3. Knife Block
 4. Chopping Boards
 
-![pots](images/kitchenware-left-cupboard.jpg)
+![pots](images/kitchenware-cupboard-left.jpg)
 
 #### Utensils
 1. Utensil set including slotted spatula, spaghetti server, slotted spoon, solid spoon and ladle
@@ -97,7 +97,7 @@ A large and small chopping board is located on the inside of a door.
 ![chopping board](images/kitchenware-cookware-chopping-board.jpg)
 
 ### Pantry
-Lillen has a small pantry nexted to the oven that comes provided with with Oils, Salt & Pepper.
+Lillen has a small pantry nexted to the oven that comes provided with with Oils, Salt & Pepper Mills.
 
 ![chopping board](images/kitchenware-pantry.jpg)
  
