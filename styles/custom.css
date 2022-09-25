@@ -134,9 +134,9 @@ button {
     height: 100%;
 }
 .label-new {
-    color: #0c5460;
-    background-color: #d1ecf1;
-    border-color: #bee5eb;
+    color: #004085;
+    background-color: #cce5ff !important;
+    border-color: #b8daff;
 }
 
 .iframeVideo {
