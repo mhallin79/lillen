@@ -97,7 +97,7 @@ A large and small chopping board is located on the inside of a door.
 ![chopping board](images/kitchenware-cookware-chopping-board.jpg)
 
 ### Pantry
-Lillen has a small pantry nexted to the oven that comes provided with with 
+Lillen has a small pantry nexted to the oven that comes provided with 
 - Olive Oil
 - Extra Virgin Olive Oil
 - Salt & Pepper Mills
