@@ -1,16 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\guides",
+    "\\guides\\images",
     "\\owner",
     "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce",
-    "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\checklists",
-    "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\guides",
-    "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\templates",
     "\\owner\\f82a8f986b41e72945eaa3dcbe8a23cac8027dce\\videos",
     "\\review",
+    "\\styles",
     "\\videos",
     "\\what-to-do"
   ],
-  "SelectedNode": "\\guides\\fridge.md",
+  "SelectedNode": "\\guides\\kitchenware.md",
   "PreviewInSolutionExplorer": false
 }
