@@ -34,10 +34,10 @@ Checklists are also available in a [PDF version](docs/checklists.pdf) for offlin
 The below guides have been put togeter to make it easier for hirers to plan their holiday in Lillen.
 
 [Air Conditioner](guides/air-conditioner.md){: .list-link}
-[Antenna and TV `NEW`{: .label-new}](guides/antenna-and-tv.md){: .list-link}
+[Antenna and TV](guides/antenna-and-tv.md){: .list-link}
 [Awning](guides/awning.md){: .list-link}
 [Battery and Water Control Panel](guides/control-panel.md){: .list-link}
-[Bedding `NEW`{: .label-new}](guides/bedding.md){: .list-link}
+[Bedding](guides/bedding.md){: .list-link}
 [Blinds and Flyscreens](guides/blinds-and-flyscreens.md){: .list-link}
 [Cassette Toilet](guides/cassette-toilet.md){: .list-link}
 [Cordless Vacuum](guides/cordless-vacuum.md){: .list-link}
@@ -47,11 +47,11 @@ The below guides have been put togeter to make it easier for hirers to plan thei
 [Fridge](guides/fridge.md){: .list-link} 
 [Hot Water System](guides/hot-water-system.md){: .list-link}
 [Keys](guides/keys.md){: .list-link}
-[Kitchenware `NEW`{: .label-new}](guides/kitchenware.md){: .list-link}
+[Kitchenware](guides/kitchenware.md){: .list-link}
 [LPG Bottles](guides/lpg-bottles.md){: .list-link}
 [Safety Equipment](guides/safety-equipment.md){: .list-link}
 [Spare Wheel and Jack](guides/spare-wheel-and-jack.md){: .list-link}
-[Storage `NEW`{: .label-new}](guides/storage.md){: .list-link}
+[Storage](guides/storage.md){: .list-link}
 [Microwave Oven](guides/microwave-oven.md){: .list-link}
 [Outdoor Shower](guides/outdoor-shower.md){: .list-link}
 [Oven and Cooktop](guides/oven-and-cooktop.md){: .list-link}
