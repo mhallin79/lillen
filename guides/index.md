@@ -11,7 +11,6 @@
 Checklists are also available in a [PDF version](/docs/checklists.pdf) for offline use.
 [Pre-Departure](/checklists/pre-departure.md){: .list-link}
 [On Arrival](/checklists/on-arrival.md){: .list-link}
-[Pre-Return](/checklists/pre-return.md){: .list-link}
 [Bad Weather](/checklists/bad-weather.md){: .list-link}
 
 ## Videos

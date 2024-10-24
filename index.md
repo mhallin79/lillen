@@ -86,18 +86,20 @@ This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 
 - **Easy wind-out awning with festoon lights** – Creates a warm and inviting alfresco space for outdoor relaxation.
 - **LED downlights and feature strip lighting** – Enhances the interior ambience.
 - **Off-grid ready** – Equipped with solar panels, water tanks, a diesel heater, and a 125-litre diesel fuel tank for extended off-grid trips.
-- **Additional features** – Reversing camera, GPS navigation, external shower, ample storage, and full service history.
-- **Included extras** – Camping chairs, table, and annex mat for outdoor comfort.
+- **Outdoor shower** – Hot and cold water for convenience after outdoor activities
+- **Additional features** – Reversing camera, GPS navigation, ample storage, and full service history.
+
+**Included:** Camping chairs, table, annex mat.
+
+**Bonus:** Comprehensive **[checklists and guides](guides/index.md)** to help the new owner make the most out of the van quickly. to help you get started quickly.
 
 ### Floorplan
 
-<a href="images/floorplan.jpg" target="_blank">
+<a href="images/floorplan.png" target="_blank">
     <img src="images/floorplan.png" />
 </a>
 
 Make sure that you check out **[Caravan World's review](review/index.md)** of the Avan Ovation M5 from 2016.
-
-I’ve also provided **[comprehensive checklists and guides](guides/index.md)** to help the new owner make the most out of the van quickly.
 
 **Explore Austalia's hidden gems in comfort and style.** With its one-owner history, low mileage, air conditioning, and rego until May 2025, it’s the perfect choice for your next adventure.
 

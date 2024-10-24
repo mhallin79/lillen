@@ -32,8 +32,6 @@ This checklists is also available in a [PDF version](/docs/checklists.pdf) for o
 <label for="start-engine"><input type="checkbox" id="start-engine"/> Start the engine for warm up</label>
 <label for="refrigerator"><input type="checkbox" id="refrigerator"/> Ensure that the refrigerator (in auto mode) has shifted back 12V</label>
 
-<a href="on-arrival.html" class="right">
-<button class="nav-button">On Arrival <i class="arrow arrow-right" /></button>
-</a>
+<a href="/guides/#Checklists"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}
