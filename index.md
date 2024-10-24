@@ -2,22 +2,43 @@
 <link href="styles/custom.css" rel="stylesheet" />
 
 <div class="carousel">
-
-</div>
-<div class="carousel">
   <div class="carousel-container">
-      <img src="images/lillen.jpg" alt="Lillen" />
-      <img src="images/window.jpg" alt="Panoramic Window" />
-      <img src="images/festoon-lights.jpg" alt="Festoon Lights" />
-      <img src="images/left-side.jpg" alt="External Left Side" />
-      <img src="images/rear.jpg" alt="External Rear" />
-      <img src="images/drivers-seat.jpg" alt="Drivers Seat" />
-      <img src="images/front-table.jpg" alt="Front Table" />
-      <img src="images/kitchen.jpg" alt="Kitchen" />
-      <img src="images/lounge-area.jpg" alt="Lounge Area" />
-      <img src="images/bed.jpg" alt="Bed" />
-      <img src="images/bunk-bed.jpg" alt="Bunk Bed" />
-      <img src="images/odometer.jpg" alt="Odometer" />
+      <a href="images/lillen.jpg" target="_blank">
+          <img src="images/lillen.jpg" alt="Lillen" />
+      </a>
+      <a href="images/window.jpg" target="_blank">
+          <img src="images/window.jpg" alt="Panoramic Window" />
+      </a>
+      <a href="images/festoon-lights.jpg" target="_blank">
+          <img src="images/festoon-lights.jpg" alt="Festoon Lights" />
+      </a>
+      <a href="images/left-side.jpg" target="_blank">
+          <img src="images/left-side.jpg" alt="External Left Side" />
+      </a>
+      <a href="images/rear.jpg" target="_blank">
+          <img src="images/rear.jpg" alt="External Rear" />
+      </a>
+      <a href="images/drivers-seat.jpg" target="_blank">
+          <img src="images/drivers-seat.jpg" alt="Drivers Seat" />
+      </a>
+      <a href="images/front-table.jpg" target="_blank">
+          <img src="images/front-table.jpg" alt="Front Table" />
+      </a>
+      <a href="images/kitchen.jpg" target="_blank">
+          <img src="images/kitchen.jpg" alt="Kitchen" />
+      </a>
+      <a href="images/lounge-area.jpg" target="_blank">
+          <img src="images/lounge-area.jpg" alt="Lounge Area" />
+      </a>
+      <a href="images/bed.jpg" target="_blank">
+          <img src="images/bed.jpg" alt="Bed" />
+      </a>
+      <a href="images/bunk-bed.jpg" target="_blank">
+          <img src="images/bunk-bed.jpg" alt="Bunk Bed" />
+      </a>
+      <a href="images/odometer.jpg" target="_blank">
+          <img src="images/odometer.jpg" alt="Odometer" />
+      </a>
   </div>
   <button class="prev" onclick="previousImage()">&#10094;</button>
   <button class="next" onclick="nextImage()">&#10095;</button>
@@ -37,8 +58,9 @@
       <img src="images/bed.jpg" onclick="showImage(9)" alt="Bed" class="thumbnail" />
       <img src="images/bunk-bed.jpg" onclick="showImage(10)" alt="Bunk Bed" class="thumbnail" />
       <img src="images/odometer.jpg" onclick="showImage(11)" alt="Odometer" class="thumbnail" />
-    </div>
+  </div>
 </div>
+
 
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
 ## Sleeps 4, Low KM, One Owner, Rego Until May 2025
