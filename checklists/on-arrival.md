@@ -87,6 +87,6 @@ will not charge the 12V battery properly.</label>
 >
 > The refrigerator must be level and will not operate if not parked on a flat surface.
 
-<a href="/guides/#Checklists"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#checklists"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

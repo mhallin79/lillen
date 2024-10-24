@@ -16,7 +16,7 @@ This checklists is also available in a [PDF version](/docs/checklists.pdf) for o
 <label for="storage"> <input type="checkbox" id="storage" /> Ensure no power cables are exposed. Please use [Weatherproof Connector Protector](/guides/hoses-and-cables.mdl#weatherproof-connector-protector)</label>
 <label for="storage"> <input type="checkbox" id="storage" /> Ensure external storage hatches are closed</label>
 
-<a href="/guides/#Checklists"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#checklists"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 
 {% include google-analytics.html %}
