@@ -26,7 +26,6 @@
 <div class="thumbnails">
   <div class="thumbnail-scroll">
       <img src="images/lillen.jpg" onclick="showImage(0)" alt="Lillen" class="thumbnail" />
- 
       <img src="images/window.jpg" onclick="showImage(1)" alt="Panoramic Window" class="thumbnail" />
       <img src="images/festoon-lights.jpg" onclick="showImage(2)" alt="Festoon Lights" class="thumbnail" />
       <img src="images/left-side.jpg" onclick="showImage(3)" alt="External left side" class="thumbnail" />
@@ -82,7 +81,7 @@ Contact Mikael today on 0422 441 135 or [owner@lillen.au](mailto:owner@lillen.au
 {% include google-analytics.html %}
 
 <script>
-   let currentIndex = 0;
+  let currentIndex = 0;
   const images = document.querySelectorAll('.carousel img');
   const thumbnails = document.querySelectorAll('.thumbnail');
 
@@ -109,6 +108,10 @@ Contact Mikael today on 0422 441 135 or [owner@lillen.au](mailto:owner@lillen.au
       thumb.classList.toggle('active', i === currentIndex);
     });
   }
+
+  thumbnails.forEach((thumb, index) => {
+    thumb.addEventListener('click', () => showImage(index));
+  });
 
   // Automatically show the first image
   showImage(currentIndex);
