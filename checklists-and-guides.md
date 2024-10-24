@@ -4,8 +4,6 @@
 <h1 class="title">LILLEN CHECKLISTS</h1>
 <h2 class="subtitle">AND GUIDES</h2>
 
-If you need further assistance or have any questions, feel free to reach out to the owner at [owner@lillen.au](mailto:owner@lillen.au). They will be happy to help!
-
 ## Reviews
 [Caravan World](review/index.md){: .list-link}
 
@@ -46,8 +44,6 @@ The below guides have been put togeter to make it easier for the new owner to pl
 [Microwave Oven](guides/microwave-oven.md){: .list-link}
 [Outdoor Shower](guides/outdoor-shower.md){: .list-link}
 [Oven and Cooktop](guides/oven-and-cooktop.md){: .list-link}
-[Nitrogen Tyre Inflation](guides/tyres.md){: .list-link}
-[NSW Casual Toll Pass](guides/tolls.md){: .list-link}
 [Water Hoses and Power Cables](guides/hoses-and-cables.md){: .list-link}
 
 {% include google-analytics.html %}
