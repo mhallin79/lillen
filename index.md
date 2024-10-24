@@ -1,9 +1,13 @@
 
 <link href="styles/custom.css" rel="stylesheet" />
 
-<img class="img-center" src="images/lillen.jpg" />
+<div class="carousel">
+  <img src="images/lillen.jpg" alt="Image 1" />
+  <img src="images/window.jpg" alt="Image 1" />
+</div>
 
-# For Sale: 2016 Avan Ovation M5 C-Class Motorhome – Sleeps 4, Low KM, One Owner, Rego Until May 2025
+# For Sale: 2016 Avan Ovation M5 C-Class Motorhome
+## Sleeps 4, Low KM, One Owner, Rego Until May 2025
 
 This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 28,000 km and is fully equipped for comfort, adventure, and extended trips. Registered until May 2025, it's road-ready for your next journey, offering a **very comfortable and easy-to-drive** experience.
 
@@ -30,7 +34,7 @@ This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 
 - **Included extras** – Camping chairs, table, and annex mat for outdoor comfort.
 
 **Floorplan:**
-<img class="img-center" src="images/floorplan.png" />
+<img src="images/floorplan.png" />
 
 Make sure that you check out **[Caravan World's review](review/index.md)** of the Avan Ovation M5 from 2016.
 
@@ -41,3 +45,27 @@ I’ve also provided **[comprehensive checklists and guides](checklists-and-guid
 Contact Michael today on 0422 441 135 or [owner@lillen.au](mailto:owner@lillen.au) to arrange a viewing!
 
 {% include google-analytics.html %}
+
+<script>
+  let currentIndex = 0;
+  const images = document.querySelectorAll('.carousel img');
+  
+  function showImage(index) {
+    images.forEach((img, i) => {
+      img.style.display = (i === index) ? 'block' : 'none';
+    });
+  }
+  
+  function nextImage() {
+    currentIndex = (currentIndex + 1) % images.length;
+    showImage(currentIndex);
+  }
+  
+  function previousImage() {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    showImage(currentIndex);
+  }
+  
+  setInterval(nextImage, 3000); // Change image every 3 seconds
+  showImage(currentIndex);
+</script>
