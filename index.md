@@ -90,7 +90,10 @@ This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 
 - **Included extras** – Camping chairs, table, and annex mat for outdoor comfort.
 
 ### Floorplan
-<img src="images/floorplan.png" />
+
+<a href="images/floorplan.jpg" target="_blank">
+    <img src="images/floorplan.png" />
+</a>
 
 Make sure that you check out **[Caravan World's review](review/index.md)** of the Avan Ovation M5 from 2016.
 
