@@ -38,6 +38,6 @@ are kept in a box in the left side rear storage compartment.
 
 ![clips](images/festoon-lights-storage-box.jpg)
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

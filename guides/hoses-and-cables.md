@@ -54,6 +54,6 @@ compartment together with the weatherproof 15A to 10A power adaptor.
 
 ![hose-and-cable-bag-storage](images/hose-and-cable-bag-storage.jpg)
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

@@ -65,6 +65,6 @@ The left fuse switch is for the Air Conditioner.
 ![fuse-switch](images/air-conditioner-fuse.jpg)
 
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

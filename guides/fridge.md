@@ -81,6 +81,6 @@ A short video from the manufacturer that describes how to operate the [Fridge](/
 ## Manual
 The manufacturers operating manual is available as a [PDF download](/docs/fridge.pdf). 
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

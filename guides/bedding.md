@@ -36,6 +36,6 @@ The bunk bed has a safety net.
 
 ![safety net](images/bedding-bunk-bed-safety-net.jpg)
  
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

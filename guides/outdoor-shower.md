@@ -20,6 +20,6 @@ Lillen has an outdoor shower with a hot and cold water mixer.
 
 ![main-key](images/outdoor-shower.jpg)
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

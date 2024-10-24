@@ -39,6 +39,6 @@ The right fuse switch is for the microwave.
 
 ![fuse-switch](images/microwave-oven-fuse.jpg)
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

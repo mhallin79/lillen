@@ -108,6 +108,6 @@ Lillen has a small pantry nexted to the oven that comes provided with
 ![chopping board](images/kitchenware-pantry.jpg)
  
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

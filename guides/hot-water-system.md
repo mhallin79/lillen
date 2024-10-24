@@ -66,6 +66,6 @@ light will flash at a constant rate until the switch is turned off to reset the 
 ## Manual
 The manufacturers operating instructions is available as a [PDF download](/docs/hot-water-system.pdf). 
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

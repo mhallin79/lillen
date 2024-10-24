@@ -47,6 +47,6 @@ alarm if gas levels reach 10% of the lowest explosion (LEL) limit in the air.
 ![gas-detector](images/gas-detector.jpg)
 
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

@@ -32,6 +32,6 @@ Example of the door and windscreen blinds inside the cab.
 
 ![cab blinds](images/blind-and-flyscreen-cab.jpg)
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

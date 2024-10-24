@@ -34,6 +34,6 @@ Optional leg wall connector
 ## Manual
 The manufacturers operating manual is available as a [PDF download](/docs/awning.pdf). 
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

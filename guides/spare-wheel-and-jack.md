@@ -23,6 +23,6 @@ Complete jack set
 ![jack-tool-kit](images/jack-tool-kit.jpg)
 
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

@@ -122,6 +122,6 @@ Ensure that all cables are properly secured.
 According to the electric bed manual, there is an option for manual operation of the bed. 
 It is a two-man job and it seem to be a complicated procedure. 
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

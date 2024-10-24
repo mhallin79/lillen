@@ -42,6 +42,6 @@ Keep return air inlet (1) and hot air outlet (2) free of obstructions to prevent
 ## Manual
 The manufacturers operating manual is available as a [PDF download](/docs/diesel-heater.pdf). 
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

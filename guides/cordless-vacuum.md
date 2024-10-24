@@ -33,6 +33,6 @@ A cordless vacuum with a chargable battery is kept in the left side rear storage
     <strong>Note:</strong> Please note that to charge the vaccum access to 240V power is required.
 </div>
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}
