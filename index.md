@@ -13,6 +13,11 @@
   <button class="next" onclick="nextImage()">&#10095;</button>
 </div>
 
+<div class="thumbnails">
+  <img src="images/lillen.jpg" onclick="showImage(0)" alt="Thumbnail 1" />
+  <img src="images/window.jpg" onclick="showImage(1)" alt="Thumbnail 2" />
+</div>
+
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
 ## Sleeps 4, Low KM, One Owner, Rego Until May 2025
 
