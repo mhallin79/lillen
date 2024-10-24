@@ -167,6 +167,7 @@ button {
     overflow: visible;
     vertical-align: -0.125em;
 }
+
 .carousel {
     position: relative;
     max-width: 100%;
@@ -220,21 +221,25 @@ button {
     }
 
 .thumbnails {
-    display: flex;
-    justify-content: center;
+    overflow-x: auto; /* Allow horizontal scrolling */
+    white-space: nowrap; /* Prevent thumbnails from wrapping to the next line */
     margin-top: 10px;
 }
 
-    .thumbnails img {
-        width: 80px; /* Set a fixed width for thumbnails */
-        height: 60px; /* Set a fixed height for thumbnails */
-        margin: 0 5px;
-        cursor: pointer;
-        opacity: 0.6;
-        transition: opacity 0.3s ease;
-        object-fit: cover; /* Crop the image instead of stretching */
-    }
+.thumbnail-scroll {
+    display: inline-flex; /* Use inline-flex for horizontal alignment */
+}
 
-        .thumbnails img:hover {
-            opacity: 1;
-        }
+.thumbnails img {
+    width: 80px; /* Set a fixed width for thumbnails */
+    height: 60px; /* Set a fixed height for thumbnails */
+    margin: 0 5px;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: opacity 0.3s ease;
+    object-fit: cover; /* Crop the image instead of stretching */
+}
+
+    .thumbnails img:hover {
+        opacity: 1;
+    }
