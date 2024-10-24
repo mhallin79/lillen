@@ -37,6 +37,6 @@ Is for the toilet cassette compartment.
 ### 5 - Small Silver Key (#CH751)
 Is for the external shower.
 
-<a href="/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+<a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 
 {% include google-analytics.html %}

@@ -46,4 +46,6 @@ The below guides have been put togeter to make it easier for the new owner to pl
 [Oven and Cooktop](guides/oven-and-cooktop.md){: .list-link}
 [Water Hoses and Power Cables](guides/hoses-and-cables.md){: .list-link}
 
+<a href="/"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
+
 {% include google-analytics.html %}

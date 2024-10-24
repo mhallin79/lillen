@@ -97,7 +97,7 @@ This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 
 
 Make sure that you check out **[Caravan World's review](review/index.md)** of the Avan Ovation M5 from 2016.
 
-I’ve also provided **[comprehensive checklists and guides](checklists-and-guides.md)** to help the new owner make the most out of the van quickly.
+I’ve also provided **[comprehensive checklists and guides](guides/index.md)** to help the new owner make the most out of the van quickly.
 
 **Explore Austalia's hidden gems in comfort and style.** With its one-owner history, low mileage, air conditioning, and rego until May 2025, it’s the perfect choice for your next adventure.
 
