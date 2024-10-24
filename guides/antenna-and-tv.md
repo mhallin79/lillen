@@ -113,7 +113,7 @@ To start a channel search press the MENU button on the remote (located under the
 6. Enjoy free to air channels
 
 ## Video
-A short video from the manufacturer that describes how to operate the [Antenna and TV](/videos/antenna-and-tv.md) is also available.
+A short video from the manufacturer that describes how to operate the [Antenna and TV](../videos/antenna-and-tv.md) is also available.
 
 <a href="/guides/#guides"><button class="nav-button"><i class="arrow arrow-left"></i> Back</button></a>
 

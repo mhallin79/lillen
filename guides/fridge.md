@@ -76,7 +76,7 @@ Fan **level 2** is to be used at ambient temperatures above **38C**
 
 
 ## Video
-A short video from the manufacturer that describes how to operate the [Fridge](/videos/fridge.md) is also available 
+A short video from the manufacturer that describes how to operate the [Fridge](../videos/fridge.md) is also available 
 
 ## Manual
 The manufacturers operating manual is available as a [PDF download](/docs/fridge.pdf). 

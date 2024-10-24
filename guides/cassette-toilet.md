@@ -70,7 +70,7 @@ Please follow below steps to empty the waste tank.
 10. Shut the access door and lock it.
 
 ## Video
-A short video from the manufacturer that describes how to operate the [Cassette Toilet](/videos/cassette-toilet.md) is also available.
+A short video from the manufacturer that describes how to operate the [Cassette Toilet](../videos/cassette-toilet.md) is also available.
 
 ## Manual
 The manufacturers operating manual is available as a [PDF download](/docs/cassette-toilet.pdf). 
