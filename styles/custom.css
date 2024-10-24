@@ -168,6 +168,7 @@ button {
     vertical-align: -0.125em;
 }
 
+
 .carousel {
     position: relative;
     max-width: 100%;
@@ -216,12 +217,13 @@ button {
 }
 
     .thumbnails img {
-        width: 60px;
-        height: auto;
+        width: 80px; /* Set a fixed width for thumbnails */
+        height: 60px; /* Set a fixed height for thumbnails */
         margin: 0 5px;
         cursor: pointer;
         opacity: 0.6;
         transition: opacity 0.3s ease;
+        object-fit: cover; /* Crop the image instead of stretching */
     }
 
         .thumbnails img:hover {

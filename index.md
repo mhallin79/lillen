@@ -11,6 +11,13 @@
       <img src="images/festoon-lights.jpg" alt="Festoon Lights" />
       <img src="images/left-side.jpg" alt="External Left Side" />
       <img src="images/rear.jpg" alt="External Rear" />
+      <img src="images/drivers-seat.jpg" alt="Drivers Seat" />
+      <img src="images/front-table.jpg" alt="Front Table" />
+      <img src="images/kitchen.jpg" alt="Kitchen" />
+      <img src="images/lounge-area.jpg" alt="Lounge Area" />
+      <img src="images/bed.jpg" alt="Bed" />
+      <img src="images/bunk-bed.jpg" alt="Bunk Bed" />
+      <img src="images/odometer.jpg" alt="Odometer" />
   </div>
   <button class="prev" onclick="previousImage()">&#10094;</button>
   <button class="next" onclick="nextImage()">&#10095;</button>
@@ -22,6 +29,13 @@
   <img src="images/festoon-lights.jpg" onclick="showImage(2)" alt="Festoon Lights" />
   <img src="images/left-side.jpg" onclick="showImage(3)" alt="External left side" />
   <img src="images/rear.jpg" onclick="showImage(4)" alt="External Rear" />
+  <img src="images/drivers-seat.jpg" onclick="showImage(5)" alt="Drivers Seat" />
+  <img src="images/front-table.jpg" onclick="showImage(6)" alt="Front Table" />
+  <img src="images/kitchen.jpg" onclick="showImage(7)" alt="Kitchen" />
+  <img src="images/lounge-area.jpg" onclick="showImage(8)" alt="Lounge Area" />
+  <img src="images/bed.jpg" onclick="showImage(9)" alt="Bed" />
+  <img src="images/bunk-bed.jpg" onclick="showImage(10)" alt="Bunk Bed" />
+  <img src="images/odometer.jpg" onclick="showImage(11)" alt="Odometer" />
 </div>
 
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
