@@ -2,8 +2,15 @@
 <link href="styles/custom.css" rel="stylesheet" />
 
 <div class="carousel">
-  <img src="images/lillen.jpg" alt="Image 1" />
-  <img src="images/window.jpg" alt="Image 1" />
+
+</div>
+<div class="carousel">
+  <div class="carousel-container">
+      <img src="images/lillen.jpg" alt="Lillen" />
+      <img src="images/window.jpg" alt="Window" />
+  </div>
+  <button class="prev" onclick="previousImage()">&#10094;</button>
+  <button class="next" onclick="nextImage()">&#10095;</button>
 </div>
 
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
@@ -49,23 +56,24 @@ Contact Michael today on 0422 441 135 or [owner@lillen.au](mailto:owner@lillen.a
 <script>
   let currentIndex = 0;
   const images = document.querySelectorAll('.carousel img');
-  
+
   function showImage(index) {
+    currentIndex = index;
     images.forEach((img, i) => {
       img.style.display = (i === index) ? 'block' : 'none';
     });
   }
-  
+
   function nextImage() {
     currentIndex = (currentIndex + 1) % images.length;
     showImage(currentIndex);
   }
-  
+
   function previousImage() {
     currentIndex = (currentIndex - 1 + images.length) % images.length;
     showImage(currentIndex);
   }
-  
-  setInterval(nextImage, 3000); // Change image every 3 seconds
+
+  // Automatically show the first image
   showImage(currentIndex);
 </script>
