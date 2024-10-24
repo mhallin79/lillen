@@ -5,18 +5,18 @@
 <h2 class="subtitle">AND GUIDES</h2>
 
 ## Reviews
-[Caravan World](/review/index.md){: .list-link}
+[Caravan World](../review/index.md){: .list-link}
 
 ## Checklists
-Checklists are also available in a [PDF version](/docs/checklists.pdf) for offline use.
-[Pre-Departure](/checklists/pre-departure.md){: .list-link}
-[On Arrival](/checklists/on-arrival.md){: .list-link}
-[Bad Weather](/checklists/bad-weather.md){: .list-link}
+Checklists are also available in a [PDF version](../docs/checklists.pdf) for offline use.
+[Pre-Departure](../checklists/pre-departure.md){: .list-link}
+[On Arrival](../checklists/on-arrival.md){: .list-link}
+[Bad Weather](../checklists/bad-weather.md){: .list-link}
 
 ## Videos
-[Antenna and TV](/videos/antenna-and-tv.md){: .list-link}
-[Cassette Toilet](/videos/cassette-toilet.md){: .list-link}
-[Fridge](/videos/fridge.md){: .list-link}
+[Antenna and TV](../videos/antenna-and-tv.md){: .list-link}
+[Cassette Toilet](../videos/cassette-toilet.md){: .list-link}
+[Fridge](../videos/fridge.md){: .list-link}
 
 ## Guides
 The below guides have been put togeter to make it easier for the new owner to plan their holiday in Lillen.
