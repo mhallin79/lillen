@@ -4,19 +4,10 @@
 <h1 class="title">LILLEN CHECKLISTS</h1>
 <h2 class="subtitle">AND GUIDES</h2>
 
-
-
-If you have any questions you can message the owner on the [Camplify website](https://www.camplify.com.au/rv/motorhome-rental-woy-woy-nsw-lillen/21613)
-or send an email to [owner@lillen.au](mailto:owner@lillen.au)
+If you need further assistance or have any questions, feel free to reach out to the owner at [owner@lillen.au](mailto:owner@lillen.au). They will be happy to help!
 
 ## Reviews
 [Caravan World](review/index.md){: .list-link}
-
-## What to Do 
-A flyer is also available in a [PDF version](docs/flyer.pdf) for offline use.
-[Accident](what-to-do/accident.md){: .list-link}
-[Breakdown](what-to-do/breakdown.md){: .list-link}
-[Dashboard Lights](what-to-do/dashboard-lights.md){: .list-link}
 
 ## Checklists
 Checklists are also available in a [PDF version](docs/checklists.pdf) for offline use.
@@ -31,7 +22,7 @@ Checklists are also available in a [PDF version](docs/checklists.pdf) for offlin
 [Fridge](videos/fridge.md){: .list-link}
 
 ## Guides
-The below guides have been put togeter to make it easier for hirers to plan their holiday in Lillen.
+The below guides have been put togeter to make it easier for the new owner to plan their holiday in Lillen.
 
 [Air Conditioner](guides/air-conditioner.md){: .list-link}
 [Antenna and TV](guides/antenna-and-tv.md){: .list-link}
