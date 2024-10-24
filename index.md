@@ -7,15 +7,21 @@
 <div class="carousel">
   <div class="carousel-container">
       <img src="images/lillen.jpg" alt="Lillen" />
-      <img src="images/window.jpg" alt="Window" />
+      <img src="images/window.jpg" alt="Panoramic Window" />
+      <img src="images/festoon-lights.jpg" alt="Festoon Lights" />
+      <img src="images/left-side.jpg" alt="External Left Side" />
+      <img src="images/rear.jpg" alt="External Rear" />
   </div>
   <button class="prev" onclick="previousImage()">&#10094;</button>
   <button class="next" onclick="nextImage()">&#10095;</button>
 </div>
 
 <div class="thumbnails">
-  <img src="images/lillen.jpg" onclick="showImage(0)" alt="Thumbnail 1" />
-  <img src="images/window.jpg" onclick="showImage(1)" alt="Thumbnail 2" />
+  <img src="images/lillen.jpg" onclick="showImage(0)" alt="Lillen" />
+  <img src="images/window.jpg" onclick="showImage(1)" alt="Panoramic Window" />
+  <img src="images/festoon-lights.jpg" onclick="showImage(2)" alt="Festoon Lights" />
+  <img src="images/left-side.jpg" onclick="showImage(3)" alt="External left side" />
+  <img src="images/rear.jpg" onclick="showImage(4)" alt="External Rear" />
 </div>
 
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
