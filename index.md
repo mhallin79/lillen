@@ -5,8 +5,8 @@
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome 
 ## Sleeps 4, Low KM, One Owner, Rego Until May 2025
 
-**Price:** $139,990 
-**Location:** Woy Woy, NSW 
+**Price:** $139,990 <br/>
+**Location:** Woy Woy, NSW <br/>
 **Mileage:** 28,000 km
 
 This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 28,000 km and is fully equipped for comfort, adventure, and extended trips. Registered until May 2025, it's road-ready for your next journey, offering a **very comfortable and easy-to-drive** experience.
