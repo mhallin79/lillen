@@ -25,18 +25,19 @@
 
 <div class="thumbnails">
   <div class="thumbnail-scroll">
-      <img src="images/lillen.jpg" onclick="showImage(0)" alt="Lillen" />
-      <img src="images/window.jpg" onclick="showImage(1)" alt="Panoramic Window" />
-      <img src="images/festoon-lights.jpg" onclick="showImage(2)" alt="Festoon Lights" />
-      <img src="images/left-side.jpg" onclick="showImage(3)" alt="External left side" />
-      <img src="images/rear.jpg" onclick="showImage(4)" alt="External Rear" />
-      <img src="images/drivers-seat.jpg" onclick="showImage(5)" alt="Drivers Seat" />
-      <img src="images/front-table.jpg" onclick="showImage(6)" alt="Front Table" />
-      <img src="images/kitchen.jpg" onclick="showImage(7)" alt="Kitchen" />
-      <img src="images/lounge-area.jpg" onclick="showImage(8)" alt="Lounge Area" />
-      <img src="images/bed.jpg" onclick="showImage(9)" alt="Bed" />
-      <img src="images/bunk-bed.jpg" onclick="showImage(10)" alt="Bunk Bed" />
-      <img src="images/odometer.jpg" onclick="showImage(11)" alt="Odometer" />
+      <img src="images/lillen.jpg" onclick="showImage(0)" alt="Lillen" class="thumbnail" />
+ 
+      <img src="images/window.jpg" onclick="showImage(1)" alt="Panoramic Window" class="thumbnail" />
+      <img src="images/festoon-lights.jpg" onclick="showImage(2)" alt="Festoon Lights" class="thumbnail" />
+      <img src="images/left-side.jpg" onclick="showImage(3)" alt="External left side" class="thumbnail" />
+      <img src="images/rear.jpg" onclick="showImage(4)" alt="External Rear" class="thumbnail" />
+      <img src="images/drivers-seat.jpg" onclick="showImage(5)" alt="Drivers Seat" class="thumbnail" />
+      <img src="images/front-table.jpg" onclick="showImage(6)" alt="Front Table" class="thumbnail" />
+      <img src="images/kitchen.jpg" onclick="showImage(7)" alt="Kitchen" class="thumbnail" />
+      <img src="images/lounge-area.jpg" onclick="showImage(8)" alt="Lounge Area" class="thumbnail" />
+      <img src="images/bed.jpg" onclick="showImage(9)" alt="Bed" class="thumbnail" />
+      <img src="images/bunk-bed.jpg" onclick="showImage(10)" alt="Bunk Bed" class="thumbnail" />
+      <img src="images/odometer.jpg" onclick="showImage(11)" alt="Odometer" class="thumbnail" />
     </div>
 </div>
 
@@ -49,7 +50,7 @@ This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 
 **Location:** Woy Woy, NSW  
 **Mileage:** 28,000 km  
 
-**Key Features:**
+### Key Features
 
 - **Sleeps 4 comfortably** – Features a large electric drop-down bed that sleeps two adults and an additional bed over the cab for guests.
 - **Great size lounge area** – Spacious seating with large windows and a large electric drop-down bed for extra comfort.
@@ -67,7 +68,7 @@ This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 
 - **Additional features** – Reversing camera, GPS navigation, external shower, ample storage, and full service history.
 - **Included extras** – Camping chairs, table, and annex mat for outdoor comfort.
 
-**Floorplan:**
+### Floorplan
 <img src="images/floorplan.png" />
 
 Make sure that you check out **[Caravan World's review](review/index.md)** of the Avan Ovation M5 from 2016.
@@ -76,19 +77,21 @@ I’ve also provided **[comprehensive checklists and guides](checklists-and-guid
 
 **Explore Austalia's hidden gems in comfort and style.** With its one-owner history, low mileage, air conditioning, and rego until May 2025, it’s the perfect choice for your next adventure.
 
-Contact Michael today on 0422 441 135 or [owner@lillen.au](mailto:owner@lillen.au) to arrange a viewing!
+Contact Mikael today on 0422 441 135 or [owner@lillen.au](mailto:owner@lillen.au) to arrange a viewing!
 
 {% include google-analytics.html %}
 
 <script>
-  let currentIndex = 0;
+   let currentIndex = 0;
   const images = document.querySelectorAll('.carousel img');
+  const thumbnails = document.querySelectorAll('.thumbnail');
 
   function showImage(index) {
     currentIndex = index;
     images.forEach((img, i) => {
       img.style.display = (i === index) ? 'block' : 'none';
     });
+    updateThumbnails();
   }
 
   function nextImage() {
@@ -99,6 +102,12 @@ Contact Michael today on 0422 441 135 or [owner@lillen.au](mailto:owner@lillen.a
   function previousImage() {
     currentIndex = (currentIndex - 1 + images.length) % images.length;
     showImage(currentIndex);
+  }
+
+  function updateThumbnails() {
+    thumbnails.forEach((thumb, i) => {
+      thumb.classList.toggle('active', i === currentIndex);
+    });
   }
 
   // Automatically show the first image

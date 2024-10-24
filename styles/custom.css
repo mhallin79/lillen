@@ -243,3 +243,9 @@ button {
     .thumbnails img:hover {
         opacity: 1;
     }
+
+/* Active thumbnail style */
+.thumbnail.active {
+    border: 2px solid #007bff; /* Blue border for active thumbnail */
+    opacity: 1; /* Full opacity for the active thumbnail */
+}
