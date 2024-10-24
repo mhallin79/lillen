@@ -18,11 +18,17 @@
       <a href="images/rear.jpg" target="_blank">
           <img src="images/rear.jpg" alt="External Rear" />
       </a>
+      <a href="images/entry.jpg" target="_blank">
+          <img src="images/entry.jpg" alt="External Left Side" />
+      </a>
       <a href="images/drivers-seat.jpg" target="_blank">
           <img src="images/drivers-seat.jpg" alt="Drivers Seat" />
       </a>
       <a href="images/front-table.jpg" target="_blank">
-          <img src="images/front-table.jpg" alt="Front Table" />
+          <img src="images/front-table.jpg" alt="Front Table with Swiwel Chairs" />
+      </a>
+     <a href="images/front-table-travelling.jpg" target="_blank">
+          <img src="images/front-table-travelling.jpg" alt="Front Table" />
       </a>
       <a href="images/kitchen.jpg" target="_blank">
           <img src="images/kitchen.jpg" alt="Kitchen" />
@@ -35,6 +41,12 @@
       </a>
       <a href="images/bunk-bed.jpg" target="_blank">
           <img src="images/bunk-bed.jpg" alt="Bunk Bed" />
+      </a>
+      <a href="images/bathroom.jpg" target="_blank">
+          <img src="images/bathroom.jpg" alt="Bathroom" />
+      </a>
+   <a href="images/shower.jpg" target="_blank">
+          <img src="images/shower.jpg" alt="Shower" />
       </a>
       <a href="images/odometer.jpg" target="_blank">
           <img src="images/odometer.jpg" alt="Odometer" />
@@ -51,13 +63,17 @@
       <img src="images/festoon-lights.jpg" onclick="showImage(2)" alt="Festoon Lights" class="thumbnail" />
       <img src="images/left-side.jpg" onclick="showImage(3)" alt="External left side" class="thumbnail" />
       <img src="images/rear.jpg" onclick="showImage(4)" alt="External Rear" class="thumbnail" />
-      <img src="images/drivers-seat.jpg" onclick="showImage(5)" alt="Drivers Seat" class="thumbnail" />
-      <img src="images/front-table.jpg" onclick="showImage(6)" alt="Front Table" class="thumbnail" />
-      <img src="images/kitchen.jpg" onclick="showImage(7)" alt="Kitchen" class="thumbnail" />
-      <img src="images/lounge-area.jpg" onclick="showImage(8)" alt="Lounge Area" class="thumbnail" />
-      <img src="images/bed.jpg" onclick="showImage(9)" alt="Bed" class="thumbnail" />
-      <img src="images/bunk-bed.jpg" onclick="showImage(10)" alt="Bunk Bed" class="thumbnail" />
-      <img src="images/odometer.jpg" onclick="showImage(11)" alt="Odometer" class="thumbnail" />
+      <img src="images/entry.jpg" onclick="showImage(5)" alt="Entry" class="thumbnail" />
+      <img src="images/drivers-seat.jpg" onclick="showImage(6)" alt="Drivers Seat" class="thumbnail" />
+      <img src="images/front-table.jpg" onclick="showImage(7)" alt="Front Table with Swiwel Chairs" class="thumbnail" />
+      <img src="images/front-table-travelling.jpg" onclick="showImage(8)" alt="Front Table (travelling)" class="thumbnail" />
+      <img src="images/kitchen.jpg" onclick="showImage(9)" alt="Kitchen" class="thumbnail" />
+      <img src="images/lounge-area.jpg" onclick="showImage(10)" alt="Lounge Area" class="thumbnail" />
+      <img src="images/bed.jpg" onclick="showImage(11)" alt="Bed" class="thumbnail" />
+      <img src="images/bunk-bed.jpg" onclick="showImage(12)" alt="Bunk Bed" class="thumbnail" />
+      <img src="images/bathroom.jpg" onclick="showImage(13)" alt="Bathroom" class="thumbnail" />
+      <img src="images/shower.jpg" onclick="showImage(14)" alt="Shower" class="thumbnail" />
+      <img src="images/odometer.jpg" onclick="showImage(15)" alt="Odometer" class="thumbnail" />
   </div>
 </div>
 
