@@ -167,7 +167,6 @@ button {
     overflow: visible;
     vertical-align: -0.125em;
 }
-
 .carousel {
     position: relative;
     max-width: 100%;
@@ -200,6 +199,11 @@ button {
     font-weight: bold;
     font-size: 24px;
     border: none; /* Remove default button borders */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+    display: flex; /* Use flexbox for centering */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
     transition: background-color 0.3s ease;
 }
 
