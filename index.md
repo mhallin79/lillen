@@ -65,8 +65,9 @@ Explore Australia’s hidden gems in comfort and style. With its one-owner histo
 
 <script>
 
+// Define the updated images array
 const imagesData = [
-    { src: "images/lillen.jpg", alt: "Ready for it's next adventure!" },
+    { src: "images/lillen.jpg", alt: "Ready for its next adventure!" },
     { src: "images/window.jpg", alt: "Large panoramic rear window offering scenic views" },
     { src: "images/festoon-lights.jpg", alt: "Spacious awning with festoon lights, compatible with 12V & 240V" },
     { src: "images/left-side.jpg", alt: "Left side view of the motorhome exterior" },
@@ -90,12 +91,18 @@ function loadImages() {
     const thumbnailScroll = document.querySelector('.thumbnail-scroll');
 
     imagesData.forEach((image, index) => {
-        // Create the main carousel images
+        // Create the main carousel images wrapped in anchor tags
+        const anchor = document.createElement('a');
+        anchor.href = image.src;
+        anchor.target = "_blank";
+
         const imgElement = document.createElement('img');
         imgElement.src = image.src;
         imgElement.alt = image.alt;
         imgElement.style.display = 'none'; // Hide all by default
-        carouselContainer.appendChild(imgElement);
+
+        anchor.appendChild(imgElement);
+        carouselContainer.appendChild(anchor);
 
         // Create the thumbnail images
         const thumbnail = document.createElement('img');
@@ -114,11 +121,11 @@ let currentIndex = 0;
 
 function showImage(index) {
     currentIndex = index;
-    const images = document.querySelectorAll('.carousel-container img');
+    const images = document.querySelectorAll('.carousel-container a');
     const thumbnails = document.querySelectorAll('.thumbnail');
 
-    images.forEach((img, i) => {
-        img.style.display = (i === index) ? 'block' : 'none';
+    images.forEach((anchor, i) => {
+        anchor.style.display = (i === index) ? 'block' : 'none';
     });
 
     thumbnails.forEach((thumb, i) => {
@@ -138,5 +145,6 @@ function previousImage() {
 
 // Load images when the document is ready
 document.addEventListener('DOMContentLoaded', loadImages);
+
 
 </script>
