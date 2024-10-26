@@ -124,14 +124,20 @@ function showImage(index) {
     const carouselContainer = document.querySelector(".carousel-container");
     const images = carouselContainer.querySelectorAll("a");
     const caption = document.getElementById("photo-caption");
+    const thumbnails = document.querySelectorAll(".thumbnail");
 
     images.forEach((image, i) => {
         image.style.display = i === index ? "block" : "none"; // Show the current image only
     });
 
+    thumbnails.forEach((thumb, i) => {
+        thumb.classList.toggle("active-thumbnail", i === index); // Highlight the active thumbnail
+    });
+
     currentIndex = index;
     caption.textContent = images[index].querySelector("img").alt; // Update the footer caption
 }
+
 
 // Functions for navigating images
 function previousImage() {
