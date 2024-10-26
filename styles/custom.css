@@ -174,7 +174,6 @@ button {
 
 .carousel-container a {
     display: none;
-    position: relative;
 }
 
     .carousel-container a img {
@@ -187,12 +186,8 @@ button {
     color: #fff;
     padding: 10px;
     font-size: 14px;
-    position: relative; /* Change to relative */
-    bottom: 0;
-    width: 100%;
     text-align: center;
     opacity: 0.8;
-    z-index: 10; /* Ensure it appears above other elements */
 }
 
 .thumbnail-scroll {
@@ -228,10 +223,9 @@ button {
     border: none;
     font-size: 18px;
     transition: background 0.3s;
-    height: 80%; /* Slightly reduced to avoid the caption */
+    height: 100%; /* Full height to cover the entire area */
     width: 50px; /* Adjust width as needed */
     opacity: 0.7;
-    z-index: 5; /* Lower than the caption to avoid overlap */
 }
 
     .prev:hover, .next:hover {
@@ -244,16 +238,4 @@ button {
 
 .next {
     right: 0;
-}
-
-.carousel-container {
-    position: relative;
-    overflow: hidden;
-}
-
-.photo-caption-wrapper {
-    position: absolute;
-    bottom: 0; /* Move the caption area to the bottom of the container */
-    width: 100%;
-    z-index: 10;
 }

@@ -4,10 +4,8 @@
 <div class="carousel">
   <div class="carousel-container">
     <!-- Images will be dynamically loaded here -->
-    <div class="photo-caption-wrapper">
-      <div class="photo-caption" id="photo-caption"></div>
-    </div>
   </div>
+  <div class="photo-caption" id="photo-caption"></div> <!-- Caption under the feature image -->
   <button class="prev" onclick="previousImage()">&#10094;</button>
   <button class="next" onclick="nextImage()">&#10095;</button>
 </div>
@@ -17,6 +15,7 @@
     <!-- Thumbnails will be dynamically loaded here -->
   </div>
 </div>
+
 
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
 ## Sleeps 4, Low KM, One Owner, Rego Until May 2025
@@ -66,8 +65,9 @@ Explore Australia’s hidden gems in comfort and style. With its one-owner histo
 {% include google-analytics.html %}
 
 <script>
+// JavaScript list of images
 const images = [
-    { src: "images/lillen.jpg", alt: "Lillen motorhome ready for adventure!" },
+    { src: "images/lillen.jpg", alt: "Ready for it's next adventure!" },
     { src: "images/window.jpg", alt: "Large panoramic rear window offering scenic views" },
     { src: "images/festoon-lights.jpg", alt: "Spacious awning with festoon lights, compatible with 12V & 240V" },
     { src: "images/left-side.jpg", alt: "Left side view of the motorhome exterior" },
@@ -115,7 +115,7 @@ function loadCarousel() {
         thumbnailScroll.appendChild(thumb);
     });
 
-    // Show the first image and update footer
+    // Show the first image and update caption
     showImage(0);
 }
 
@@ -124,20 +124,14 @@ function showImage(index) {
     const carouselContainer = document.querySelector(".carousel-container");
     const images = carouselContainer.querySelectorAll("a");
     const caption = document.getElementById("photo-caption");
-    const thumbnails = document.querySelectorAll(".thumbnail");
 
     images.forEach((image, i) => {
         image.style.display = i === index ? "block" : "none"; // Show the current image only
     });
 
-    thumbnails.forEach((thumb, i) => {
-        thumb.classList.toggle("active-thumbnail", i === index); // Highlight the active thumbnail
-    });
-
     currentIndex = index;
     caption.textContent = images[index].querySelector("img").alt; // Update the footer caption
 }
-
 
 // Functions for navigating images
 function previousImage() {
@@ -152,5 +146,6 @@ function nextImage() {
 
 // Initialize the carousel
 document.addEventListener("DOMContentLoaded", loadCarousel);
+
 
 </script>
