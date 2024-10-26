@@ -4,8 +4,10 @@
 <div class="carousel">
   <div class="carousel-container">
     <!-- Images will be dynamically loaded here -->
+    <div class="photo-caption-wrapper">
+      <div class="photo-caption" id="photo-caption"></div>
+    </div>
   </div>
-  <div class="photo-caption" id="photo-caption"></div>
   <button class="prev" onclick="previousImage()">&#10094;</button>
   <button class="next" onclick="nextImage()">&#10095;</button>
 </div>
@@ -15,7 +17,6 @@
     <!-- Thumbnails will be dynamically loaded here -->
   </div>
 </div>
-
 
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
 ## Sleeps 4, Low KM, One Owner, Rego Until May 2025
