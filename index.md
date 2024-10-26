@@ -83,33 +83,35 @@
 
 This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 28,000 km and is fully equipped for comfort, adventure, and extended trips. Registered until May 2025, it's road-ready for your next journey, offering a **very comfortable and easy-to-drive** experience.
 
-**Price:** $139,990 AUD  
+**Price:** $139,990  
 **Location:** Woy Woy, NSW  
 **Mileage:** 28,000 km  
 
 ### Key Features
 
-- **Sleeps 4 comfortably** – Features a large electric drop-down bed that sleeps two adults and an additional bed over the cab for guests.
-- **Great size lounge area** – Spacious seating with large windows and a large electric drop-down bed for extra comfort.
-- **Swivel front seats for driver and passenger** – Maximises the living area when parked.
-- **Fully equipped kitchen** – Includes a 3-burner gas cooktop, gas oven with grill, microwave, and a two-door 3-way 185L fridge (155L fridge and 30L freezer) for all your cooking needs.
-- **Private bathroom** – Separate shower and toilet for added convenience.
-- **Entertainment system** – TV and stereo for downtime during your trip.
-- **Air conditioning** – Enjoy year-round comfort with efficient cooling in hot weather and reliable heating for colder days, ensuring a pleasant environment in all conditions.
-- **Smooth driving experience** – Powered by a 3.0L Fiat Ducato turbo diesel engine with automatic 6-speed transmission and cruise control.
-- **Bullbar installed** – Provides extra protection for rural or off-road journeys.
-- **Thule 2-bike carrier** – Perfect for cyclists, making it easy to bring your bikes along.
-- **Easy wind-out awning with festoon lights** – Creates a warm and inviting alfresco space for outdoor relaxation.
-- **LED downlights and feature strip lighting** – Enhances the interior ambience.
-- **Off-grid ready** – Equipped with solar panels, water tanks, a diesel heater, and a 125-litre diesel fuel tank for extended off-grid trips.
-- **Outdoor shower** – Hot and cold water for convenience after outdoor activities
-- **Additional features** – Reversing camera, GPS navigation, ample storage, and full service history.
+- **Sleeps 4 comfortably** – Features a spacious electric drop-down bed for two adults and an additional bed over the cab.
+- **Spacious lounge area** – Large windows, ample seating, and a drop-down bed for versatility and comfort.
+- **Swivel front seats** – Maximise living space when parked, enhancing comfort.
+- **Fully equipped kitchen** – 3-burner gas cooktop, gas oven with grill, microwave, and a 185L two-door 3-way fridge/freezer.
+- **Private bathroom** – Separate shower and toilet for home-like convenience.
+- **Entertainment system** – Integrated TV and stereo system.
+- **Climate control** – Air conditioning and heating for year-round comfort in any weather.
+- **Smooth driving experience** – Powered by a 3.0L Fiat Ducato turbo diesel engine, automatic 6-speed transmission, and cruise control.
+- **Bullbar installed** – Extra protection for rural and off-road journeys.
+- **Thule 2-bike carrier** – Conveniently bring bikes on your adventures.
+- **Easy wind-out awning with festoon lights** – Create a cosy outdoor space.
+- **Ambient lighting** – LED downlights and feature strip lighting for a warm atmosphere.
+- **Off-grid capabilities** – Solar panels, water tanks, diesel heater, and a 125-litre diesel tank for extended trips.
+- **Outdoor shower** – Hot and cold water for convenience after outdoor activities.
+- **Additional features** – Reversing camera, GPS navigation, ample storage, and a full service history.
 
-**Included:** Camping chairs, table, annex mat.
+Full list of **[features & specifications](specifications/index.md)**.
 
-**Bonus:** Comprehensive **[checklists and guides](guides/index.md)** to help the new owner make the most out of the van quickly. to help you get started quickly.
+**Included Extras:** Camping chairs, table, annex mat.
 
-### Floorplan
+**Bonus:** Comprehensive **[checklists and guides](guides/index.md)** to help the new owner make the most out of the van quickly.
+
+### Layout
 
 <a href="images/floorplan.png" target="_blank">
     <img src="images/floorplan.png" />
@@ -117,9 +119,9 @@ This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 
 
 Make sure that you check out **[Caravan World's review](review/index.md)** of the Avan Ovation M5 from 2016.
 
-**Explore Austalia's hidden gems in comfort and style.** With its one-owner history, low mileage, air conditioning, and rego until May 2025, it’s the perfect choice for your next adventure.
+Explore Australia’s hidden gems in comfort and style. With its one-owner history, low mileage, climate control, and registration valid until May 2025, it’s the perfect choice for your next adventure.
 
-Contact Mikael today on 0422 441 135 or [owner@lillen.au](mailto:owner@lillen.au) to arrange a viewing!
+**Contact Mikael today on 0422 441 135 or [owner@lillen.au](mailto:owner@lillen.au) to arrange a viewing!**
 
 {% include google-analytics.html %}
 
