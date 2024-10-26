@@ -223,7 +223,9 @@ button {
 }
 
 .thumbnail-scroll {
-    display: inline-flex; /* Use inline-flex for horizontal alignment */
+    display: inline-flex;
+    overflow-x: auto; /* Allow horizontal scrolling */
+    white-space: nowrap; /* Prevent thumbnails from wrapping */
 }
 
 .thumbnail {

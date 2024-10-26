@@ -65,7 +65,6 @@ Explore Australia’s hidden gems in comfort and style. With its one-owner histo
 {% include google-analytics.html %}
 
 <script>
-
 const imagesData = [
     { src: "images/lillen.jpg", alt: "Ready for its next adventure!" },
     { src: "images/window.jpg", alt: "Large panoramic rear window offering scenic views" },
@@ -94,7 +93,7 @@ function loadCarouselImages() {
         const imgElement = document.createElement('img');
         imgElement.src = image.src;
         imgElement.alt = image.alt;
-        imgElement.style.display = index === 0 ? 'block' : 'none'; // Show first image by default
+        imgElement.style.display = index === 0 ? 'block' : 'none';
 
         const anchor = document.createElement('a');
         anchor.href = image.src;
@@ -112,7 +111,6 @@ function loadCarouselImages() {
     });
 }
 
-// Show selected image
 function showImage(index) {
     const images = document.querySelectorAll('.carousel-container img');
     const thumbnails = document.querySelectorAll('.thumbnail');
@@ -124,6 +122,10 @@ function showImage(index) {
     // Track and highlight active thumbnail
     thumbnails.forEach((thumb, i) => {
         thumb.classList.toggle('active', i === index);
+        if (i === index) {
+            // Scroll the active thumbnail into view
+            thumb.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+        }
     });
 
     currentIndex = index;
@@ -143,7 +145,7 @@ function previousImage() {
 let currentIndex = 0;
 document.addEventListener('DOMContentLoaded', () => {
     loadCarouselImages();
-    showImage(0); // Show the first image by default
+    showImage(0);
 });
 
 
