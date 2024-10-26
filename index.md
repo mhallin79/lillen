@@ -119,19 +119,27 @@ function loadCarousel() {
     showImage(0);
 }
 
-// Function to show specific image based on index
 function showImage(index) {
     const carouselContainer = document.querySelector(".carousel-container");
     const images = carouselContainer.querySelectorAll("a");
     const caption = document.getElementById("photo-caption");
+    const prevButton = document.querySelector(".prev");
+    const nextButton = document.querySelector(".next");
 
     images.forEach((image, i) => {
         image.style.display = i === index ? "block" : "none"; // Show the current image only
     });
 
+    // Set the height of the prev/next buttons to match the height of the active image
+    const activeImage = images[index].querySelector("img");
+    const activeImageHeight = activeImage.clientHeight;
+    prevButton.style.height = `${activeImageHeight}px`;
+    nextButton.style.height = `${activeImageHeight}px`;
+
     currentIndex = index;
     caption.textContent = images[index].querySelector("img").alt; // Update the footer caption
 }
+
 
 // Functions for navigating images
 function previousImage() {
