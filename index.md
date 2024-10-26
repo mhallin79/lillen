@@ -9,13 +9,13 @@
   <button class="next" onclick="nextImage()">&#10095;</button>
 </div>
 
+<div class="photo-caption" id="photo-caption"></div>
+
 <div class="thumbnails">
   <div class="thumbnail-scroll">
     <!-- Thumbnails will be dynamically loaded here -->
   </div>
 </div>
-
-
 
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
 ## Sleeps 4, Low KM, One Owner, Rego Until May 2025
@@ -114,6 +114,7 @@ function loadCarouselImages() {
 function showImage(index) {
     const images = document.querySelectorAll('.carousel-container img');
     const thumbnails = document.querySelectorAll('.thumbnail');
+    const caption = document.getElementById('photo-caption');
 
     images.forEach((img, i) => {
         img.style.display = i === index ? 'block' : 'none';
@@ -128,8 +129,12 @@ function showImage(index) {
         }
     });
 
+    // Update the photo caption based on the active image alt text
+    caption.textContent = imagesData[index].alt;
+
     currentIndex = index;
 }
+
 
 function nextImage() {
     currentIndex = (currentIndex + 1) % imagesData.length;

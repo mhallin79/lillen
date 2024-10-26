@@ -257,5 +257,5 @@ button {
     text-align: center;
     opacity: 0.8;
     width: 100%;
-    margin-top: 5px; /* Adds space between the carousel and the caption */
+    margin: 5px 0; /* Adds space between the carousel and the thumbnails */
 }
