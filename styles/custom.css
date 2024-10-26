@@ -170,82 +170,68 @@ button {
 
 .carousel {
     position: relative;
-    max-width: 100%;
-    margin: auto;
-    overflow: hidden;
 }
 
-.carousel-container {
-    display: flex;
-    transition: transform 0.5s ease;
+.carousel-container a {
+    display: none;
 }
 
-.carousel img {
-    width: 100%;
-    display: none; /* Hide all images by default */
-}
-
-    .carousel img:first-child {
-        display: block; /* Show the first image */
+    .carousel-container a img {
+        width: 100%;
+        height: auto;
     }
 
-.prev, .next {
-    cursor: pointer;
+.photo-caption {
+    background-color: rgba(0, 0, 0, 0.7); /* Dark background for better readability */
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
     position: absolute;
-    top: 0; /* Align buttons to the top of the carousel */
-    bottom: 0; /* Stretch buttons to the bottom of the carousel */
-    width: 50px; /* Set a fixed width for buttons */
-    background-color: rgba(0, 0, 0, 0.5); /* Transparent background */
-    color: white;
-    font-weight: bold;
-    font-size: 24px;
-    border: none; /* Remove default button borders */
-    padding: 0; /* Remove padding */
-    margin: 0; /* Remove margin */
-    display: flex; /* Use flexbox for centering */
-    align-items: center; /* Center vertically */
-    justify-content: center; /* Center horizontally */
-    transition: background-color 0.3s ease;
-}
-
-.prev {
-    left: 0; /* Position to the left */
-}
-
-.next {
-    right: 0; /* Position to the right */
-}
-
-    .prev:hover, .next:hover {
-        background-color: rgba(0, 0, 0, 0.8); /* Darker on hover */
-    }
-
-.thumbnails {
-    overflow-x: auto; /* Allow horizontal scrolling */
-    white-space: nowrap; /* Prevent thumbnails from wrapping to the next line */
-    margin-top: 10px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    opacity: 0.8;
 }
 
 .thumbnail-scroll {
-    display: inline-flex; /* Use inline-flex for horizontal alignment */
+    display: flex;
+    overflow-x: auto;
 }
 
-.thumbnails img {
-    width: 80px; /* Set a fixed width for thumbnails */
-    height: 60px; /* Set a fixed height for thumbnails */
-    margin: 0 5px;
+.thumbnail {
+    width: 60px;
+    height: 60px;
     cursor: pointer;
-    opacity: 0.6;
-    transition: opacity 0.3s ease;
-    object-fit: cover; /* Crop the image instead of stretching */
+    margin: 5px;
+    border: 2px solid transparent;
+    transition: border 0.3s ease;
 }
 
-    .thumbnails img:hover {
-        opacity: 1;
+    .thumbnail:hover {
+        border: 2px solid #000;
     }
 
-/* Active thumbnail style */
-.thumbnail.active {
-    border: 2px solid #007bff; /* Blue border for active thumbnail */
-    opacity: 1; /* Full opacity for the active thumbnail */
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    font-size: 18px;
+    transition: background 0.3s;
+}
+
+    .prev:hover, .next:hover {
+        background: rgba(0, 0, 0, 0.7);
+    }
+
+.prev {
+    left: 10px;
+}
+
+.next {
+    right: 10px;
 }

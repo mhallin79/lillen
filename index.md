@@ -3,77 +3,16 @@
 
 <div class="carousel">
   <div class="carousel-container">
-      <a href="images/lillen.jpg" target="_blank">
-          <img src="images/lillen.jpg" alt="Lillen" />
-      </a>
-      <a href="images/window.jpg" target="_blank">
-          <img src="images/window.jpg" alt="Panoramic Window" />
-      </a>
-      <a href="images/festoon-lights.jpg" target="_blank">
-          <img src="images/festoon-lights.jpg" alt="Festoon Lights" />
-      </a>
-      <a href="images/left-side.jpg" target="_blank">
-          <img src="images/left-side.jpg" alt="External Left Side" />
-      </a>
-      <a href="images/rear.jpg" target="_blank">
-          <img src="images/rear.jpg" alt="External Rear" />
-      </a>
-      <a href="images/entry.jpg" target="_blank">
-          <img src="images/entry.jpg" alt="External Left Side" />
-      </a>
-      <a href="images/drivers-seat.jpg" target="_blank">
-          <img src="images/drivers-seat.jpg" alt="Drivers Seat" />
-      </a>
-      <a href="images/front-table.jpg" target="_blank">
-          <img src="images/front-table.jpg" alt="Front Table with Swiwel Chairs" />
-      </a>
-     <a href="images/front-table-travelling.jpg" target="_blank">
-          <img src="images/front-table-travelling.jpg" alt="Front Table" />
-      </a>
-      <a href="images/kitchen.jpg" target="_blank">
-          <img src="images/kitchen.jpg" alt="Kitchen" />
-      </a>
-      <a href="images/lounge-area.jpg" target="_blank">
-          <img src="images/lounge-area.jpg" alt="Lounge Area" />
-      </a>
-      <a href="images/bed.jpg" target="_blank">
-          <img src="images/bed.jpg" alt="Bed" />
-      </a>
-      <a href="images/bunk-bed.jpg" target="_blank">
-          <img src="images/bunk-bed.jpg" alt="Bunk Bed" />
-      </a>
-      <a href="images/bathroom.jpg" target="_blank">
-          <img src="images/bathroom.jpg" alt="Bathroom" />
-      </a>
-   <a href="images/shower.jpg" target="_blank">
-          <img src="images/shower.jpg" alt="Shower" />
-      </a>
-      <a href="images/odometer.jpg" target="_blank">
-          <img src="images/odometer.jpg" alt="Odometer" />
-      </a>
+    <!-- Images will be dynamically loaded here -->
   </div>
+  <div class="photo-caption" id="photo-caption"></div>
   <button class="prev" onclick="previousImage()">&#10094;</button>
   <button class="next" onclick="nextImage()">&#10095;</button>
 </div>
 
 <div class="thumbnails">
   <div class="thumbnail-scroll">
-      <img src="images/lillen.jpg" onclick="showImage(0)" alt="Lillen" class="thumbnail" />
-      <img src="images/window.jpg" onclick="showImage(1)" alt="Panoramic Window" class="thumbnail" />
-      <img src="images/festoon-lights.jpg" onclick="showImage(2)" alt="Festoon Lights" class="thumbnail" />
-      <img src="images/left-side.jpg" onclick="showImage(3)" alt="External left side" class="thumbnail" />
-      <img src="images/rear.jpg" onclick="showImage(4)" alt="External Rear" class="thumbnail" />
-      <img src="images/entry.jpg" onclick="showImage(5)" alt="Entry" class="thumbnail" />
-      <img src="images/drivers-seat.jpg" onclick="showImage(6)" alt="Drivers Seat" class="thumbnail" />
-      <img src="images/front-table.jpg" onclick="showImage(7)" alt="Front Table with Swiwel Chairs" class="thumbnail" />
-      <img src="images/front-table-travelling.jpg" onclick="showImage(8)" alt="Front Table (travelling)" class="thumbnail" />
-      <img src="images/kitchen.jpg" onclick="showImage(9)" alt="Kitchen" class="thumbnail" />
-      <img src="images/lounge-area.jpg" onclick="showImage(10)" alt="Lounge Area" class="thumbnail" />
-      <img src="images/bed.jpg" onclick="showImage(11)" alt="Bed" class="thumbnail" />
-      <img src="images/bunk-bed.jpg" onclick="showImage(12)" alt="Bunk Bed" class="thumbnail" />
-      <img src="images/bathroom.jpg" onclick="showImage(13)" alt="Bathroom" class="thumbnail" />
-      <img src="images/shower.jpg" onclick="showImage(14)" alt="Shower" class="thumbnail" />
-      <img src="images/odometer.jpg" onclick="showImage(15)" alt="Odometer" class="thumbnail" />
+    <!-- Thumbnails will be dynamically loaded here -->
   </div>
 </div>
 
@@ -126,38 +65,86 @@ Explore Australia’s hidden gems in comfort and style. With its one-owner histo
 {% include google-analytics.html %}
 
 <script>
-  let currentIndex = 0;
-  const images = document.querySelectorAll('.carousel img');
-  const thumbnails = document.querySelectorAll('.thumbnail');
+  // JavaScript list of images
+const images = [
+    { src: "images/lillen.jpg", alt: "Lillen" },
+    { src: "images/window.jpg", alt: "Panoramic Window" },
+    { src: "images/festoon-lights.jpg", alt: "Festoon Lights" },
+    { src: "images/left-side.jpg", alt: "External Left Side" },
+    { src: "images/rear.jpg", alt: "External Rear" },
+    { src: "images/entry.jpg", alt: "Entry" },
+    { src: "images/drivers-seat.jpg", alt: "Drivers Seat" },
+    { src: "images/front-table.jpg", alt: "Front Table with Swivel Chairs" },
+    { src: "images/front-table-travelling.jpg", alt: "Front Table (Travelling)" },
+    { src: "images/kitchen.jpg", alt: "Kitchen" },
+    { src: "images/lounge-area.jpg", alt: "Lounge Area" },
+    { src: "images/bed.jpg", alt: "Bed" },
+    { src: "images/bunk-bed.jpg", alt: "Bunk Bed" },
+    { src: "images/bathroom.jpg", alt: "Bathroom" },
+    { src: "images/shower.jpg", alt: "Shower" },
+    { src: "images/odometer.jpg", alt: "Odometer" }
+];
 
-  function showImage(index) {
+let currentIndex = 0;
+
+// Function to create the carousel and thumbnails
+function loadCarousel() {
+    const carouselContainer = document.querySelector(".carousel-container");
+    const thumbnailScroll = document.querySelector(".thumbnail-scroll");
+
+    images.forEach((image, index) => {
+        // Create main carousel images
+        const anchor = document.createElement("a");
+        anchor.href = image.src;
+        anchor.target = "_blank";
+
+        const img = document.createElement("img");
+        img.src = image.src;
+        img.alt = image.alt;
+
+        anchor.appendChild(img);
+        carouselContainer.appendChild(anchor);
+
+        // Create thumbnails
+        const thumb = document.createElement("img");
+        thumb.src = image.src;
+        thumb.alt = image.alt;
+        thumb.classList.add("thumbnail");
+        thumb.setAttribute("onclick", `showImage(${index})`);
+        
+        thumbnailScroll.appendChild(thumb);
+    });
+
+    // Show the first image and update footer
+    showImage(0);
+}
+
+// Function to show specific image based on index
+function showImage(index) {
+    const carouselContainer = document.querySelector(".carousel-container");
+    const images = carouselContainer.querySelectorAll("a");
+    const caption = document.getElementById("photo-caption");
+
+    images.forEach((image, i) => {
+        image.style.display = i === index ? "block" : "none"; // Show the current image only
+    });
+
     currentIndex = index;
-    images.forEach((img, i) => {
-      img.style.display = (i === index) ? 'block' : 'none';
-    });
-    updateThumbnails();
-  }
+    caption.textContent = images[index].querySelector("img").alt; // Update the footer caption
+}
 
-  function nextImage() {
-    currentIndex = (currentIndex + 1) % images.length;
-    showImage(currentIndex);
-  }
+// Functions for navigating images
+function previousImage() {
+    const newIndex = (currentIndex - 1 + images.length) % images.length;
+    showImage(newIndex);
+}
 
-  function previousImage() {
-    currentIndex = (currentIndex - 1 + images.length) % images.length;
-    showImage(currentIndex);
-  }
+function nextImage() {
+    const newIndex = (currentIndex + 1) % images.length;
+    showImage(newIndex);
+}
 
-  function updateThumbnails() {
-    thumbnails.forEach((thumb, i) => {
-      thumb.classList.toggle('active', i === currentIndex);
-    });
-  }
+// Initialize the carousel
+document.addEventListener("DOMContentLoaded", loadCarousel);
 
-  thumbnails.forEach((thumb, index) => {
-    thumb.addEventListener('click', () => showImage(index));
-  });
-
-  // Automatically show the first image
-  showImage(currentIndex);
 </script>
