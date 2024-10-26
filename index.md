@@ -3,7 +3,7 @@
 
 <div class="carousel">
   <div class="carousel-container">
-    <!-- Images will be loaded dynamically via JavaScript -->
+    <!-- Images will be dynamically loaded here -->
   </div>
   <button class="prev" onclick="previousImage()">&#10094;</button>
   <button class="next" onclick="nextImage()">&#10095;</button>
@@ -11,9 +11,10 @@
 
 <div class="thumbnails">
   <div class="thumbnail-scroll">
-    <!-- Thumbnails will be loaded dynamically via JavaScript -->
+    <!-- Thumbnails will be dynamically loaded here -->
   </div>
 </div>
+
 
 
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
@@ -66,7 +67,7 @@ Explore Australia’s hidden gems in comfort and style. With its one-owner histo
 <script>
 
 const imagesData = [
-    { src: "images/lillen.jpg", alt: "Ready for it's next adventure!" },
+    { src: "images/lillen.jpg", alt: "Ready for its next adventure!" },
     { src: "images/window.jpg", alt: "Large panoramic rear window offering scenic views" },
     { src: "images/festoon-lights.jpg", alt: "Spacious awning with festoon lights, compatible with 12V & 240V" },
     { src: "images/left-side.jpg", alt: "Left side view of the motorhome exterior" },
@@ -84,59 +85,67 @@ const imagesData = [
     { src: "images/odometer.jpg", alt: "Odometer showing less than 28,000 KM, reflecting low mileage" }
 ];
 
-// Function to load images into the carousel and thumbnails dynamically
-function loadImages() {
+// Function to dynamically load images and thumbnails
+function loadCarouselImages() {
     const carouselContainer = document.querySelector('.carousel-container');
     const thumbnailScroll = document.querySelector('.thumbnail-scroll');
 
+    // Load carousel images
     imagesData.forEach((image, index) => {
-        // Create the main carousel images
         const imgElement = document.createElement('img');
         imgElement.src = image.src;
         imgElement.alt = image.alt;
-        imgElement.style.display = 'none'; // Hide all by default
-        carouselContainer.appendChild(imgElement);
+        imgElement.style.display = index === 0 ? 'block' : 'none'; // Show first image by default
 
-        // Create the thumbnail images
+        const anchor = document.createElement('a');
+        anchor.href = image.src;
+        anchor.target = "_blank";
+        anchor.appendChild(imgElement);
+        carouselContainer.appendChild(anchor);
+
+        // Create corresponding thumbnail
         const thumbnail = document.createElement('img');
         thumbnail.src = image.src;
         thumbnail.alt = image.alt;
         thumbnail.classList.add('thumbnail');
-        thumbnail.onclick = () => showImage(index);
+        thumbnail.addEventListener('click', () => showImage(index));
         thumbnailScroll.appendChild(thumbnail);
     });
-
-    // Automatically show the first image
-    showImage(0);
 }
 
-let currentIndex = 0;
-
+// Show selected image
 function showImage(index) {
-    currentIndex = index;
     const images = document.querySelectorAll('.carousel-container img');
     const thumbnails = document.querySelectorAll('.thumbnail');
 
     images.forEach((img, i) => {
-        img.style.display = (i === index) ? 'block' : 'none';
+        img.style.display = i === index ? 'block' : 'none';
     });
 
     thumbnails.forEach((thumb, i) => {
         thumb.classList.toggle('active', i === index);
     });
+    currentIndex = index;
 }
 
+// Navigate to the next image
 function nextImage() {
     currentIndex = (currentIndex + 1) % imagesData.length;
     showImage(currentIndex);
 }
 
+// Navigate to the previous image
 function previousImage() {
     currentIndex = (currentIndex - 1 + imagesData.length) % imagesData.length;
     showImage(currentIndex);
 }
 
-// Load images when the document is ready
-document.addEventListener('DOMContentLoaded', loadImages);
+// Initialize
+let currentIndex = 0;
+document.addEventListener('DOMContentLoaded', () => {
+    loadCarouselImages();
+    showImage(0); // Show the first image by default
+});
+
 
 </script>
