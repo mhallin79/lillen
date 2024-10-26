@@ -66,22 +66,18 @@ Explore Australia’s hidden gems in comfort and style. With its one-owner histo
 <script>
 // Define the images array
 const images = [
-    { src: "images/lillen.jpg", alt: "Ready for it's next adventure!" },
-    { src: "images/window.jpg", alt: "Large panoramic rear window offering scenic views" },
-    { src: "images/festoon-lights.jpg", alt: "Spacious awning with festoon lights, compatible with 12V & 240V" },
-    { src: "images/left-side.jpg", alt: "Left side view of the motorhome exterior" },
-    { src: "images/rear.jpg", alt: "Rear view with Thule bike racks attached" },
-    { src: "images/entry.jpg", alt: "Entry door providing easy access to the interior" },
-    { src: "images/drivers-seat.jpg", alt: "Comfortable driver's seat for long journeys" },
-    { src: "images/front-table.jpg", alt: "Front table setup with swivel chairs, ideal for dining and relaxation" },
-    { src: "images/front-table-travelling.jpg", alt: "Compact front table configuration while traveling" },
-    { src: "images/kitchen.jpg", alt: "Fully equipped kitchen with modern amenities" },
-    { src: "images/lounge-area.jpg", alt: "Comfortable lounge area with large windows for natural light" },
-    { src: "images/bed.jpg", alt: "Spacious electric drop-down bed for two adults" },
-    { src: "images/bunk-bed.jpg", alt: "Bunk bed over the cab for additional sleeping space" },
-    { src: "images/bathroom.jpg", alt: "Well-designed bathroom with a separate shower stall" },
-    { src: "images/shower.jpg", alt: "Private shower area with hot and cold water options" },
-    { src: "images/odometer.jpg", alt: "Odometer showing less than 28,000 KM, reflecting low mileage" }
+    { src: "images/lillen.jpg", alt: "Lillen" },
+    { src: "images/window.jpg", alt: "Panoramic Window" },
+    { src: "images/festoon-lights.jpg", alt: "Festoon Lights" },
+    { src: "images/left-side.jpg", alt: "External Left Side" },
+    { src: "images/rear.jpg", alt: "External Rear" },
+    { src: "images/drivers-seat.jpg", alt: "Drivers Seat" },
+    { src: "images/front-table.jpg", alt: "Front Table" },
+    { src: "images/kitchen.jpg", alt: "Kitchen" },
+    { src: "images/lounge-area.jpg", alt: "Lounge Area" },
+    { src: "images/bed.jpg", alt: "Bed" },
+    { src: "images/bunk-bed.jpg", alt: "Bunk Bed" },
+    { src: "images/odometer.jpg", alt: "Odometer" }
 ];
 
 // Function to load images into the carousel and thumbnails dynamically
