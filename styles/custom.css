@@ -170,74 +170,82 @@ button {
 
 .carousel {
     position: relative;
+    max-width: 100%;
+    margin: auto;
+    overflow: hidden;
 }
 
-.carousel-container a {
-    display: none;
-}
-
-    .carousel-container a img {
-        width: 100%;
-        height: auto;
-    }
-
-.photo-caption {
-    background-color: rgba(0, 0, 0, 0.7); /* Dark background for better readability */
-    color: #fff;
-    padding: 10px;
-    font-size: 14px;
-    text-align: center;
-    opacity: 0.8;
-    width: 100%;
-    margin-top: 5px; /* Adds space between the carousel and the caption */
-}
-
-.thumbnail-scroll {
+.carousel-container {
     display: flex;
-    overflow-x: auto;
+    transition: transform 0.5s ease;
 }
 
-.thumbnail {
-    width: 60px;
-    height: 60px;
-    cursor: pointer;
-    margin: 5px;
-    border: 2px solid transparent;
-    transition: border 0.3s ease;
+.carousel img {
+    width: 100%;
+    display: none; /* Hide all images by default */
 }
 
-    .thumbnail:hover {
-        border: 2px solid #000;
+    .carousel img:first-child {
+        display: block; /* Show the first image */
     }
-
-.active-thumbnail {
-    border: 2px solid #007bff; /* Highlight active thumbnail */
-}
 
 .prev, .next {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    background: rgba(0, 0, 0, 0.5);
-    color: #fff;
-    padding: 10px;
     cursor: pointer;
-    border: none;
-    font-size: 18px;
-    transition: background 0.3s;
-    width: 50px; /* Adjust width as needed */
-    opacity: 0.7;
-    z-index: 5; /* Ensure buttons are above images */
+    position: absolute;
+    top: 0; /* Align buttons to the top of the carousel */
+    bottom: 0; /* Stretch buttons to the bottom of the carousel */
+    width: 50px; /* Set a fixed width for buttons */
+    background-color: rgba(0, 0, 0, 0.5); /* Transparent background */
+    color: white;
+    font-weight: bold;
+    font-size: 24px;
+    border: none; /* Remove default button borders */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+    display: flex; /* Use flexbox for centering */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+    transition: background-color 0.3s ease;
 }
 
-    .prev:hover, .next:hover {
-        background: rgba(0, 0, 0, 0.7);
-    }
-
 .prev {
-    left: 0;
+    left: 0; /* Position to the left */
 }
 
 .next {
-    right: 0;
+    right: 0; /* Position to the right */
+}
+
+    .prev:hover, .next:hover {
+        background-color: rgba(0, 0, 0, 0.8); /* Darker on hover */
+    }
+
+.thumbnails {
+    overflow-x: auto; /* Allow horizontal scrolling */
+    white-space: nowrap; /* Prevent thumbnails from wrapping to the next line */
+    margin-top: 10px;
+}
+
+.thumbnail-scroll {
+    display: inline-flex; /* Use inline-flex for horizontal alignment */
+}
+
+.thumbnails img {
+    width: 80px; /* Set a fixed width for thumbnails */
+    height: 60px; /* Set a fixed height for thumbnails */
+    margin: 0 5px;
+    cursor: pointer;
+    opacity: 0.6;
+    transition: opacity 0.3s ease;
+    object-fit: cover; /* Crop the image instead of stretching */
+}
+
+    .thumbnails img:hover {
+        opacity: 1;
+    }
+
+/* Active thumbnail style */
+.thumbnail.active {
+    border: 2px solid #007bff; /* Blue border for active thumbnail */
+    opacity: 1; /* Full opacity for the active thumbnail */
 }

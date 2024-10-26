@@ -3,18 +3,39 @@
 
 <div class="carousel">
   <div class="carousel-container">
-    <!-- Images will be dynamically loaded here -->
+      <img src="images/lillen.jpg" alt="Lillen" />
+      <img src="images/window.jpg" alt="Panoramic Window" />
+      <img src="images/festoon-lights.jpg" alt="Festoon Lights" />
+      <img src="images/left-side.jpg" alt="External Left Side" />
+      <img src="images/rear.jpg" alt="External Rear" />
+      <img src="images/drivers-seat.jpg" alt="Drivers Seat" />
+      <img src="images/front-table.jpg" alt="Front Table" />
+      <img src="images/kitchen.jpg" alt="Kitchen" />
+      <img src="images/lounge-area.jpg" alt="Lounge Area" />
+      <img src="images/bed.jpg" alt="Bed" />
+      <img src="images/bunk-bed.jpg" alt="Bunk Bed" />
+      <img src="images/odometer.jpg" alt="Odometer" />
   </div>
   <button class="prev" onclick="previousImage()">&#10094;</button>
   <button class="next" onclick="nextImage()">&#10095;</button>
 </div>
 
-<div class="photo-caption" id="photo-caption"></div>
-
 <div class="thumbnails">
   <div class="thumbnail-scroll">
-    <!-- Thumbnails will be dynamically loaded here -->
-  </div>
+      <img src="images/lillen.jpg" onclick="showImage(0)" alt="Lillen" class="thumbnail" />
+ 
+      <img src="images/window.jpg" onclick="showImage(1)" alt="Panoramic Window" class="thumbnail" />
+      <img src="images/festoon-lights.jpg" onclick="showImage(2)" alt="Festoon Lights" class="thumbnail" />
+      <img src="images/left-side.jpg" onclick="showImage(3)" alt="External left side" class="thumbnail" />
+      <img src="images/rear.jpg" onclick="showImage(4)" alt="External Rear" class="thumbnail" />
+      <img src="images/drivers-seat.jpg" onclick="showImage(5)" alt="Drivers Seat" class="thumbnail" />
+      <img src="images/front-table.jpg" onclick="showImage(6)" alt="Front Table" class="thumbnail" />
+      <img src="images/kitchen.jpg" onclick="showImage(7)" alt="Kitchen" class="thumbnail" />
+      <img src="images/lounge-area.jpg" onclick="showImage(8)" alt="Lounge Area" class="thumbnail" />
+      <img src="images/bed.jpg" onclick="showImage(9)" alt="Bed" class="thumbnail" />
+      <img src="images/bunk-bed.jpg" onclick="showImage(10)" alt="Bunk Bed" class="thumbnail" />
+      <img src="images/odometer.jpg" onclick="showImage(11)" alt="Odometer" class="thumbnail" />
+    </div>
 </div>
 
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
@@ -65,95 +86,34 @@ Explore Australia’s hidden gems in comfort and style. With its one-owner histo
 {% include google-analytics.html %}
 
 <script>
-// JavaScript list of images
-const images = [
-    { src: "images/lillen.jpg", alt: "Ready for it's next adventure!" },
-    { src: "images/window.jpg", alt: "Large panoramic rear window offering scenic views" },
-    { src: "images/festoon-lights.jpg", alt: "Spacious awning with festoon lights, compatible with 12V & 240V" },
-    { src: "images/left-side.jpg", alt: "Left side view of the motorhome exterior" },
-    { src: "images/rear.jpg", alt: "Rear view with Thule bike racks attached" },
-    { src: "images/entry.jpg", alt: "Entry door providing easy access to the interior" },
-    { src: "images/drivers-seat.jpg", alt: "Comfortable driver's seat for long journeys" },
-    { src: "images/front-table.jpg", alt: "Front table setup with swivel chairs, ideal for dining and relaxation" },
-    { src: "images/front-table-travelling.jpg", alt: "Compact front table configuration while traveling" },
-    { src: "images/kitchen.jpg", alt: "Fully equipped kitchen with modern amenities" },
-    { src: "images/lounge-area.jpg", alt: "Comfortable lounge area with large windows for natural light" },
-    { src: "images/bed.jpg", alt: "Spacious electric drop-down bed for two adults" },
-    { src: "images/bunk-bed.jpg", alt: "Bunk bed over the cab for additional sleeping space" },
-    { src: "images/bathroom.jpg", alt: "Well-designed bathroom with a separate shower stall" },
-    { src: "images/shower.jpg", alt: "Private shower area with hot and cold water options" },
-    { src: "images/odometer.jpg", alt: "Odometer showing less than 28,000 KM, reflecting low mileage" }
-];
+   let currentIndex = 0;
+  const images = document.querySelectorAll('.carousel img');
+  const thumbnails = document.querySelectorAll('.thumbnail');
 
-let currentIndex = 0;
-
-// Function to create the carousel and thumbnails
-function loadCarousel() {
-    const carouselContainer = document.querySelector(".carousel-container");
-    const thumbnailScroll = document.querySelector(".thumbnail-scroll");
-
-    images.forEach((image, index) => {
-        // Create main carousel images
-        const anchor = document.createElement("a");
-        anchor.href = image.src;
-        anchor.target = "_blank";
-
-        const img = document.createElement("img");
-        img.src = image.src;
-        img.alt = image.alt;
-
-        anchor.appendChild(img);
-        carouselContainer.appendChild(anchor);
-
-        // Create thumbnails
-        const thumb = document.createElement("img");
-        thumb.src = image.src;
-        thumb.alt = image.alt;
-        thumb.classList.add("thumbnail");
-        thumb.setAttribute("onclick", `showImage(${index})`);
-        
-        thumbnailScroll.appendChild(thumb);
-    });
-
-    // Show the first image and update caption
-    showImage(0);
-}
-
-function showImage(index) {
-    const carouselContainer = document.querySelector(".carousel-container");
-    const images = carouselContainer.querySelectorAll("a");
-    const caption = document.getElementById("photo-caption");
-    const prevButton = document.querySelector(".prev");
-    const nextButton = document.querySelector(".next");
-
-    images.forEach((image, i) => {
-        image.style.display = i === index ? "block" : "none"; // Show the current image only
-    });
-
-    // Set the height of the prev/next buttons to match the height of the active image
-    const activeImage = images[index].querySelector("img");
-    const activeImageHeight = activeImage.clientHeight;
-    prevButton.style.height = `${activeImageHeight}px`;
-    nextButton.style.height = `${activeImageHeight}px`;
-
+  function showImage(index) {
     currentIndex = index;
-    caption.textContent = images[index].querySelector("img").alt; // Update the footer caption
-}
+    images.forEach((img, i) => {
+      img.style.display = (i === index) ? 'block' : 'none';
+    });
+    updateThumbnails();
+  }
 
+  function nextImage() {
+    currentIndex = (currentIndex + 1) % images.length;
+    showImage(currentIndex);
+  }
 
-// Functions for navigating images
-function previousImage() {
-    const newIndex = (currentIndex - 1 + images.length) % images.length;
-    showImage(newIndex);
-}
+  function previousImage() {
+    currentIndex = (currentIndex - 1 + images.length) % images.length;
+    showImage(currentIndex);
+  }
 
-function nextImage() {
-    const newIndex = (currentIndex + 1) % images.length;
-    showImage(newIndex);
-}
+  function updateThumbnails() {
+    thumbnails.forEach((thumb, i) => {
+      thumb.classList.toggle('active', i === currentIndex);
+    });
+  }
 
-// Initialize the carousel
-document.addEventListener("DOMContentLoaded", loadCarousel);
-
-
+  // Automatically show the first image
+  showImage(currentIndex);
 </script>
