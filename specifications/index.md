@@ -27,7 +27,7 @@ title: Caravan World &#8729; Reviews
 - 6 Speed automatic (MTA) gearbox
 - Special motorhome chassis: lower, lighter, stronger with greater torsional stiffness
 - Wider rear track (1980mm) for enhanced stability, safety & living space
-- 125 Litre diesel fuel tank
+- 125-Litre diesel fuel tank
 - Licensed to carry 4 passengers
 - Swivel seats with dual arm rests
 - Factory colour-coded painted bumper
@@ -42,9 +42,10 @@ title: Caravan World &#8729; Reviews
 - Double-glazed opening windows
 - Fully integrated screen & blind system
 - En-suite inc. separate shower, vanity & toilet
-- Microwave oven
+- Hot and cold water outdoor shower
 - Fully equipped kitchen
-- Hot water service
+- Microwave oven
+- 28-Liter dual (Gas & 240V Electric) hot water system. 
 - Multi-adjustable double bed (where fitted)
 - Roof-mounted air conditioner
 - Swivel front seats for driver & passenger
@@ -64,7 +65,8 @@ title: Caravan World &#8729; Reviews
 - 12 Volt control panel with battery and water level indicator
 - Lockable water filler
 - Wind-up TV antenna
-- Awning light
+- Awning festoon light
+- Thule 2-bike carrier
 - Bathroom roof-hatch
 - Opening sky-light with integrated fly screen and blind system
 - Gas-assisted bed struts for extra storage
