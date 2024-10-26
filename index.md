@@ -85,7 +85,6 @@ const imagesData = [
     { src: "images/odometer.jpg", alt: "Odometer showing less than 28,000 KM, reflecting low mileage" }
 ];
 
-// Function to dynamically load images and thumbnails
 function loadCarouselImages() {
     const carouselContainer = document.querySelector('.carousel-container');
     const thumbnailScroll = document.querySelector('.thumbnail-scroll');
@@ -122,19 +121,19 @@ function showImage(index) {
         img.style.display = i === index ? 'block' : 'none';
     });
 
+    // Track and highlight active thumbnail
     thumbnails.forEach((thumb, i) => {
         thumb.classList.toggle('active', i === index);
     });
+
     currentIndex = index;
 }
 
-// Navigate to the next image
 function nextImage() {
     currentIndex = (currentIndex + 1) % imagesData.length;
     showImage(currentIndex);
 }
 
-// Navigate to the previous image
 function previousImage() {
     currentIndex = (currentIndex - 1 + imagesData.length) % imagesData.length;
     showImage(currentIndex);
