@@ -3,7 +3,7 @@
 
 <div class="carousel">
   <div class="carousel-container">
-    <!-- Images will be loaded dynamically via JavaScript -->
+    <!-- Images will be dynamically loaded here -->
   </div>
   <button class="prev" onclick="previousImage()">&#10094;</button>
   <button class="next" onclick="nextImage()">&#10095;</button>
@@ -11,7 +11,7 @@
 
 <div class="thumbnails">
   <div class="thumbnail-scroll">
-    <!-- Thumbnails will be loaded dynamically via JavaScript -->
+    <!-- Thumbnails will be dynamically loaded here -->
   </div>
 </div>
 
@@ -66,7 +66,7 @@ Explore Australia’s hidden gems in comfort and style. With its one-owner histo
 <script>
 
 const imagesData = [
-    { src: "images/lillen.jpg", alt: "Ready for it's next adventure!" },
+    { src: "images/lillen.jpg", alt: "Ready for its next adventure!" },
     { src: "images/window.jpg", alt: "Large panoramic rear window offering scenic views" },
     { src: "images/festoon-lights.jpg", alt: "Spacious awning with festoon lights, compatible with 12V & 240V" },
     { src: "images/left-side.jpg", alt: "Left side view of the motorhome exterior" },
@@ -84,20 +84,25 @@ const imagesData = [
     { src: "images/odometer.jpg", alt: "Odometer showing less than 28,000 KM, reflecting low mileage" }
 ];
 
-// Function to load images into the carousel and thumbnails dynamically
 function loadImages() {
     const carouselContainer = document.querySelector('.carousel-container');
     const thumbnailScroll = document.querySelector('.thumbnail-scroll');
 
     imagesData.forEach((image, index) => {
-        // Create the main carousel images
+        // Main carousel images wrapped in anchor tags for clickable action
+        const anchor = document.createElement('a');
+        anchor.href = image.src;
+        anchor.target = "_blank";
+
         const imgElement = document.createElement('img');
         imgElement.src = image.src;
         imgElement.alt = image.alt;
         imgElement.style.display = 'none'; // Hide all by default
-        carouselContainer.appendChild(imgElement);
 
-        // Create the thumbnail images
+        anchor.appendChild(imgElement);
+        carouselContainer.appendChild(anchor);
+
+        // Thumbnails
         const thumbnail = document.createElement('img');
         thumbnail.src = image.src;
         thumbnail.alt = image.alt;
@@ -114,11 +119,11 @@ let currentIndex = 0;
 
 function showImage(index) {
     currentIndex = index;
-    const images = document.querySelectorAll('.carousel-container img');
+    const images = document.querySelectorAll('.carousel-container a');
     const thumbnails = document.querySelectorAll('.thumbnail');
 
-    images.forEach((img, i) => {
-        img.style.display = (i === index) ? 'block' : 'none';
+    images.forEach((anchor, i) => {
+        anchor.style.display = (i === index) ? 'block' : 'none';
     });
 
     thumbnails.forEach((thumb, i) => {
@@ -138,5 +143,6 @@ function previousImage() {
 
 // Load images when the document is ready
 document.addEventListener('DOMContentLoaded', loadImages);
+
 
 </script>
