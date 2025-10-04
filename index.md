@@ -18,31 +18,31 @@
 </div>
 
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
-## Sleeps 4, Low KM, One Owner, Rego Until May 2025
+## Sleeps 4, Low KM, One Owner, **Registered Until May 2026**
 
-This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 28,000 km and is fully equipped for comfort, adventure, and extended trips. Registered until May 2025, it's road-ready for your next journey, offering a **very comfortable and easy-to-drive** experience.
+This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 28,000 km and is fully equipped for comfort, adventure, and extended trips. **Registered until May 2026 with a normal car licence (no special licence required)**, it's road-ready for your next journey, offering a **very comfortable and easy-to-drive** experience.
 
-**Price:** $139,990  
-**Location:** Woy Woy, NSW  
-**Mileage:** 28,000 km  
+**Price:** $120,000
+**Location:** Woy Woy, NSW
+**Mileage:** 28,000 km
 
 ### Key Features
 
-- **Sleeps 4 comfortably** – Features a spacious electric drop-down bed for two adults and an additional bed over the cab.
-- **Spacious lounge area** – Large windows, ample seating, and a drop-down bed for versatility and comfort.
-- **Swivel front seats** – Maximise living space when parked, enhancing comfort.
-- **Fully equipped kitchen** – 3-burner gas cooktop, gas oven with grill, microwave, and a 185L two-door 3-way fridge/freezer.
-- **Private bathroom** – Separate shower and toilet for home-like convenience.
-- **Entertainment system** – Integrated TV and stereo system.
-- **Climate control** – Air conditioning and heating for year-round comfort in any weather.
-- **Smooth driving experience** – Powered by a 3.0L Fiat Ducato turbo diesel engine, automatic 6-speed transmission, and cruise control.
-- **Bullbar installed** – Extra protection for rural and off-road journeys.
-- **Thule 2-bike carrier** – Conveniently bring bikes on your adventures.
-- **Easy wind-out awning with festoon lights** – Create a cosy outdoor space.
-- **Ambient lighting** – LED downlights and feature strip lighting for a warm atmosphere.
-- **Off-grid capabilities** – Solar panels, water tanks, diesel heater, and a 125-litre diesel tank for extended trips.
-- **Outdoor shower** – Hot and cold water for convenience after outdoor activities.
-- **Additional features** – Reversing camera, GPS navigation, ample storage, and a full service history.
+* **Sleeps 4 comfortably** – Features a spacious electric drop-down bed for two adults and an additional bed over the cab.
+* **Spacious lounge area** – Large windows, ample seating, and a drop-down bed for versatility and comfort.
+* **Swivel front seats** – Maximise living space when parked, enhancing comfort.
+* **Fully equipped kitchen** – 3-burner gas cooktop, gas oven with grill, microwave, and a 185L two-door 3-way fridge/freezer.
+* **Private bathroom** – Separate shower and toilet for home-like convenience.
+* **Entertainment system** – Integrated TV and stereo system.
+* **Climate control** – Air conditioning and heating for year-round comfort in any weather.
+* **Smooth driving experience** – Powered by a 3.0L Fiat Ducato turbo diesel engine, automatic 6-speed transmission, and cruise control.
+* **Bullbar installed** – Extra protection for rural and off-road journeys.
+* **Thule 2-bike carrier** – Conveniently bring bikes on your adventures.
+* **Easy wind-out awning with festoon lights** – Create a cosy outdoor space.
+* **Ambient lighting** – LED downlights and feature strip lighting for a warm atmosphere.
+* **Off-grid capabilities** – Solar panels, water tanks, diesel heater, and a 125-litre diesel tank for extended trips.
+* **Outdoor shower** – Hot and cold water for convenience after outdoor activities.
+* **Additional features** – Reversing camera, GPS navigation, ample storage, and a full service history.
 
 Full list of **[features & specifications](specifications/index.md)**.
 
