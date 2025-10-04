@@ -22,9 +22,9 @@
 
 This one-owner, well-maintained 2016 Avan Ovation M5 C-Class motorhome has only 28,000 km and is fully equipped for comfort, adventure, and extended trips. **Registered until May 2026 with a normal car licence (no special licence required)**, it's road-ready for your next journey, offering a **very comfortable and easy-to-drive** experience.
 
-**Price:** $120,000
-**Location:** Woy Woy, NSW
-**Mileage:** 28,000 km
+**Price:** $120,000  
+**Location:** Woy Woy, NSW  
+**Mileage:** 28,000 km  
 
 ### Key Features
 
