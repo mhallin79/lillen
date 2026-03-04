@@ -17,6 +17,7 @@
   </div>
 </div>
 
+# SOLD
 # For Sale: 2016 Avan Ovation M5 C-Class Motorhome
 ## Sleeps 4, Low KM, One Owner, **Registered Until May 2026**
 
@@ -59,8 +60,6 @@ Full list of **[features & specifications](specifications/index.md)**.
 Make sure that you check out **[Caravan World's review](review/index.md)** of the Avan Ovation M5 from 2016.
 
 Explore Australia’s hidden gems in comfort and style. With its one-owner history, low mileage, climate control, and registration valid until May 2025, it’s the perfect choice for your next adventure.
-
-**Contact Mikael today on 0422 441 135 or [owner@lillen.au](mailto:owner@lillen.au) to arrange a viewing!**
 
 {% include google-analytics.html %}
 
